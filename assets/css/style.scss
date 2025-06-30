@@ -1,0 +1,226 @@
+---
+---
+
+@import "minima";
+
+/* Hero Section - The blue header area */
+.hero-section {
+    background: linear-gradient(135deg, #34495e, #3498db);
+    color: white;
+    padding: 4rem 0;
+    text-align: center;
+    
+    .hero-content {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 0 2rem;
+        
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+            font-weight: 300;
+        }
+        
+        h2 {
+            font-size: 2rem;
+            margin-bottom: 1rem;
+            font-weight: 400;
+        }
+        
+        p {
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }
+    }
+}
+
+/* Navigation Menu */
+.site-nav {
+    background: #2c3e50;
+    padding: 0;
+    
+    .nav-container {
+        max-width: 1200px;
+        margin: 0 auto;
+        display: flex;
+        
+        a {
+            color: white;
+            padding: 1rem 1.5rem;
+            text-decoration: none;
+            transition: background 0.3s;
+            
+            &:hover {
+                background: #1a252f;
+            }
+        }
+    }
+}
+
+/* Dropdown Menu for Methods */
+.dropdown {
+    position: relative;
+    display: inline-block;
+    
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background: #1a252f;
+        min-width: 200px;
+        box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
+        z-index: 1;
+        
+        a {
+            display: block;
+            padding: 0.8rem 1rem;
+            
+            &:hover {
+                background: #34495e;
+            }
+        }
+    }
+    
+    &:hover .dropdown-content {
+        display: block;
+    }
+}
+
+/* Collapsible Sections - The expanding boxes */
+.collapsible {
+    background-color: #f8f9fa;
+    color: #333;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 18px;
+    font-weight: 500;
+    border-radius: 5px;
+    margin: 10px 0;
+    transition: background-color 0.3s;
+    border: 1px solid #dee2e6;
+    
+    &:hover {
+        background-color: #e9ecef;
+    }
+    
+    &.active {
+        background-color: #3498db;
+        color: white;
+    }
+    
+    /* The + and - symbols */
+    &:after {
+        content: '+';
+        font-weight: bold;
+        float: right;
+        margin-left: 5px;
+        font-size: 20px;
+    }
+    
+    &.active:after {
+        content: "−";
+    }
+}
+
+/* Content inside collapsible sections */
+.collapsible-content {
+    padding: 0 18px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out;
+    background-color: white;
+    border-radius: 0 0 5px 5px;
+    border-left: 1px solid #dee2e6;
+    border-right: 1px solid #dee2e6;
+    border-bottom: 1px solid #dee2e6;
+    
+    &.active {
+        padding: 18px;
+    }
+}
+
+/* Content area styling */
+.page-content {
+    padding: 2rem 0;
+    min-height: 60vh;
+}
+
+.wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2rem;
+}
+
+/* Footer */
+.site-footer {
+    background: #34495e;
+    color: white;
+    padding: 2rem 0;
+    margin-top: 3rem;
+    
+    p {
+        margin: 0;
+        text-align: center;
+    }
+}
+
+/* Responsive Design - Mobile phones */
+@media (max-width: 768px) {
+    .hero-content h1 {
+        font-size: 2rem;
+    }
+    
+    .hero-content h2 {
+        font-size: 1.5rem;
+    }
+    
+    .nav-container {
+        flex-direction: column;
+        
+        a {
+            text-align: center;
+        }
+    }
+    
+    .dropdown .dropdown-content {
+        position: static;
+        display: block;
+        box-shadow: none;
+    }
+}
+
+/* Buttons and links */
+.btn {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background: #3498db;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background 0.3s;
+    
+    &:hover {
+        background: #2980b9;
+        color: white;
+    }
+}
+
+/* Code blocks */
+pre, code {
+    background: #f8f9fa;
+    border: 1px solid #e9ecef;
+    border-radius: 4px;
+}
+
+pre {
+    padding: 1rem;
+    overflow-x: auto;
+}
+
+code {
+    padding: 0.2rem 0.4rem;
+    font-size: 0.9em;
+}
