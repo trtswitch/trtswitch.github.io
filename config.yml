@@ -1,4 +1,3 @@
-# Site settings
 title: "ASA Biopharmaceutical Section"
 description: "Oncology Treatment Switch Workstream"
 baseurl: "/trtswitch-website"
@@ -7,7 +6,7 @@ url: "https://shreyasreeram27.github.io"
 # Build settings
 markdown: kramdown
 highlighter: rouge
-theme: minima
+# Remove the theme line completely - let GitHub Pages use default
 
 # Navigation menu items
 header_pages:
