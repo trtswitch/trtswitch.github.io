@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title | default: site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+    <!-- Header Section -->
+    <header class="site-header">
+        <div class="hero-section">
+            <div class="hero-content">
+                <h1>ASA Biopharmaceutical Section</h1>
+                <h2>{{ site.workstream.title }}</h2>
+                <p>{{ site.workstream.description }}</p>
+            </div>
+        </div>
+        
+        <!-- Navigation Menu -->
+        <nav class="site-nav">
+            <div class="nav-container">
+                <a href="{{ '/' | relative_url }}">Home</a>
+                <a href="{{ '/objectives' | relative_url }}">Objectives</a>
+                <div class="dropdown">
+                    <a href="{{ '/methods' | relative_url }}">Methods ▼</a>
+                    <div class="dropdown-content">
+                        <a href="{{ '/methods#rpsftm' | relative_url }}">RPSFTM</a>
+                        <a href="{{ '/methods#ipe' | relative_url }}">IPE</a>
+                        <a href="{{ '/methods#validation' | relative_url }}">Validation</a>
+                    </div>
+                </div>
+                <a href="{{ '/resources' | relative_url }}">Resources</a>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Main Content Area -->
+    <main class="page-content">
+        <div class="wrapper">
+            {{ content }}
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="site-footer">
+        <div class="wrapper">
+            <p>&copy; {{ 'now' | date: '%Y' }} ASA Biopharmaceutical Section - Oncology Treatment Switch Workstream</p>
+        </div>
+    </footer>
+
+    <!-- JavaScript for interactive features -->
+    <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+</body>
+</html>
