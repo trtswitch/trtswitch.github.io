@@ -1,6 +1,4 @@
-// Wait for the page to load completely
 document.addEventListener('DOMContentLoaded', function() {
-    
     // Make collapsible sections work
     var collapsibleButtons = document.getElementsByClassName("collapsible");
     
@@ -24,20 +22,6 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         });
     }
-    
-    // Smooth scrolling for internal links (like #rpsftm)
-    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-        anchor.addEventListener('click', function (e) {
-            e.preventDefault();
-            var target = document.querySelector(this.getAttribute('href'));
-            if (target) {
-                target.scrollIntoView({
-                    behavior: 'smooth',
-                    block: 'start'
-                });
-            }
-        });
-    });
     
     console.log('trtswitch website loaded successfully!');
 });
