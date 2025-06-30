@@ -1,7 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
     console.log('DOM loaded, looking for collapsible elements...');
     
-    // Wait a bit more for Jekyll to finish rendering
     setTimeout(function() {
         var collapsibleButtons = document.querySelectorAll('.collapsible');
         console.log('Found', collapsibleButtons.length, 'collapsible buttons');
@@ -15,11 +14,14 @@ document.addEventListener('DOMContentLoaded', function() {
                 // Toggle the active class
                 this.classList.toggle("active");
                 
-                // Get the next element (should be the content div)
-                var content = this.nextElementSibling;
+                // Jekyll wraps buttons in <p> tags, so we need to go up to the parent
+                // and then get the next sibling
+                var buttonParent = this.parentElement;
+                var content = buttonParent.nextElementSibling;
                 
+                // If the parent is a <p> tag and next sibling exists
                 if (content && content.classList.contains('collapsible-content')) {
-                    console.log('Found content div');
+                    console.log('Found content div after parent');
                     
                     // Toggle the content visibility
                     if (content.classList.contains('active')) {
@@ -34,11 +36,11 @@ document.addEventListener('DOMContentLoaded', function() {
                         console.log('Opening content, height:', content.scrollHeight);
                     }
                 } else {
-                    console.log('No content div found after button');
+                    console.log('No content div found. Parent:', buttonParent.tagName, 'Next sibling:', content ? content.tagName : 'none');
                 }
             });
         });
         
         console.log('Collapsible setup complete!');
-    }, 500); // Wait 500ms for content to be ready
+    }, 500);
 });
