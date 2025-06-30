@@ -1,0 +1,37 @@
+title: "ASA Biopharmaceutical Section"
+description: "Oncology Treatment Switch Workstream"
+baseurl: "/trtswitch" # change to your repo name
+url: "https://yourusername.github.io"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Navigation
+header_pages:
+  - index.md
+  - objectives.md
+  - methods.md
+  - resources.md
+  - seminars.md
+
+# Collections for organizing content
+collections:
+  methods:
+    output: true
+    permalink: /:collection/:name/
+  reports:
+    output: true
+    permalink: /:collection/:name/
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Custom variables
+workstream:
+  title: "Oncology Treatment Switch Workstream"
+  description: "Addressing the impact of treatment switch on long-term outcomes in oncology clinical trials"
