@@ -9,35 +9,39 @@
 <body>
     <!-- Header Section -->
     <header class="site-header">
-        <div class="hero-section">
-           <div class="hero-content">
-             <div class="hero-header">
-               <img src="{{ '/genentech_logo.png' | relative_url }}" alt="Genentech Logo" class="sponsor-logo">
-               <div class="hero-text">
-            <h1>ASA Biopharmaceutical Section</h1>
-            <h2>Oncology Treatment Switch Workstream</h2>
+    <div class="hero-section">
+        <div class="hero-content">
+            <div class="hero-header">
+                <img src="{{ '/genentech_logo.png' | relative_url }}" alt="Genentech Logo" class="sponsor-logo" onerror="this.style.display='none'">
+                <div class="hero-text">
+                    <h1>ASA Biopharmaceutical Section</h1>
+                    <h2>Oncology Treatment Switch Workstream</h2>
+                </div>
+            </div>
+            <p class="hero-description">Addressing the impact of treatment switch on long-term outcomes in oncology clinical trials</p>
         </div>
     </div>
-    <p>Addressing the impact of treatment switch on long-term outcomes in oncology clinical trials</p>
-</div>
-        
-        <!-- Navigation Menu -->
-        <nav class="site-nav">
-            <div class="nav-container">
-                <a href="{{ '/' | relative_url }}">Home</a>
-                <a href="{{ '/objectives' | relative_url }}">Objectives</a>
-                <div class="dropdown">
-                    <a href="{{ '/methods' | relative_url }}">Methods ▼</a>
-                    <div class="dropdown-content">
-                        <a href="{{ '/methods#rpsftm' | relative_url }}">RPSFTM</a>
-                        <a href="{{ '/methods#ipe' | relative_url }}">IPE</a>
-                        <a href="{{ '/methods#validation' | relative_url }}">Validation</a>
-                    </div>
+    
+    <!-- Navigation Menu -->
+    <nav class="site-nav">
+        <div class="nav-container">
+            <a href="{{ '/' | relative_url }}">Home</a>
+            <a href="{{ '/objectives' | relative_url }}">Objectives</a>
+            <div class="dropdown">
+                <a href="{{ '/methods' | relative_url }}">Methods ▼</a>
+                <div class="dropdown-content">
+                    <a href="{{ '/methods#rpsft' | relative_url }}">RPSFT</a>
+                    <a href="{{ '/methods#ipe' | relative_url }}">IPE</a>
+                    <a href="{{ '/methods#ipcw' | relative_url }}">IPCW</a>
+                    <a href="{{ '/methods#tse' | relative_url }}">TSE</a>
+                    <a href="{{ '/methods#msm' | relative_url }}">MSM</a>
+                    <a href="{{ '/methods#validation' | relative_url }}">Validation</a>
                 </div>
-                <a href="{{ '/resources' | relative_url }}">Resources</a>
             </div>
-        </nav>
-    </header>
+            <a href="{{ '/resources' | relative_url }}">Resources</a>
+        </div>
+    </nav>
+</header>
 
     <!-- Main Content Area -->
     <main class="page-content">
