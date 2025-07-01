@@ -4,61 +4,165 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title | default: site.title }}</title>
+    
+    <!-- Google Fonts - Roboto (Material Design) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Roboto+Mono:wght@400;500&display=swap" rel="stylesheet">
+    
+    <!-- Material Icons -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    
+    <!-- Material Design Components -->
+    <link href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css" rel="stylesheet">
+    <script src="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.js"></script>
+    
+    <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
-<body>
-    <!-- Header Section -->
-    <header class="site-header">
-    <div class="hero-section">
-        <div class="hero-content">
-            <div class="hero-header">
-    <a href="https://www.gene.com/about-us" target="_blank" rel="noopener noreferrer" class="logo-link">
-        <img src="{{ '/genentech_logo.png' | relative_url }}" 
-             alt="Genentech - A Member of the Roche Group" 
-             class="sponsor-logo">
-    </a>
-    <div class="hero-text">
-        <h1>ASA Biopharmaceutical Section</h1>
-        <h2>Oncology Treatment Switch Workstream</h2>
-    </div>
-</div>
-    
-    <!-- Navigation Menu -->
-    <nav class="site-nav">
+<body class="mdc-typography">
+    <!-- Top App Bar -->
+    <header class="mdc-top-app-bar mdc-top-app-bar--fixed">
+        <div class="mdc-top-app-bar__row">
+            <section class="mdc-top-app-bar__section mdc-top-app-bar__section--align-start">
+                <a href="https://www.gene.com/about-us" target="_blank" rel="noopener noreferrer" class="logo-link">
+                    <img src="{{ '/genentech_logo.png' | relative_url }}" alt="Genentech" class="app-bar-logo">
+                </a>
+                <span class="mdc-top-app-bar__title">ASA BIOP Treatment Switch</span>
+            </section>
+            <section class="mdc-top-app-bar__section mdc-top-app-bar__section--align-end">
+                <a href="https://github.com/ShreyaSreeram27/trtswitch" target="_blank" class="material-icons mdc-top-app-bar__action-item mdc-icon-button" aria-label="GitHub">
+                    <span class="mdc-icon-button__ripple"></span>
+                    code
+                </a>
+            </section>
+        </div>
+    </header>
+
+    <!-- Navigation Drawer (Mobile) -->
+    <aside class="mdc-drawer mdc-drawer--modal">
+        <div class="mdc-drawer__content">
+            <nav class="mdc-list">
+                <a class="mdc-list-item mdc-list-item--activated" href="{{ '/' | relative_url }}">
+                    <span class="mdc-list-item__ripple"></span>
+                    <i class="material-icons mdc-list-item__graphic">home</i>
+                    <span class="mdc-list-item__text">Home</span>
+                </a>
+                <a class="mdc-list-item" href="{{ '/objectives' | relative_url }}">
+                    <span class="mdc-list-item__ripple"></span>
+                    <i class="material-icons mdc-list-item__graphic">flag</i>
+                    <span class="mdc-list-item__text">Objectives</span>
+                </a>
+                <a class="mdc-list-item" href="{{ '/methods' | relative_url }}">
+                    <span class="mdc-list-item__ripple"></span>
+                    <i class="material-icons mdc-list-item__graphic">functions</i>
+                    <span class="mdc-list-item__text">Methods</span>
+                </a>
+                <a class="mdc-list-item" href="{{ '/resources' | relative_url }}">
+                    <span class="mdc-list-item__ripple"></span>
+                    <i class="material-icons mdc-list-item__graphic">library_books</i>
+                    <span class="mdc-list-item__text">Resources</span>
+                </a>
+            </nav>
+        </div>
+    </aside>
+
+    <!-- Desktop Navigation -->
+    <nav class="desktop-nav mdc-elevation--z2">
         <div class="nav-container">
-            <a href="{{ '/' | relative_url }}">Home</a>
-            <a href="{{ '/objectives' | relative_url }}">Objectives</a>
-            <div class="dropdown">
-                <a href="{{ '/methods' | relative_url }}">Methods ▼</a>
-                <div class="dropdown-content">
-                    <a href="{{ '/methods#rpsft' | relative_url }}">RPSFT</a>
-                    <a href="{{ '/methods#ipe' | relative_url }}">IPE</a>
-                    <a href="{{ '/methods#ipcw' | relative_url }}">IPCW</a>
-                    <a href="{{ '/methods#tse' | relative_url }}">TSE</a>
-                    <a href="{{ '/methods#msm' | relative_url }}">MSM</a>
-                    <a href="{{ '/methods#validation' | relative_url }}">Validation</a>
+            <a href="{{ '/' | relative_url }}" class="nav-item mdc-button">
+                <span class="mdc-button__ripple"></span>
+                <span class="mdc-button__label">Home</span>
+            </a>
+            <a href="{{ '/objectives' | relative_url }}" class="nav-item mdc-button">
+                <span class="mdc-button__ripple"></span>
+                <span class="mdc-button__label">Objectives</span>
+            </a>
+            
+            <!-- Methods Menu -->
+            <div class="methods-menu">
+                <button class="nav-item mdc-button methods-trigger">
+                    <span class="mdc-button__ripple"></span>
+                    <span class="mdc-button__label">Methods</span>
+                    <i class="material-icons">expand_more</i>
+                </button>
+                <div class="mdc-menu mdc-menu-surface methods-dropdown">
+                    <ul class="mdc-list">
+                        <li class="mdc-list-item">
+                            <span class="mdc-list-item__ripple"></span>
+                            <a href="{{ '/methods#rpsft' | relative_url }}" class="mdc-list-item__text">RPSFT</a>
+                        </li>
+                        <li class="mdc-list-item">
+                            <span class="mdc-list-item__ripple"></span>
+                            <a href="{{ '/methods#ipe' | relative_url }}" class="mdc-list-item__text">IPE</a>
+                        </li>
+                        <li class="mdc-list-item">
+                            <span class="mdc-list-item__ripple"></span>
+                            <a href="{{ '/methods#ipcw' | relative_url }}" class="mdc-list-item__text">IPCW</a>
+                        </li>
+                        <li class="mdc-list-item">
+                            <span class="mdc-list-item__ripple"></span>
+                            <a href="{{ '/methods#validation' | relative_url }}" class="mdc-list-item__text">Validation</a>
+                        </li>
+                    </ul>
                 </div>
             </div>
-            <a href="{{ '/resources' | relative_url }}">Resources</a>
+            
+            <a href="{{ '/resources' | relative_url }}" class="nav-item mdc-button">
+                <span class="mdc-button__ripple"></span>
+                <span class="mdc-button__label">Resources</span>
+            </a>
         </div>
     </nav>
-</header>
 
-    <!-- Main Content Area -->
-    <main class="page-content">
-        <div class="wrapper">
+    <!-- Main Content -->
+    <main class="mdc-top-app-bar--fixed-adjust main-content">
+        <div class="content-container">
             {{ content }}
         </div>
     </main>
 
     <!-- Footer -->
     <footer class="site-footer">
-        <div class="wrapper">
-            <p>&copy; {{ 'now' | date: '%Y' }} ASA Biopharmaceutical Section - Oncology Treatment Switch Workstream</p>
+        <div class="footer-content">
+            <p class="mdc-typography--body2">
+                &copy; {{ 'now' | date: '%Y' }} ASA Biopharmaceutical Section - Oncology Treatment Switch Workstream
+            </p>
         </div>
     </footer>
 
-    <!-- JavaScript for interactive features -->
-    <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+    <!-- JavaScript for Material Components -->
+    <script>
+        // Initialize Material Components
+        mdc.autoInit();
+        
+        // Initialize top app bar
+        const topAppBar = mdc.topAppBar.MDCTopAppBar.attachTo(document.querySelector('.mdc-top-app-bar'));
+        
+        // Initialize drawer
+        const drawer = mdc.drawer.MDCDrawer.attachTo(document.querySelector('.mdc-drawer'));
+        
+        // Initialize buttons
+        document.querySelectorAll('.mdc-button').forEach(button => {
+            mdc.ripple.MDCRipple.attachTo(button);
+        });
+        
+        // Methods dropdown functionality
+        const methodsTrigger = document.querySelector('.methods-trigger');
+        const methodsDropdown = document.querySelector('.methods-dropdown');
+        
+        if (methodsTrigger && methodsDropdown) {
+            methodsTrigger.addEventListener('click', () => {
+                methodsDropdown.style.display = methodsDropdown.style.display === 'block' ? 'none' : 'block';
+            });
+            
+            // Close dropdown when clicking outside
+            document.addEventListener('click', (e) => {
+                if (!methodsTrigger.contains(e.target) && !methodsDropdown.contains(e.target)) {
+                    methodsDropdown.style.display = 'none';
+                }
+            });
+        }
+    </script>
 </body>
 </html>
