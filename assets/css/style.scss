@@ -45,11 +45,37 @@ body {
     margin-bottom: 1.5rem;
 }
 
+/* Logo link styling */
+.logo-link {
+    display: inline-block;
+    transition: all 0.3s ease;
+    border-radius: 6px;
+    text-decoration: none;
+    
+    &:hover {
+        transform: translateY(-2px);
+        text-decoration: none;
+        
+        .sponsor-logo {
+            box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
+        }
+    }
+    
+    &:focus {
+        outline: 2px solid rgba(255, 255, 255, 0.8);
+        outline-offset: 2px;
+    }
+}
+
 .sponsor-logo {
     height: 70px;
     width: auto;
-    transition: opacity 0.3s ease;
-    /* Remove the filter - logo is already white background */
+    transition: all 0.3s ease;
+    background: white;
+    padding: 0.8rem;
+    border-radius: 6px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    display: block; /* Ensures proper link behavior */
     
     /* Hide if image fails to load */
     &:not([src]) {
@@ -113,6 +139,7 @@ body {
             &:hover {
                 background: #34495e;
                 border-bottom-color: #3498db;
+                text-decoration: none;
             }
         }
     }
@@ -426,6 +453,16 @@ h2[id], a[id] {
     border: 2px solid white;
     padding: 0.5rem 1rem;
     border-radius: 4px;
+}
+
+.logo-fallback {
+    text-align: center;
+}
+
+.logo-subtext {
+    font-size: 0.9rem;
+    opacity: 0.8;
+    font-style: italic;
 }
 
 /* Mobile responsive for hero section */
