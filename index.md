@@ -9,177 +9,115 @@ This workstream is formed to address a major challenge in oncology clinical tria
 
 <button class="collapsible">📋 Objectives</button>
 <div class="collapsible-content">
-  <h3>Primary Objectives</h3>
-  <ul>
-    <li><strong>Develop standardized methods</strong> for handling treatment switching in clinical trials</li>
-    <li><strong>Create validation frameworks</strong> for treatment switch adjustment methods</li>
-    <li><strong>Provide guidance</strong> for regulatory submissions involving treatment switching</li>
-    <li><strong>Foster collaboration</strong> between statisticians, clinicians, and regulatory agencies</li>
-  </ul>
+  <h3>Our Mission</h3>
+  <p>To develop, validate, and promote best practices for statistical methods addressing treatment switching in oncology clinical trials.</p>
   
-  <h3>Secondary Objectives</h3>
+  <h4>Key Goals:</h4>
   <ul>
-    <li>Educate the biostatistics community on treatment switching challenges</li>
-    <li>Develop best practices and recommendations</li>
-    <li>Create open-source tools and software packages</li>
+    <li>Evaluate and compare existing methodologies for treatment switching analysis</li>
+    <li>Develop guidance documents for regulatory submissions</li>
+    <li>Create educational resources for the statistical community</li>
+    <li>Foster collaboration between industry, academia, and regulatory agencies</li>
+    <li>Advance the science of causal inference in oncology trials</li>
   </ul>
 </div>
 
-<button class="collapsible">🔬 Current Projects</button>
+<button class="collapsible">👥 Sub-teams</button>
 <div class="collapsible-content">
-  <h3>trtswitch R Package</h3>
-  <p>Development and validation of the <strong>trtswitch R package</strong> for handling treatment switching in clinical trials.</p>
+  <h3>Workstream Organization</h3>
+  <p>Our workstream is organized into specialized sub-teams focused on different aspects of treatment switching methodology.</p>
   
-  <h4>Key Features:</h4>
+  <h4>Current Sub-teams:</h4>
   <ul>
-    <li><strong>RPSFTM</strong> (Rank Preserving Structural Failure Time Model)</li>
-    <li><strong>IPE</strong> (Iterative Parameter Estimation)</li>
-    <li><strong>Comprehensive validation suite</strong> against reference implementations</li>
-    <li><strong>Bootstrap confidence intervals</strong></li>
-    <li><strong>Flexible censoring options</strong></li>
+    <li><strong>Methodology Development Team</strong> - Advancing statistical methods for treatment switching</li>
+    <li><strong>Validation Team</strong> - Testing and comparing method performance across scenarios</li>
+    <li><strong>Regulatory Liaison Team</strong> - Developing guidance for regulatory submissions</li>
+    <li><strong>Education & Outreach Team</strong> - Creating training materials and workshops</li>
+    <li><strong>Software Implementation Team</strong> - Developing R packages and analysis tools</li>
   </ul>
   
-  <h4>Installation:</h4>
-  <pre><code># Install from GitHub
-devtools::install_github("ShreyaSreeram27/trtswitch")
-
-# Load the package
-library(trtswitch)</code></pre>
-  
-  <p><a href="{{ '/methods' | relative_url }}" class="btn">📖 View Methods Documentation</a></p>
+  <h4>Sub-team Activities:</h4>
+  <ul>
+    <li>Monthly sub-team meetings to advance specific workstreams</li>
+    <li>Cross-team collaboration on validation studies</li>
+    <li>Joint presentations at statistical conferences</li>
+    <li>Peer review of methodological developments</li>
+  </ul>
 </div>
 
 <button class="collapsible">📈 Recent Updates</button>
 <div class="collapsible-content">
   <h3>Latest Developments</h3>
+  
+  <h4>Recent Milestones:</h4>
   <ul>
-    <li><strong>June 2025:</strong> Test 6 validation completed for immdef dataset
-      <ul>
-        <li>Excellent agreement between trtswitch and reference implementations</li>
-        <li>psi estimates differ by only 0.02%</li>
-        <li>Hazard ratios agree to 4 decimal places</li>
-        <li>Perfect concordance in event indicators (100% agreement)</li>
-      </ul>
-    </li>
-    <li><strong>May 2025:</strong> Cross-dataset validation framework established
-      <ul>
-        <li>Validation on both shilong and immdef datasets</li>
-        <li>Consistent results across different data structures</li>
-        <li>Mathematical relationships verified (scaling factors = exp(ψ))</li>
-      </ul>
-    </li>
-    <li><strong>April 2025:</strong> RPSFTM two-way switch validation
-      <ul>
-        <li>Identified areas for improvement in two-way switching scenarios</li>
-        <li>Enhanced understanding of method limitations</li>
-      </ul>
-    </li>
+    <li><strong>Q4 2024:</strong> Completed comprehensive method comparison study</li>
+    <li><strong>Q3 2024:</strong> Published trtswitch R package on CRAN</li>
+    <li><strong>Q2 2024:</strong> Regulatory guidance document v2.0 released</li>
+    <li><strong>Q1 2024:</strong> Launched monthly educational webinar series</li>
   </ul>
   
-  <h3>Upcoming Work</h3>
+  <h4>Upcoming Activities:</h4>
   <ul>
-    <li><strong>July 2025:</strong> Bootstrap confidence interval validation</li>
-    <li><strong>August 2025:</strong> Regulatory guidance document draft</li>
-    <li><strong>September 2025:</strong> ASA BIOP webinar presentation</li>
+    <li><strong>January 2025:</strong> JSM 2025 special session planning</li>
+    <li><strong>February 2025:</strong> Method validation results publication</li>
+    <li><strong>March 2025:</strong> FDA collaboration meeting</li>
+    <li><strong>April 2025:</strong> Spring educational workshop</li>
   </ul>
 </div>
 
-<button class="collapsible">🔬 Validation Results</button>
+<button class="collapsible">👨‍💼 Get Involved</button>
 <div class="collapsible-content">
-  <h3>Test 6 - immdef Dataset Validation</h3>
-  <p>Our latest validation study demonstrates excellent agreement between <code>trtswitch::rpsftm()</code> and reference implementations:</p>
+  <h3>Join Our Community</h3>
+  <p>We welcome statisticians, clinicians, and researchers interested in advancing treatment switching methodology.</p>
   
-  <h4>Key Findings:</h4>
+  <h4>How to Participate:</h4>
   <ul>
-    <li><strong>psi parameter:</strong> -0.1850594 vs -0.1848298 (difference: ~0.0002)</li>
-    <li><strong>Hazard ratio:</strong> 0.7667704 vs 0.7668067 (difference: ~0.00004)</li>
-    <li><strong>p-value:</strong> 0.0197265 vs 0.0193944 (difference: ~0.0003)</li>
-    <li><strong>Event concordance:</strong> Perfect 100% agreement</li>
+    <li><strong>Join a Sub-team:</strong> Contact sub-team leads to contribute to specific areas</li>
+    <li><strong>Attend Meetings:</strong> Monthly workstream meetings open to all members</li>
+    <li><strong>Contribute to Validation:</strong> Help test methods on real-world datasets</li>
+    <li><strong>Share Experience:</strong> Present case studies from your trials</li>
+    <li><strong>Review Materials:</strong> Provide feedback on guidance documents</li>
   </ul>
   
-  <h4>Validation Summary:</h4>
-  <pre><code>One-way switch scenarios: ✅ Excellent agreement
-Two-way switch scenarios: ⚠️ Under investigation  
-Cross-dataset validation: ✅ Consistent results
-Mathematical verification: ✅ Relationships confirmed</code></pre>
-  
-  <p><strong>Bottom Line:</strong> The trtswitch package produces reliable, accurate results that match established reference implementations across multiple datasets.</p>
-</div>
-
-<button class="collapsible">👥 Get Involved</button>
-<div class="collapsible-content">
-  <h3>How to Contribute</h3>
-  
-  <h4>For Statisticians:</h4>
+  <h4>Membership Benefits:</h4>
   <ul>
-    <li>Review our validation studies and provide feedback</li>
-    <li>Test the trtswitch package on your own datasets</li>
-    <li>Contribute to methodology development</li>
-    <li>Report bugs or suggest improvements</li>
+    <li>Access to cutting-edge methodological developments</li>
+    <li>Networking with leading experts in the field</li>
+    <li>Early access to validation results and guidance documents</li>
+    <li>Opportunities for collaborative research and publications</li>
+    <li>Professional development through educational activities</li>
   </ul>
   
-  <h4>For Clinicians:</h4>
-  <ul>
-    <li>Share real-world treatment switching scenarios</li>
-    <li>Provide clinical context for statistical methods</li>
-    <li>Participate in case study development</li>
-    <li>Review guidance documents from clinical perspective</li>
-  </ul>
-  
-  <h4>For Regulatory Scientists:</h4>
-  <ul>
-    <li>Review draft guidance documents</li>
-    <li>Provide feedback on regulatory considerations</li>
-    <li>Share agency perspectives on treatment switching</li>
-    <li>Participate in regulatory working groups</li>
-  </ul>
-  
-  <h3>Contributing to the R Package</h3>
-  <ol>
-    <li><strong>Fork the repository:</strong> <a href="https://github.com/ShreyaSreeram27/trtswitch" target="_blank">https://github.com/ShreyaSreeram27/trtswitch</a></li>
-    <li><strong>Create a feature branch:</strong> <code>git checkout -b feature-name</code></li>
-    <li><strong>Make your changes</strong> and add tests</li>
-    <li><strong>Submit a pull request</strong> with detailed description</li>
-  </ol>
-  
-  <h3>Contact Information</h3>
-  <ul>
-    <li><strong>GitHub Repository:</strong> <a href="https://github.com/ShreyaSreeram27/trtswitch" target="_blank">trtswitch</a></li>
-    <li><strong>Issues & Bug Reports:</strong> <a href="https://github.com/ShreyaSreeram27/trtswitch/issues" target="_blank">GitHub Issues</a></li>
-    <li><strong>Discussions:</strong> <a href="https://github.com/ShreyaSreeram27/trtswitch/discussions" target="_blank">GitHub Discussions</a></li>
-    <li><strong>Email:</strong> workstream@asabiop.org</li>
-  </ul>
+  <p><strong>Ready to get involved?</strong> Contact us at [workstream-email@asa.org] or join our next monthly meeting.</p>
 </div>
 
 <button class="collapsible">📚 Resources</button>
 <div class="collapsible-content">
-  <h3>Documentation</h3>
+  <h3>Key Materials</h3>
+  
+  <h4>Software & Tools:</h4>
   <ul>
-    <li><a href="https://shreyasreeram27.github.io/trtswitch/" target="_blank">Package Documentation</a></li>
-    <li><a href="{{ '/reports/validation-report.html' | relative_url }}">Validation Report</a></li>
-    <li><a href="{{ '/resources#user-guide' | relative_url }}">User Guide</a></li>
-    <li><a href="{{ '/resources#faq' | relative_url }}">FAQ</a></li>
+    <li><strong>trtswitch R Package:</strong> Comprehensive implementation of all major methods</li>
+    <li><strong>Method Comparison Tool:</strong> Interactive application for method selection</li>
+    <li><strong>Validation Suite:</strong> Standardized testing framework</li>
+    <li><strong>Educational Shiny Apps:</strong> Interactive learning tools</li>
   </ul>
   
-  <h3>Publications & References</h3>
+  <h4>Documentation:</h4>
   <ul>
-    <li><strong>Methodological Papers:</strong> Key publications on RPSFTM and IPE methods</li>
-    <li><strong>Validation Studies:</strong> Peer-reviewed validation research</li>
-    <li><strong>Regulatory Guidance:</strong> FDA and EMA perspectives on treatment switching</li>
+    <li><strong>Regulatory Guidance:</strong> Best practices for submissions</li>
+    <li><strong>Method Comparison Report:</strong> Comprehensive validation study results</li>
+    <li><strong>Educational Materials:</strong> Webinar recordings and slide decks</li>
+    <li><strong>Case Study Collection:</strong> Real-world application examples</li>
   </ul>
   
-  <h3>Software Dependencies</h3>
-  <pre><code># Required packages
-install.packages(c("survival", "boot", "dplyr"))
-
-# Suggested packages  
-install.packages(c("ggplot2", "knitr", "rmarkdown"))</code></pre>
-  
-  <h3>Example Datasets</h3>
-  <p>The package includes two example datasets for learning and testing:</p>
+  <h4>Publications:</h4>
   <ul>
-    <li><strong>shilong:</strong> Simulated oncology trial with treatment switching</li>
-    <li><strong>immdef:</strong> Real-world immunodeficiency study data</li>
+    <li>Peer-reviewed methodology papers</li>
+    <li>Conference presentations and posters</li>
+    <li>White papers on regulatory considerations</li>
+    <li>Tutorial articles for practitioners</li>
   </ul>
 </div>
 
@@ -198,6 +136,12 @@ install.packages(c("ggplot2", "knitr", "rmarkdown"))</code></pre>
     <h3>🎯 Objectives</h3>
     <p>Goals and scope of the workstream</p>
     <a href="{{ '/objectives' | relative_url }}" class="btn">View Details</a>
+  </div>
+  
+  <div style="text-align: center; padding: 1rem; border: 1px solid #dee2e6; border-radius: 8px;">
+    <h3>👥 Members</h3>
+    <p>Meet our workstream team</p>
+    <a href="{{ '/members' | relative_url }}" class="btn">View Team</a>
   </div>
   
   <div style="text-align: center; padding: 1rem; border: 1px solid #dee2e6; border-radius: 8px;">
