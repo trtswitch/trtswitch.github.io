@@ -9,55 +9,62 @@
 <body>
     <!-- Header Section -->
     <header class="site-header">
-    <div class="hero-section">
-        <div class="hero-content">
-            <div class="hero-header">
-    <a href="https://www.gene.com/about-us" target="_blank" rel="noopener noreferrer" class="logo-link">
-        <img src="{{ '/genentech_logo.png' | relative_url }}" 
-             alt="Genentech - A Member of the Roche Group" 
-             class="sponsor-logo">
-    </a>
-    <div class="hero-text">
-        <h1>ASA Biopharmaceutical Section</h1>
-        <h2>Oncology Treatment Switch Workstream</h2>
-    </div>
-</div>
-    
-    <!-- Navigation Menu -->
-    <nav class="site-nav">
-        <div class="nav-container">
-            <a href="{{ '/' | relative_url }}">Home</a>
-            <a href="{{ '/objectives' | relative_url }}">Objectives</a>
-            <div class="dropdown">
-                <a href="{{ '/methods' | relative_url }}">Methods ▼</a>
-                <div class="dropdown-content">
-                    <a href="{{ '/methods#rpsft' | relative_url }}">RPSFT</a>
-                    <a href="{{ '/methods#ipe' | relative_url }}">IPE</a>
-                    <a href="{{ '/methods#ipcw' | relative_url }}">IPCW</a>
-                    <a href="{{ '/methods#tse' | relative_url }}">TSE</a>
-                    <a href="{{ '/methods#msm' | relative_url }}">MSM</a>
-                    <a href="{{ '/methods#validation' | relative_url }}">Validation</a>
+        <div class="hero-section">
+            <div class="hero-content">
+                <div class="hero-header">
+                    <a href="https://www.gene.com/about-us" target="_blank" rel="noopener noreferrer" class="logo-link">
+                        <img src="{{ '/genentech_logo.png' | relative_url }}" 
+                             alt="Genentech - A Member of the Roche Group" 
+                             class="sponsor-logo">
+                    </a>
+                    <div class="hero-text">
+                        <h1>ASA Biopharmaceutical Section</h1>
+                        <h2>Oncology Treatment Switch Workstream</h2>
+                    </div>
+                </div>
+                
+                <div class="hero-description">
+                    Advanced statistical methods for treatment switching in oncology clinical trials
                 </div>
             </div>
-            <a href="{{ '/resources' | relative_url }}">Resources</a>
         </div>
-    </nav>
-</header>
-
+        
+        <!-- Navigation Menu -->
+        <nav class="site-nav">
+            <div class="nav-container">
+                <a href="{{ '/' | relative_url }}">Home</a>
+                <a href="{{ '/objectives' | relative_url }}">Objectives</a>
+                <div class="dropdown">
+                    <a href="{{ '/methods' | relative_url }}">Methods ▼</a>
+                    <div class="dropdown-content">
+                        <a href="{{ '/methods#overview' | relative_url }}">Overview</a>
+                        <a href="{{ '/methods#rpsft' | relative_url }}">RPSFT</a>
+                        <a href="{{ '/methods#ipe' | relative_url }}">IPE</a>
+                        <a href="{{ '/methods#ipcw' | relative_url }}">IPCW</a>
+                        <a href="{{ '/methods#tse' | relative_url }}">TSE</a>
+                        <a href="{{ '/methods#msm' | relative_url }}">MSM</a>
+                    </div>
+                </div>
+                <a href="{{ '/members' | relative_url }}">Members</a>
+                <a href="{{ '/resources' | relative_url }}">Resources</a>
+            </div>
+        </nav>
+    </header>
+    
     <!-- Main Content Area -->
     <main class="page-content">
         <div class="wrapper">
             {{ content }}
         </div>
     </main>
-
+    
     <!-- Footer -->
     <footer class="site-footer">
         <div class="wrapper">
             <p>&copy; {{ 'now' | date: '%Y' }} ASA Biopharmaceutical Section - Oncology Treatment Switch Workstream</p>
         </div>
     </footer>
-
+    
     <!-- JavaScript for interactive features -->
     <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
 </body>
