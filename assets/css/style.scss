@@ -68,14 +68,16 @@ body {
 }
 
 .sponsor-logo {
-    height: 120px;
+    height: 160px;
     width: auto;
     transition: all 0.3s ease;
     background: white;
-    padding: 1.2rem;
+    padding: 0.8rem;
     border-radius: 8px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-    display: block; /* Ensures proper link behavior */
+    display: block;
+    object-fit: cover;
+    object-position: center;
     
     /* Hide if image fails to load */
     &:not([src]) {
@@ -480,8 +482,8 @@ h2[id], a[id] {
     }
     
     .sponsor-logo {
-        height: 80px;
-        padding: 0.6rem;
+        height: 100px;
+        padding: 0.4rem;
     }
     
     .hero-text h1 {
