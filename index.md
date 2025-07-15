@@ -145,6 +145,12 @@ This workstream is formed to address a major challenge in oncology clinical tria
   </div>
   
   <div style="text-align: center; padding: 1rem; border: 1px solid #dee2e6; border-radius: 8px;">
+    <h3>🎓 Seminars</h3>
+    <p>Educational webinars and workshops</p>
+    <a href="{{ '/seminars' | relative_url }}" class="btn">View Schedule</a>
+  </div>
+  
+  <div style="text-align: center; padding: 1rem; border: 1px solid #dee2e6; border-radius: 8px;">
     <h3>📚 Resources</h3>
     <p>Documentation, papers, and guides</p>
     <a href="{{ '/resources' | relative_url }}" class="btn">Explore</a>
