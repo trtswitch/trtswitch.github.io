@@ -38,19 +38,19 @@ This workstream is formed to address a major challenge in oncology clinical tria
   
   <h4>Current Sub-teams:</h4>
   <ul>
-    <li><strong>Methodology Development Team</strong> - Advancing statistical methods for treatment switching</li>
-    <li><strong>Validation Team</strong> - Testing and comparing method performance across scenarios</li>
-    <li><strong>Regulatory Liaison Team</strong> - Developing guidance for regulatory submissions</li>
-    <li><strong>Education & Outreach Team</strong> - Creating training materials and workshops</li>
-    <li><strong>Software Implementation Team</strong> - Developing R packages and analysis tools</li>
+    <li><strong>Tutorial</strong> - Writing and publishing educational content for treatment switching methods</li>
+    <li><strong>Trial Implementation</strong> - Research on practical matters related to treatment switching in clinical trials</li>
+    <li><strong>Code Standardization</strong> - Developing comprehensive code repositories and implementation examples</li>
+    <li><strong>Logistics/Planning</strong> - Coordinating seminars, workshops, and workstream activities</li>
   </ul>
   
   <h4>Sub-team Activities:</h4>
   <ul>
-    <li>Monthly sub-team meetings to advance specific workstreams</li>
-    <li>Cross-team collaboration on validation studies</li>
-    <li>Joint presentations at statistical conferences</li>
+    <li>Bi-monthly seminars and coordination meetings</li>
+    <li>Cross-team collaboration on methodology development</li>
+    <li>Joint publications and workshop proposals</li>
     <li>Peer review of methodological developments</li>
+    <li>Educational content creation and dissemination</li>
   </ul>
 </div>
 
