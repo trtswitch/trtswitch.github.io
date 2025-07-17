@@ -9,17 +9,26 @@ This workstream is formed to address a major challenge in oncology clinical tria
 
 <button class="collapsible">📋 Objectives</button>
 <div class="collapsible-content">
-  <h3>Our Mission</h3>
-  <p>To develop, validate, and promote best practices for statistical methods addressing treatment switching in oncology clinical trials.</p>
+  <h3>Background</h3>
+  <p>Treatment switching is a common occurrence in oncology clinical trials and is characterized by patients switching from control therapy to treatment therapy or vice versa during a clinical study. The occurrence of treatment switching amongst a large number of patients confounds and complicates a standard ITT based analysis of treatment efficacy, especially for long term outcomes such as overall survival and adjuvant-based disease-free survival.</p>
   
-  <h4>Key Goals:</h4>
-  <ul>
-    <li>Evaluate and compare existing methodologies for treatment switching analysis</li>
-    <li>Develop guidance documents for regulatory submissions</li>
-    <li>Create educational resources for the statistical community</li>
-    <li>Foster collaboration between industry, academia, and regulatory agencies</li>
-    <li>Advance the science of causal inference in oncology trials</li>
-  </ul>
+  <p>In the past decade of rapid oncology development for immuno-based and targeted-based therapies, treatment switching has been a regular occurrence in clinical trials and has led to several key oncologic drug advisory committee meetings. Yet, the topic has received only limited development in the academic and methodologic space and no organized group has yet emerged to bring a structured foundation for future research endeavors.</p>
+  
+  <h3>Our Mission</h3>
+  <p>In order to help standardize and promote treatment switching methodological research and ideas, we propose to start a Treatment Switch workstream with membership from FDA, academic, and industry leaders involved in methodology in this space.</p>
+  
+  <h3>Three Major Goals and Initiatives</h3>
+  
+  <h4>📖 Tutorial</h4>
+  <p>To write and publish a tutorial for treatment switching in the peer-reviewed journal Statistics in Medicine. Have received early feedback from editor Paul Albert that the journal would welcome the approach, but need to go through standard peer-review process via associate editor.</p>
+  <p><strong>Leads:</strong> Jing Xu (Takeda), Ananya Roy (Merck)</p>
+  
+  <h4>🔬 Trial Implementation</h4>
+  <p>To do fundamental research on practical matters related to treatment switching and its occurrence in clinical trials. Topics to include simulations on the effect of crossover, proposals for how to pre-specify such analyses in protocols, methods and literature reviews on subsequent therapies.</p>
+  <p><strong>Leads:</strong> Ray Lin (Genentech), Yufei Wang (GSK)</p>
+  
+  <h4>💻 Code Standardization</h4>
+  <p>Goal is to work towards a well-rounded repository of code with examples to implement most standard models for such work.</p>
 </div>
 
 <button class="collapsible">👥 Sub-teams</button>
