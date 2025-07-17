@@ -101,34 +101,6 @@ This workstream is formed to address a major challenge in oncology clinical tria
   <p><strong>Ready to get involved?</strong> Contact us at [workstream-email@asa.org] or join our next monthly meeting.</p>
 </div>
 
-<button class="collapsible">📚 Resources</button>
-<div class="collapsible-content">
-  <h3>Key Materials</h3>
-  
-  <h4>Software & Tools:</h4>
-  <ul>
-    <li><strong>trtswitch R Package:</strong> Comprehensive implementation of all major methods</li>
-    <li><strong>Method Comparison Tool:</strong> Interactive application for method selection</li>
-    <li><strong>Validation Suite:</strong> Standardized testing framework</li>
-    <li><strong>Educational Shiny Apps:</strong> Interactive learning tools</li>
-  </ul>
-  
-  <h4>Documentation:</h4>
-  <ul>
-    <li><strong>Regulatory Guidance:</strong> Best practices for submissions</li>
-    <li><strong>Method Comparison Report:</strong> Comprehensive validation study results</li>
-    <li><strong>Educational Materials:</strong> Webinar recordings and slide decks</li>
-    <li><strong>Case Study Collection:</strong> Real-world application examples</li>
-  </ul>
-  
-  <h4>Publications:</h4>
-  <ul>
-    <li>Peer-reviewed methodology papers</li>
-    <li>Conference presentations and posters</li>
-    <li>White papers on regulatory considerations</li>
-    <li>Tutorial articles for practitioners</li>
-  </ul>
-</div>
 
 ---
 
