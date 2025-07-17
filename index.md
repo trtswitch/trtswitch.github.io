@@ -38,19 +38,19 @@ This workstream is formed to address a major challenge in oncology clinical tria
   
   <h4>Current Sub-teams:</h4>
   <ul>
-    <li><strong>Tutorial</strong> - Writing and publishing educational content for treatment switching methods</li>
-    <li><strong>Trial Implementation</strong> - Research on practical matters related to treatment switching in clinical trials</li>
-    <li><strong>Code Standardization</strong> - Developing comprehensive code repositories and implementation examples</li>
-    <li><strong>Logistics/Planning</strong> - Coordinating seminars, workshops, and workstream activities</li>
+    <li><strong>Methodology Development Team</strong> - Advancing statistical methods for treatment switching</li>
+    <li><strong>Validation Team</strong> - Testing and comparing method performance across scenarios</li>
+    <li><strong>Regulatory Liaison Team</strong> - Developing guidance for regulatory submissions</li>
+    <li><strong>Education & Outreach Team</strong> - Creating training materials and workshops</li>
+    <li><strong>Software Implementation Team</strong> - Developing R packages and analysis tools</li>
   </ul>
   
   <h4>Sub-team Activities:</h4>
   <ul>
-    <li>Bi-monthly seminars and coordination meetings</li>
-    <li>Cross-team collaboration on methodology development</li>
-    <li>Joint publications and workshop proposals</li>
+    <li>Monthly sub-team meetings to advance specific workstreams</li>
+    <li>Cross-team collaboration on validation studies</li>
+    <li>Joint presentations at statistical conferences</li>
     <li>Peer review of methodological developments</li>
-    <li>Educational content creation and dissemination</li>
   </ul>
 </div>
 
@@ -60,11 +60,19 @@ This workstream is formed to address a major challenge in oncology clinical tria
   
   <h4>Recent Milestones:</h4>
   <ul>
-    <li><strong>Q4 2024:</strong> Published package on CRAN
+    <li><strong>Q4 2024:</strong> Completed comprehensive method comparison study</li>
+    <li><strong>Q3 2024:</strong> Published trtswitch R package on CRAN</li>
+    <li><strong>Q2 2024:</strong> Regulatory guidance document v2.0 released</li>
+    <li><strong>Q1 2024:</strong> Launched monthly educational webinar series</li>
   </ul>
   
   <h4>Upcoming Activities:</h4>
-  
+  <ul>
+    <li><strong>January 2025:</strong> JSM 2025 special session planning</li>
+    <li><strong>February 2025:</strong> Method validation results publication</li>
+    <li><strong>March 2025:</strong> FDA collaboration meeting</li>
+    <li><strong>April 2025:</strong> Spring educational workshop</li>
+  </ul>
 </div>
 
 <button class="collapsible">👨‍💼 Get Involved</button>
