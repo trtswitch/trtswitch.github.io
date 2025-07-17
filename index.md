@@ -60,19 +60,11 @@ This workstream is formed to address a major challenge in oncology clinical tria
   
   <h4>Recent Milestones:</h4>
   <ul>
-    <li><strong>Q4 2024:</strong> Completed comprehensive method comparison study</li>
-    <li><strong>Q3 2024:</strong> Published trtswitch R package on CRAN</li>
-    <li><strong>Q2 2024:</strong> Regulatory guidance document v2.0 released</li>
-    <li><strong>Q1 2024:</strong> Launched monthly educational webinar series</li>
+    <li><strong>Q4 2024:</strong> Published package on CRAN
   </ul>
   
   <h4>Upcoming Activities:</h4>
-  <ul>
-    <li><strong>January 2025:</strong> JSM 2025 special session planning</li>
-    <li><strong>February 2025:</strong> Method validation results publication</li>
-    <li><strong>March 2025:</strong> FDA collaboration meeting</li>
-    <li><strong>April 2025:</strong> Spring educational workshop</li>
-  </ul>
+  
 </div>
 
 <button class="collapsible">👨‍💼 Get Involved</button>
