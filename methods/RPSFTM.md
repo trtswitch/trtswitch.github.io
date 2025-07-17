@@ -1,9 +1,10 @@
-Overview 
+---
+layout: default
+title: RPSFT Method
+---
 
-Methods 
+# Rank Preserving Structural Failure Time Model (RPSFT)
 
-Advantages and Limitations 
+Content coming soon...
 
-Implementation example 
-
-Literature and Resources
+[Back to Methods Overview]({{ '/methods' | relative_url }})
