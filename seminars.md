@@ -1,7 +1,6 @@
 
 ---
 layout: default
-title: Seminars
 ---
 
 # Educational Seminars & Workshops
