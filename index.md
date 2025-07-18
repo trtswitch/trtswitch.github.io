@@ -31,10 +31,6 @@ This workstream is formed to address a major challenge in oncology clinical tria
   <p>Goal is to work towards a well-rounded repository of code with examples to implement most standard models for such work.</p>
 </div>
 
-<button class="collapsible">👥 Sub-teams</button>
-<div class="collapsible-content">
-  <h3>Workstream Organization</h3>
-  <p>Our workstream is organized into specialized sub-teams focused on different aspects of treatment switching methodology.</p>
   
 <button class="collapsible">👥 Sub-teams</button>
 <div class="collapsible-content">
