@@ -36,21 +36,36 @@ This workstream is formed to address a major challenge in oncology clinical tria
   <h3>Workstream Organization</h3>
   <p>Our workstream is organized into specialized sub-teams focused on different aspects of treatment switching methodology.</p>
   
+<button class="collapsible">👥 Sub-teams</button>
+<div class="collapsible-content">
+  <h3>Workstream Organization</h3>
+  <p>Our workstream is organized into specialized sub-teams focused on different aspects of treatment switching methodology.</p>
+  
   <h4>Current Sub-teams:</h4>
-  <ul>
-    <li><strong>Methodology Development Team</strong> - Advancing statistical methods for treatment switching</li>
-    <li><strong>Validation Team</strong> - Testing and comparing method performance across scenarios</li>
-    <li><strong>Regulatory Liaison Team</strong> - Developing guidance for regulatory submissions</li>
-    <li><strong>Education & Outreach Team</strong> - Creating training materials and workshops</li>
-    <li><strong>Software Implementation Team</strong> - Developing R packages and analysis tools</li>
-  </ul>
+  
+  <h5>📖 Tutorial</h5>
+  <p>To write and publish a tutorial for treatment switching in the peer-reviewed journal Statistics in Medicine. Have received early feedback from editor Paul Albert that the journal would welcome the approach, but need to go through standard peer-review process via associate editor.</p>
+  <p><strong>Leads:</strong> Jing Xu (Takeda), Ananya Roy (Merck)</p>
+  
+  <h5>🔬 Trial Implementation</h5>
+  <p>To do fundamental research on practical matters related to treatment switching and its occurrence in clinical trials. Topics to include simulations on the effect of crossover, proposals for how to pre-specify such analyses in protocols, methods and literature reviews on subsequent therapies.</p>
+  <p><strong>Leads:</strong> Ray Lin (Genentech), Yufei Wang (GSK)</p>
+  
+  <h5>💻 Code Standardization</h5>
+  <p>Goal is to work towards a well-rounded repository of code with examples to implement most standard models for such work.</p>
+  
+  <h5>📅 Logistics/Planning</h5>
+  <p>Schedule bi-monthly seminars and to coordinate group activities such as short course, workshop proposals, and publications. Seminars with Professor Eric Tchetgen Tchetgen (UPenn), Hege Michiels (Argenx), and Kaspar Rufibach (Roche) have been scheduled for the first half of 2024.</p>
+  <p><strong>Leads:</strong> Erik Bloomquist (Merck)</p>
   
   <h4>Sub-team Activities:</h4>
   <ul>
-    <li>Monthly sub-team meetings to advance specific workstreams</li>
-    <li>Cross-team collaboration on validation studies</li>
-    <li>Joint presentations at statistical conferences</li>
-    <li>Peer review of methodological developments</li>
+    <li>Bi-monthly seminars and coordination meetings</li>
+    <li>Cross-team collaboration on methodology development</li>
+    <li>Joint publications and workshop proposals</li>
+    <li>Literature reviews on subsequent therapies</li>
+    <li>Code repository development and maintenance</li>
+    <li>Protocol analysis pre-specification guidance</li>
   </ul>
 </div>
 
