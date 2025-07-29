@@ -31,26 +31,27 @@
         
         <!-- Navigation Menu -->
         <nav class="site-nav">
-            <div class="nav-container">
-                <a href="{{ '/' | relative_url }}">Home</a>
-                <a href="{{ '/objectives' | relative_url }}">Objectives</a>
-                <a href="{{ '/members' | relative_url }}">Members</a>
-                <div class="dropdown">
-                    <a href="{{ '/methods' | relative_url }}">Methods ▼</a>
-                    <div class="dropdown-content">
-                        <a href="{{ '/methods/overview' | relative_url }}">Overview</a>
-                        <a href="{{ '/methods/rpsft' | relative_url }}">RPSFT</a>
-                        <a href="{{ '/methods/ipe' | relative_url }}">IPE</a>
-                        <a href="{{ '/methods/ipcw' | relative_url }}">IPCW</a>
-                        <a href="{{ '/methods/tse' | relative_url }}">TSE</a>
-                        <a href="{{ '/methods/msm' | relative_url }}">MSM</a>
-                    </div>
-                </div>
-                <a href="{{ '/seminars' | relative_url }}">Seminars</a>
-                <a href="{{ '/resources' | relative_url }}">Resources</a>
+    <div class="nav-container">
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/objectives' | relative_url }}">Objectives</a>
+        <a href="{{ '/members' | relative_url }}">Members</a>
+        <div class="dropdown">
+            <a href="{{ '/methods' | relative_url }}">Methods ▼</a>
+            <div class="dropdown-content">
+                <a href="{{ '/methods/overview' | relative_url }}">Overview</a>
+                <a href="{{ '/methods/rpsft' | relative_url }}">RPSFT</a>
+                <a href="{{ '/methods/ipe' | relative_url }}">IPE</a>
+                <a href="{{ '/methods/ipcw' | relative_url }}">IPCW</a>
+                <a href="{{ '/methods/tse' | relative_url }}">TSE</a>
+                <a href="{{ '/methods/msm' | relative_url }}">MSM</a>
             </div>
-        </nav>
-    </header>
+        </div>
+        <a href="{{ '/seminars' | relative_url }}">Seminars</a>
+        <a href="{{ '/resources' | relative_url }}">Resources</a>
+        <!-- NEW: Interactive Analysis Link -->
+        <a href="{{ '/interactive' | relative_url }}" class="interactive-link">🔬 Interactive R</a>
+    </div>
+</nav>
     
     <!-- Main Content Area -->
     <main class="page-content">
