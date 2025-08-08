@@ -5,113 +5,73 @@ title: Members
 
 # Workstream Members
 
+# Workstream Members
+
 The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings together experts from industry, academia, and regulatory agencies to advance statistical methods for treatment switching in oncology clinical trials.
 
-## Leadership Team
+---
 
-### Founding Co-leads
-- **Erik Bloomquist** - Merck (Founding Co-lead)
-- **Meijing Huang** - [Affiliation] (Founding Co-lead)
+## Erik Bloomquist (Founding Co-lead)
+**Erik Bloomquist** - Merck  
+*Founding Co-lead*
 
-### Current Co-leads
-- **Bingxia Wang** - [Affiliation] (Co-lead)
-- **Ray Lin** - Genentech (Co-lead)
+**Bio:** Erik Bloomquist is a [title] at Merck with expertise in [areas]. He is one of the founding co-leads of the Treatment Switch Workstream, helping to establish the group's mission and coordinate activities.
 
-### Sub-team Leads
+**Areas of Expertise:**
+- [To be updated]
+- [To be updated]
+- [To be updated]
+- [To be updated]
 
-#### Tutorial Sub-team
-- **Ananya Roy** - Merck (Tutorial Sub-team Lead)
+**Education:** [To be updated] **Contact:** [Email to be updated]
 
-#### Code Standardization Sub-team
-- **Kaifeng Lu** - [Affiliation] (Code Standardization Sub-team Co-lead)
+---
 
-#### Method Sub-team
-- **Yufei Wang** - GSK (Method Sub-team Co-lead)
+*[Photo placeholder - Professional headshot to be added]*
 
-## Core Members
+---
 
-*Listed alphabetically by last name*
+## Meijing Huang (Founding Co-lead)
+**Meijing Huang** - [Affiliation]  
+*Founding Co-lead*
 
-### C
-- **Cindy Chen** - [Affiliation]
-  - *Bio: [To be updated]*
-  - *Areas of expertise: [To be updated]*
+**Bio:** Meijing Huang is a [title] at [affiliation] with expertise in [areas]. She is one of the founding co-leads of the Treatment Switch Workstream, helping to establish the group's mission and coordinate activities.
 
-- **Yu-Che Chung** - [Affiliation]
-  - *Bio: [To be updated]*
-  - *Areas of expertise: [To be updated]*
+**Areas of Expertise:**
+- [To be updated]
+- [To be updated]
+- [To be updated]
+- [To be updated]
 
-### F
-- **Laura Fernandes** - [Affiliation]
-  - *Bio: [To be updated]*
-  - *Areas of expertise: [To be updated]*
+**Education:** [To be updated] **Contact:** [Email to be updated]
 
-### G
-- **Wenjuan (Jessie) Gu** - [Affiliation]
-  - *Bio: [To be updated]*
-  - *Areas of expertise: [To be updated]*
+---
 
-- **Charu Gupta** - [Affiliation]
-  - *Bio: [To be updated]*
-  - *Areas of expertise: [To be updated]*
+*[Photo placeholder - Professional headshot to be added]*
 
-### L
-- **Qing Liu** - [Affiliation]
-  - *Bio: [To be updated]*
-  - *Areas of expertise: [To be updated]*
+---
 
-### S
-- **Abhijoy Saha** - [Affiliation]
-  - *Bio: [To be updated]*
-  - *Areas of expertise: [To be updated]*
+## Bingxia Wang (Co-lead)
+**Bingxia Wang** - [Affiliation]  
+*Co-lead*
 
-- **Shreya Sreeram** - [Affiliation]
-  - *Bio: [To be updated]*
-  - *Areas of expertise: R package development, treatment switching methodology*
-  - *Contact: [Email to be updated]*
+**Bio:** Bingxia Wang is a [title] at [affiliation] with expertise in [areas]. She serves as a co-lead for the Treatment Switch Workstream.
 
-### W
-- **Heng Wang** - [Affiliation]
-  - *Bio: [To be updated]*
-  - *Areas of expertise: Statistical methodology, clinical trials*
+**Areas of Expertise:**
+- [To be updated]
+- [To be updated]
+- [To be updated]
+- [To be updated]
 
-- **Hongwei Wang** - [Affiliation]
-  - *Bio: [To be updated]*
-  - *Areas of expertise: [To be updated]*
+**Education:** [To be updated] **Contact:** [Email to be updated]
 
-- **Ya Wang** - [Affiliation]
-  - *Bio: [To be updated]*
-  - *Areas of expertise: [To be updated]*
+---
 
-### Y
-- **Suk-Young Yoo** - [Affiliation]
-  - *Bio: [To be updated]*
-  - *Areas of expertise: [To be updated]*
+*[Photo placeholder - Professional headshot to be added]*
 
-### Z
-- **Vickie Zhang** - [Affiliation]
-  - *Bio: [To be updated]*
-  - *Areas of expertise: [To be updated]*
+---
 
-## Guest Speakers & External Collaborators
-
-### Academic Partners
-- **Professor Eric Tchetgen Tchetgen** - University of Pennsylvania
-  - *Structural cumulative survival models expert*
-
-### Industry Collaborators
-- **Hege Michiels** - Argenx
-  - *Time-varying treatment switches methodology*
-- **Kaspar Rufibach** - Roche
-  - *Regulatory and methodological expertise*
-- **Jane Lin** - Takeda
-  - *Multiple imputation approaches*
-- **Nick Latimer** - University of Sheffield
-  - *Technical Support Document (TSD) development*
-
-## Member Profiles
-
-### Example Profile: Ray Lin (Co-lead)
+## Ray Lin (Co-lead)
 **Ray Lin** - Genentech  
 *Co-lead, Trial Implementation Sub-team Lead*
 
@@ -123,8 +83,327 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
 - Simulation studies for crossover effects
 - Protocol analysis pre-specification
 
-**Education:** [To be updated]
-**Contact:** [Email to be updated]
+**Education:** [To be updated] **Contact:** [Email to be updated]
+
+---
+
+*[Photo placeholder - Professional headshot to be added]*
+
+---
+
+## Ananya Roy (Tutorial Sub-team Lead)
+**Ananya Roy** - Merck  
+*Tutorial Sub-team Lead*
+
+**Bio:** Ananya Roy is a [title] at Merck with expertise in [areas]. She leads the Tutorial sub-team, working on publishing educational content for treatment switching methods in Statistics in Medicine.
+
+**Areas of Expertise:**
+- [To be updated]
+- [To be updated]
+- [To be updated]
+- [To be updated]
+
+**Education:** [To be updated] **Contact:** [Email to be updated]
+
+---
+
+*[Photo placeholder - Professional headshot to be added]*
+
+---
+
+## Kaifeng Lu (Code Standardization Sub-team Co-lead)
+**Kaifeng Lu** - [Affiliation]  
+*Code Standardization Sub-team Co-lead*
+
+**Bio:** Kaifeng Lu is a [title] at [affiliation] with expertise in [areas]. He co-leads the Code Standardization sub-team, working towards developing comprehensive code repositories for treatment switching methods.
+
+**Areas of Expertise:**
+- [To be updated]
+- [To be updated]
+- [To be updated]
+- [To be updated]
+
+**Education:** [To be updated] **Contact:** [Email to be updated]
+
+---
+
+*[Photo placeholder - Professional headshot to be added]*
+
+---
+
+## Yufei Wang (Method Sub-team Co-lead)
+**Yufei Wang** - GSK  
+*Method Sub-team Co-lead*
+
+**Bio:** Yufei Wang is a [title] at GSK with expertise in [areas]. She co-leads the Method sub-team, focusing on methodological research and development.
+
+**Areas of Expertise:**
+- [To be updated]
+- [To be updated]
+- [To be updated]
+- [To be updated]
+
+**Education:** [To be updated] **Contact:** [Email to be updated]
+
+---
+
+*[Photo placeholder - Professional headshot to be added]*
+
+---
+
+## Cindy Chen
+**Cindy Chen** - [Affiliation]  
+*Member*
+
+**Bio:** Cindy Chen is a [title] at [affiliation] with expertise in [areas]. [Additional bio information to be updated]
+
+**Areas of Expertise:**
+- [To be updated]
+- [To be updated]
+- [To be updated]
+- [To be updated]
+
+**Education:** [To be updated] **Contact:** [Email to be updated]
+
+---
+
+*[Photo placeholder - Professional headshot to be added]*
+
+---
+
+## Yu-Che Chung
+**Yu-Che Chung** - [Affiliation]  
+*Member*
+
+**Bio:** Yu-Che Chung is a [title] at [affiliation] with expertise in [areas]. [Additional bio information to be updated]
+
+**Areas of Expertise:**
+- [To be updated]
+- [To be updated]
+- [To be updated]
+- [To be updated]
+
+**Education:** [To be updated] **Contact:** [Email to be updated]
+
+---
+
+*[Photo placeholder - Professional headshot to be added]*
+
+---
+
+## Laura Fernandes
+**Laura Fernandes** - [Affiliation]  
+*Member*
+
+**Bio:** Laura Fernandes is a [title] at [affiliation] with expertise in [areas]. [Additional bio information to be updated]
+
+**Areas of Expertise:**
+- [To be updated]
+- [To be updated]
+- [To be updated]
+- [To be updated]
+
+**Education:** [To be updated] **Contact:** [Email to be updated]
+
+---
+
+*[Photo placeholder - Professional headshot to be added]*
+
+---
+
+## Wenjuan (Jessie) Gu
+**Wenjuan (Jessie) Gu** - [Affiliation]  
+*Member*
+
+**Bio:** Wenjuan (Jessie) Gu is a [title] at [affiliation] with expertise in [areas]. [Additional bio information to be updated]
+
+**Areas of Expertise:**
+- [To be updated]
+- [To be updated]
+- [To be updated]
+- [To be updated]
+
+**Education:** [To be updated] **Contact:** [Email to be updated]
+
+---
+
+*[Photo placeholder - Professional headshot to be added]*
+
+---
+
+## Charu Gupta
+**Charu Gupta** - [Affiliation]  
+*Member*
+
+**Bio:** Charu Gupta is a [title] at [affiliation] with expertise in [areas]. [Additional bio information to be updated]
+
+**Areas of Expertise:**
+- [To be updated]
+- [To be updated]
+- [To be updated]
+- [To be updated]
+
+**Education:** [To be updated] **Contact:** [Email to be updated]
+
+---
+
+*[Photo placeholder - Professional headshot to be added]*
+
+---
+
+## Qing Liu
+**Qing Liu** - [Affiliation]  
+*Member*
+
+**Bio:** Qing Liu is a [title] at [affiliation] with expertise in [areas]. [Additional bio information to be updated]
+
+**Areas of Expertise:**
+- [To be updated]
+- [To be updated]
+- [To be updated]
+- [To be updated]
+
+**Education:** [To be updated] **Contact:** [Email to be updated]
+
+---
+
+*[Photo placeholder - Professional headshot to be added]*
+
+---
+
+## Abhijoy Saha
+**Abhijoy Saha** - [Affiliation]  
+*Member*
+
+**Bio:** Abhijoy Saha is a [title] at [affiliation] with expertise in [areas]. [Additional bio information to be updated]
+
+**Areas of Expertise:**
+- [To be updated]
+- [To be updated]
+- [To be updated]
+- [To be updated]
+
+**Education:** [To be updated] **Contact:** [Email to be updated]
+
+---
+
+*[Photo placeholder - Professional headshot to be added]*
+
+---
+
+## Shreya Sreeram
+**Shreya Sreeram** - [Affiliation]  
+*Member*
+
+**Bio:** Shreya Sreeram is a [title] at [affiliation] with expertise in [areas]. She contributes to the workstream's development of R packages and methodology implementation.
+
+**Areas of Expertise:**
+- R package development
+- Treatment switching methodology
+- [To be updated]
+- [To be updated]
+
+**Education:** [To be updated] **Contact:** [Email to be updated]
+
+---
+
+*[Photo placeholder - Professional headshot to be added]*
+
+---
+
+## Heng Wang
+**Heng Wang** - [Affiliation]  
+*Member*
+
+**Bio:** Heng Wang is a [title] at [affiliation] with expertise in [areas]. [Additional bio information to be updated]
+
+**Areas of Expertise:**
+- Statistical methodology
+- Clinical trials
+- [To be updated]
+- [To be updated]
+
+**Education:** [To be updated] **Contact:** [Email to be updated]
+
+---
+
+*[Photo placeholder - Professional headshot to be added]*
+
+---
+
+## Hongwei Wang
+**Hongwei Wang** - [Affiliation]  
+*Member*
+
+**Bio:** Hongwei Wang is a [title] at [affiliation] with expertise in [areas]. [Additional bio information to be updated]
+
+**Areas of Expertise:**
+- [To be updated]
+- [To be updated]
+- [To be updated]
+- [To be updated]
+
+**Education:** [To be updated] **Contact:** [Email to be updated]
+
+---
+
+*[Photo placeholder - Professional headshot to be added]*
+
+---
+
+## Ya Wang
+**Ya Wang** - [Affiliation]  
+*Member*
+
+**Bio:** Ya Wang is a [title] at [affiliation] with expertise in [areas]. [Additional bio information to be updated]
+
+**Areas of Expertise:**
+- [To be updated]
+- [To be updated]
+- [To be updated]
+- [To be updated]
+
+**Education:** [To be updated] **Contact:** [Email to be updated]
+
+---
+
+*[Photo placeholder - Professional headshot to be added]*
+
+---
+
+## Suk-Young Yoo
+**Suk-Young Yoo** - [Affiliation]  
+*Member*
+
+**Bio:** Suk-Young Yoo is a [title] at [affiliation] with expertise in [areas]. [Additional bio information to be updated]
+
+**Areas of Expertise:**
+- [To be updated]
+- [To be updated]
+- [To be updated]
+- [To be updated]
+
+**Education:** [To be updated] **Contact:** [Email to be updated]
+
+---
+
+*[Photo placeholder - Professional headshot to be added]*
+
+---
+
+## Vickie Zhang
+**Vickie Zhang** - [Affiliation]  
+*Member*
+
+**Bio:** Vickie Zhang is a [title] at [affiliation] with expertise in [areas]. [Additional bio information to be updated]
+
+**Areas of Expertise:**
+- [To be updated]
+- [To be updated]
+- [To be updated]
+- [To be updated]
+
+**Education:** [To be updated] **Contact:** [Email to be updated]
 
 ---
 
@@ -134,11 +413,8 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
 
 ## How to Join
 
-1. **Contact the leadership team** via [workstream email]
-2. **Attend our bi-monthly seminars** to learn about current activities
-3. **Contribute to sub-team activities** based on your interests and expertise
+We welcome participation from statisticians, clinicians, and researchers interested in treatment switching methodology.
 
-## Contact Information
-
+**Contact:** [workstream-email@asa.org]
 
 ---
