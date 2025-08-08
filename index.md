@@ -31,11 +31,11 @@ Join us in advancing the science of treatment switching analysis!
 # Our Missions
   <p>In order to help standardize and promote treatment switching methodological research and ideas, we propose to start a Treatment Switch workstream with membership from FDA, academic, and industry leaders involved in methodology in this space. We have three major goals: </p>
   
-1. *Tutorial*: To write and publish a tutorial for treatment switching in the peer-reviewed journal Statistics in Medicine. Have received early feedback from editor Paul Albert that the journal would welcome the approach, but need to go through standard peer-review process via associate editor.
+1. **Tutorial**: To write and publish a tutorial for treatment switching in the peer-reviewed journal Statistics in Medicine. Have received early feedback from editor Paul Albert that the journal would welcome the approach, but need to go through standard peer-review process via associate editor.
   
-2. *Methods and Trial Implementation*: To do fundamental research on practical matters related to treatment switching and its occurrence in clinical trials. Topics to include simulations on the effect of crossover, proposals for how to pre-specify such analyses in protocols, methods and literature reviews on subsequent therapies.
+2. **Trial Implementation**: To do fundamental research on practical matters related to treatment switching and its occurrence in clinical trials. Topics to include simulations on the effect of crossover, proposals for how to pre-specify such analyses in protocols, methods and literature reviews on subsequent therapies.
   
-3. *Code Standardization*: To work towards a well-rounded repository of code with examples to implement most standard models for such work.
+3. **Code Standardization**: To work towards a well-rounded repository of code with examples to implement most standard models for such work.
 
 <!--
 </div>
@@ -45,22 +45,24 @@ Join us in advancing the science of treatment switching analysis!
 <button class="collapsible">👥 Sub-teams</button>
 <div class="collapsible-content">
 -->
-  <h3>Workstream Organization</h3>
+<!--
+<h3>Workstream Organization</h3>
   <p>Our workstream is organized into specialized sub-teams focused on different aspects of treatment switching methodology.</p>
-   
-  <h4>📖 Tutorial</h4>
-  <p>To write and publish a tutorial for treatment switching in the peer-reviewed journal Statistics in Medicine. Have received early feedback from editor Paul Albert that the journal would welcome the approach, but need to go through standard peer-review process via associate editor.</p>
+-->   
+# Sub-teams  
+  1. **Tutorial Sub-team:**
   <p><strong>Leads:</strong> Jing Xu (Takeda), Ananya Roy (Merck)</p>
   
-  <h4>🔬 Method and Trial Implementation</h4>
+2. **Method and Trial Implementation Sub-team:**
   <p>To do fundamental research on practical matters related to treatment switching and its occurrence in clinical trials. Topics to include simulations on the effect of crossover, proposals for how to pre-specify such analyses in protocols, methods and literature reviews on subsequent therapies.</p>
   <p><strong>Leads:</strong> Yufei Wang (Eli Lily) and Ray Lin (Genentech/Roche)</p>
   
-  <h4>💻 Code Standardization</h4>
+ 3. **Code Standardization Sub-team:**
   <p>Goal is to work towards a well-rounded repository of code with examples to implement most standard models for such work.</p>
   <p><strong>Leads:</strong> Kaifeng Lu (BeOne Medicines) and Ray Lin (Genentech/Roche)</p>
-  
 
+
+<!--
 <button class="collapsible">📈 Recent Updates</button>
 <div class="collapsible-content">
   <h3>Latest Developments</h3>
@@ -74,10 +76,12 @@ Join us in advancing the science of treatment switching analysis!
   <h4>Upcoming Activities:</h4>
  
 </div>
-
+-->
+<!--
 <button class="collapsible">👨‍💼 Get Involved</button>
 <div class="collapsible-content">
-  <h3>Join Our Community</h3>
+-->
+# Join Our Community</h3>
   <p>We welcome statisticians, clinicians, and researchers interested in advancing treatment switching methodology.</p>
   
   <h4>How to Participate:</h4>
