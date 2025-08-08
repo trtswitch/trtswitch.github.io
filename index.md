@@ -28,18 +28,14 @@ Join us in advancing the science of treatment switching analysis!
   
   <p>In the past decade of rapid oncology development for immuno-based and targeted-based therapies, treatment switching has been a regular occurrence in clinical trials and has led to several key oncologic drug advisory committee meetings. Yet, the topic has received only limited development in the academic and methodologic space and no organized group has yet emerged to bring a structured foundation for future research endeavors.</p>
   
-# Our Mission
+# Our Missions
   <p>In order to help standardize and promote treatment switching methodological research and ideas, we propose to start a Treatment Switch workstream with membership from FDA, academic, and industry leaders involved in methodology in this space. We have three major goals: </p>
   
-1. Tutorial
-
-To write and publish a tutorial for treatment switching in the peer-reviewed journal Statistics in Medicine. Have received early feedback from editor Paul Albert that the journal would welcome the approach, but need to go through standard peer-review process via associate editor.
+1. *Tutorial*: To write and publish a tutorial for treatment switching in the peer-reviewed journal Statistics in Medicine. Have received early feedback from editor Paul Albert that the journal would welcome the approach, but need to go through standard peer-review process via associate editor.
   
-3. Trial Implementation
-  <p>To do fundamental research on practical matters related to treatment switching and its occurrence in clinical trials. Topics to include simulations on the effect of crossover, proposals for how to pre-specify such analyses in protocols, methods and literature reviews on subsequent therapies.</p>
+2. *Methods and Trial Implementation*: To do fundamental research on practical matters related to treatment switching and its occurrence in clinical trials. Topics to include simulations on the effect of crossover, proposals for how to pre-specify such analyses in protocols, methods and literature reviews on subsequent therapies.
   
-  <h4>💻 Code Standardization</h4>
-  <p>To work towards a well-rounded repository of code with examples to implement most standard models for such work.</p>
+3. *Code Standardization*: To work towards a well-rounded repository of code with examples to implement most standard models for such work.
 
 <!--
 </div>
