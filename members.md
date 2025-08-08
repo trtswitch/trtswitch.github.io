@@ -193,7 +193,7 @@ We welcome participation from statisticians, clinicians, and researchers interes
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
   <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Ray Lin" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+    <img src="https://lh5.googleusercontent.com/habV27MspU4oFwyESPBnVHGIYQOq1R7xo5GUcMgTH9fy14GkHuNa8aPs161lhE7zo8Xsv41liA9NNZ-d-PsduH2kfP7xuyO_tQehccXx4kSu7zpHd9oUeoXIVej2sTtHAZEW1U6VUNl5JHuCbOrmhXdGcm_LiovQKp9W=w1280" alt="Ray Lin" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
   </div>
   <div style="flex-grow: 1;">
     <h2 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
@@ -889,3 +889,5 @@ We welcome participation from statisticians, clinicians, and researchers interes
 **Contact:** [workstream-email@asa.org]
 
 ---
+
+*Member information is being updated. If you are a workstream member and would like to update your profile, please contact the leadership team with your bio, photo, and current affiliation.*
