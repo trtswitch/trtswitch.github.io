@@ -9,8 +9,6 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
 
 ---
 
-## Leadership Team
-
 ### Founding Co-leads
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
@@ -78,7 +76,7 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
       <span style="margin-left: 1rem; background: #007bff; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Co-lead</span>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Ray Lin is a Senior Principal Statistical Scientist in the Biostatistics MCO group (Methods, Collaboration, and Outreach) at Genentech. He joined Genentech around 10 years ago and had been supporting both early and late stage development in oncology before joining MCO. He is passionate about applying statistical methodology to clinical trials and is active in external biostatistical communities, currently serving as President Elect of ASA San Francisco Bay Area local chapter, on the Board of Directors of the BBSW (Bay-area Biopharma Statistics Workshop), and on the leadership team of the Cross-Pharma Non-Proportional Hazard Working Group.
+      Ray Lin is a Senior Principal Statistical Scientist at Genentech/Roche. He joined the company around 15 years ago and had been supporting both early and late stage development in oncology. He is passionate about applying statistical methodology to clinical trials and actively participanting in multiple cross-company collaborations. He is also enthusiastic in fostering biostatistical communities, including on the Officers team of ASA San Francisco Bay Area local chapter and serving as the Vice President of Career Development and Leadership of the BBSW (Bay-area Biopharma Statistics Workshop). He got his PhD from Stanford University in 2010.
     </p>
     <p style="margin: 0;">
       <strong>Email:</strong> <a href="mailto:lins24@gene.com">lins24@gene.com</a>
@@ -87,25 +85,6 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
 </div>
 
 ---
-
-## All Workstream Members
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
-  <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Abhijoy Saha" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
-  </div>
-  <div style="flex-grow: 1;">
-    <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
-      <a href="https://www.linkedin.com/in/abhijoy-saha/" target="_blank" style="text-decoration: none; color: #2c3e50;">Abhijoy Saha</a>
-    </h3>
-    <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Abhijoy Saha is a biostatistician with expertise in clinical trials and statistical analysis.
-    </p>
-    <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:abhijoy.saha@company.com">abhijoy.saha@company.com</a>
-    </p>
-  </div>
-</div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
   <div style="flex-shrink: 0; margin-right: 2rem;">
@@ -121,6 +100,60 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
     </p>
     <p style="margin: 0;">
       <strong>Email:</strong> <a href="mailto:ananya.roy@merck.com">ananya.roy@merck.com</a>
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
+  <div style="flex-shrink: 0; margin-right: 2rem;">
+    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Kaifeng Lu" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+  </div>
+  <div style="flex-grow: 1;">
+    <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
+      <a href="https://www.linkedin.com/in/kaifeng-lu/" target="_blank" style="text-decoration: none; color: #2c3e50;">Kaifeng Lu</a>
+      <span style="margin-left: 1rem; background: #fd7e14; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Code Standardization Sub-team Co-lead</span>
+    </h3>
+    <p style="margin-bottom: 1.5rem; line-height: 1.6;">
+      Kaifeng Lu is a biostatistician with extensive experience in statistical programming and methodology development. He co-leads the Code Standardization sub-team, working towards developing comprehensive code repositories for treatment switching methods.
+    </p>
+    <p style="margin: 0;">
+      <strong>Email:</strong> <a href="mailto:kaifeng.lu@company.com">kaifeng.lu@company.com</a>
+    </p>
+  </div>
+</div>
+
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
+  <div style="flex-shrink: 0; margin-right: 2rem;">
+    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Yufei Wang" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+  </div>
+  <div style="flex-grow: 1;">
+    <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
+      <a href="https://www.linkedin.com/in/yufei-wang/" target="_blank" style="text-decoration: none; color: #2c3e50;">Yufei Wang</a>
+      <span style="margin-left: 1rem; background: #20c997; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Method Sub-team Co-lead</span>
+    </h3>
+    <p style="margin-bottom: 1.5rem; line-height: 1.6;">
+      Yufei Wang is a biostatistician at GSK with expertise in advanced statistical methodology and causal inference. She co-leads the Method sub-team, focusing on methodological research and development.
+    </p>
+    <p style="margin: 0;">
+      <strong>Email:</strong> <a href="mailto:yufei.wang@gsk.com">yufei.wang@gsk.com</a>
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
+  <div style="flex-shrink: 0; margin-right: 2rem;">
+    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Abhijoy Saha" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+  </div>
+  <div style="flex-grow: 1;">
+    <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
+      <a href="https://www.linkedin.com/in/abhijoy-saha/" target="_blank" style="text-decoration: none; color: #2c3e50;">Abhijoy Saha</a>
+    </h3>
+    <p style="margin-bottom: 1.5rem; line-height: 1.6;">
+      Abhijoy Saha is a biostatistician with expertise in clinical trials and statistical analysis.
+    </p>
+    <p style="margin: 0;">
+      <strong>Email:</strong> <a href="mailto:abhijoy.saha@company.com">abhijoy.saha@company.com</a>
     </p>
   </div>
 </div>
@@ -149,7 +182,6 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
       <a href="https://www.linkedin.com/in/cindy-chen/" target="_blank" style="text-decoration: none; color: #2c3e50;">Cindy Chen</a>
-      <span style="margin-left: 1rem; background: #6c757d; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Member</span>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
       Cindy Chen is a biostatistician with expertise in oncology clinical trials and treatment switching analysis.
@@ -185,7 +217,6 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
       <a href="https://www.linkedin.com/in/hongwei-wang/" target="_blank" style="text-decoration: none; color: #2c3e50;">Hongwei Wang</a>
-      <span style="margin-left: 1rem; background: #6c757d; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Member</span>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
       Hongwei Wang is a biostatistician with expertise in clinical trials and statistical methodology.
@@ -196,23 +227,6 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
-  <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Kaifeng Lu" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
-  </div>
-  <div style="flex-grow: 1;">
-    <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
-      <a href="https://www.linkedin.com/in/kaifeng-lu/" target="_blank" style="text-decoration: none; color: #2c3e50;">Kaifeng Lu</a>
-      <span style="margin-left: 1rem; background: #fd7e14; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Code Standardization Sub-team Co-lead</span>
-    </h3>
-    <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Kaifeng Lu is a biostatistician with extensive experience in statistical programming and methodology development. He co-leads the Code Standardization sub-team, working towards developing comprehensive code repositories for treatment switching methods.
-    </p>
-    <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:kaifeng.lu@company.com">kaifeng.lu@company.com</a>
-    </p>
-  </div>
-</div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
   <div style="flex-shrink: 0; margin-right: 2rem;">
@@ -221,7 +235,6 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
       <a href="https://www.linkedin.com/in/laura-fernandes/" target="_blank" style="text-decoration: none; color: #2c3e50;">Laura Fernandes</a>
-      <span style="margin-left: 1rem; background: #6c757d; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Member</span>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
       Laura Fernandes is a biostatistician with experience in clinical research and statistical methodology.
@@ -354,24 +367,6 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
     </p>
     <p style="margin: 0;">
       <strong>Email:</strong> <a href="mailto:yuche.chung@company.com">yuche.chung@company.com</a>
-    </p>
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
-  <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Yufei Wang" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
-  </div>
-  <div style="flex-grow: 1;">
-    <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
-      <a href="https://www.linkedin.com/in/yufei-wang/" target="_blank" style="text-decoration: none; color: #2c3e50;">Yufei Wang</a>
-      <span style="margin-left: 1rem; background: #20c997; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Method Sub-team Co-lead</span>
-    </h3>
-    <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Yufei Wang is a biostatistician at GSK with expertise in advanced statistical methodology and causal inference. She co-leads the Method sub-team, focusing on methodological research and development.
-    </p>
-    <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:yufei.wang@gsk.com">yufei.wang@gsk.com</a>
     </p>
   </div>
 </div>
