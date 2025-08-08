@@ -132,7 +132,7 @@ This workstream is formed to address a major challenge in oncology clinical tria
   
   <div style="text-align: center; padding: 1rem; border: 1px solid #dee2e6; border-radius: 8px;">
     <h3>📚 Resources</h3>
-    <p>Training materials, presentations, and publications</p>
+    <p>Training materials and publications</p>
     <a href="{{ '/resources' | relative_url }}" class="btn">Explore</a>
   </div>
   
