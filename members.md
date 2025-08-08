@@ -74,8 +74,8 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
 <!--
       <span style="margin-left: 1rem; background: #20c997; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Method Sub-team Co-lead</span>
       <span style="margin-left: 1rem; background: #fd7e14; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Code Standardization Sub-team Co-lead</span>      
+ -->
     </h3>
--->
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
       Ray Lin is a Senior Principal Statistical Scientist at Genentech/Roche. He is co-leading this workstream with Bingxia and co-leading the Code Standardization Subteam with Kaifeng and the Method Subteam with Yufei. He joined the company around 15 years ago and had been supporting both early and late stage drug development in oncology. He is passionate about applying statistical methodology to clinical trials and actively participating in multiple cross-company collaborations. He is also enthusiastic in fostering biostatistical communities, including on the Officers team of ASA San Francisco Bay Area local chapter and serving as the Vice President of Career Development and Leadership of the BBSW (Bay-area Biopharma Statistics Workshop). He got his PhD from Stanford University in 2010.
     </p>
