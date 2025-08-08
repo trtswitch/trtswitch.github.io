@@ -44,7 +44,7 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
       <span style="margin-left: 1rem; background: #28a745; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Founding Co-lead</span>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Meijing Huang is a biostatistician with extensive experience in oncology clinical trials and treatment switching methodology. She is one of the founding co-leads of the Treatment Switch Workstream, helping to establish the group's mission and coordinate activities between industry and academic partners.
+      Meijing Huang is ... 
     </p>
     <p style="margin: 0;">
       <strong>Areas of Expertise:</strong> Treatment switching methodology • Survival analysis • Clinical trial biostatistics • Causal inference
