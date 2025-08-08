@@ -5,8 +5,6 @@ title: Members
 
 # Workstream Members
 
-# Workstream Members
-
 The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings together experts from industry, academia, and regulatory agencies to advance statistical methods for treatment switching in oncology clinical trials.
 
 ---
