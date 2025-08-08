@@ -3,7 +3,8 @@ layout: default
 title: Members
 ---
 
-v7∙LatestCopyPublishWorkstream Members
+Workstream Members
+
 The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings together experts from industry, academia, and regulatory agencies to advance statistical methods for treatment switching in oncology clinical trials.
 Note: Ray Lin's profile below serves as an example of the format and level of detail we're looking for. Please use this as a template when providing your information.
 
