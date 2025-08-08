@@ -138,8 +138,8 @@ This workstream is formed to address a major challenge in oncology clinical tria
   
   <div style="text-align: center; padding: 1rem; border: 1px solid #dee2e6; border-radius: 8px;">
     <h3>📦 R Package</h3>
-    <p>Download and install trtswitch</p>
-    <a href="https://github.com/ShreyaSreeram27/trtswitch" class="btn" target="_blank">GitHub</a>
+    <p>Download our R package</p>
+    <a href="https://github.com/ShreyaSreeram27/trtswitch" class="btn" target="_blank">CRAN</a>
   </div>
 </div>
 
