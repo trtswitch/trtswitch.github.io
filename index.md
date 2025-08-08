@@ -111,24 +111,19 @@ This workstream is formed to address a major challenge in oncology clinical tria
 ## Quick Navigation
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin: 2rem 0;">
-  <div style="text-align: center; padding: 1rem; border: 1px solid #dee2e6; border-radius: 8px;">
-    <h3>📊 Methods</h3>
-    <p>Statistical approaches for treatment switching</p>
-    <a href="{{ '/methods' | relative_url }}" class="btn">Learn More</a>
-  </div>
-  
-  <div style="text-align: center; padding: 1rem; border: 1px solid #dee2e6; border-radius: 8px;">
-    <h3>🎯 Objectives</h3>
-    <p>Goals and scope of the workstream</p>
-    <a href="{{ '/objectives' | relative_url }}" class="btn">View Details</a>
-  </div>
   
   <div style="text-align: center; padding: 1rem; border: 1px solid #dee2e6; border-radius: 8px;">
     <h3>👥 Members</h3>
     <p>Meet our workstream team</p>
     <a href="{{ '/members' | relative_url }}" class="btn">View Team</a>
   </div>
-  
+
+  <div style="text-align: center; padding: 1rem; border: 1px solid #dee2e6; border-radius: 8px;">
+    <h3>📊 Methods</h3>
+    <p>Statistical approaches for treatment switching</p>
+    <a href="{{ '/methods' | relative_url }}" class="btn">Learn More</a>
+  </div>
+    
   <div style="text-align: center; padding: 1rem; border: 1px solid #dee2e6; border-radius: 8px;">
     <h3>🎓 Seminars</h3>
     <p>Educational webinars and workshops</p>
