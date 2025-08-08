@@ -5,7 +5,19 @@ title: Home
 
 # Welcome to the Oncology Treatment Switch Workstream
 
-This workstream is formed to address a major challenge in oncology clinical trials, namely the impact of treatment switch on long-term outcomes.
+The Oncology Treatment Switch Workstream aims to bring together statisticians, clinicians, and regulatory experts to tackle one of the most challenging aspects of modern clinical trials: **treatment switching**. This Workstream is an initiative of the Statistical Methods in Oncology Scientific Working Group under ASA Biopharmaceutical Section.
+
+<!--
+When patients switch from their assigned treatment to another therapy (often due to disease progression or safety concerns), traditional intent-to-treat analyses may not provide the most relevant estimates of treatment efficacy. Our workstream develops, validates, and promotes statistical methods that can properly adjust for this switching while maintaining scientific rigor.
+
+**Why This Matters:**
+- Treatment switching is increasingly common in oncology trials
+- Regulatory agencies need robust methods for evaluation
+- Patients and clinicians need clear efficacy estimates
+- Statistical community needs validated, accessible tools
+-->
+
+Join us in advancing the science of treatment switching analysis!
 
 <button class="collapsible">📋 Objectives</button>
 <div class="collapsible-content">
@@ -21,14 +33,12 @@ This workstream is formed to address a major challenge in oncology clinical tria
   
   <h4>📖 Tutorial</h4>
   <p>To write and publish a tutorial for treatment switching in the peer-reviewed journal Statistics in Medicine. Have received early feedback from editor Paul Albert that the journal would welcome the approach, but need to go through standard peer-review process via associate editor.</p>
-  <p><strong>Leads:</strong> Jing Xu (Takeda), Ananya Roy (Merck)</p>
   
   <h4>🔬 Trial Implementation</h4>
   <p>To do fundamental research on practical matters related to treatment switching and its occurrence in clinical trials. Topics to include simulations on the effect of crossover, proposals for how to pre-specify such analyses in protocols, methods and literature reviews on subsequent therapies.</p>
-  <p><strong>Leads:</strong> Ray Lin (Genentech), Yufei Wang (GSK)</p>
   
   <h4>💻 Code Standardization</h4>
-  <p>Goal is to work towards a well-rounded repository of code with examples to implement most standard models for such work.</p>
+  <p>To work towards a well-rounded repository of code with examples to implement most standard models for such work.</p>
 </div>
 
   
@@ -36,34 +46,19 @@ This workstream is formed to address a major challenge in oncology clinical tria
 <div class="collapsible-content">
   <h3>Workstream Organization</h3>
   <p>Our workstream is organized into specialized sub-teams focused on different aspects of treatment switching methodology.</p>
-  
-  <h4>Current Sub-teams:</h4>
-  
-  <h5>📖 Tutorial</h5>
+   
+  <h4>📖 Tutorial</h4>
   <p>To write and publish a tutorial for treatment switching in the peer-reviewed journal Statistics in Medicine. Have received early feedback from editor Paul Albert that the journal would welcome the approach, but need to go through standard peer-review process via associate editor.</p>
   <p><strong>Leads:</strong> Jing Xu (Takeda), Ananya Roy (Merck)</p>
   
-  <h5>🔬 Trial Implementation</h5>
+  <h4>🔬 Method and Trial Implementation</h4>
   <p>To do fundamental research on practical matters related to treatment switching and its occurrence in clinical trials. Topics to include simulations on the effect of crossover, proposals for how to pre-specify such analyses in protocols, methods and literature reviews on subsequent therapies.</p>
-  <p><strong>Leads:</strong> Ray Lin (Genentech), Yufei Wang (GSK)</p>
+  <p><strong>Leads:</strong> Yufei Wang (Eli Lily) and Ray Lin (Genentech/Roche)</p>
   
-  <h5>💻 Code Standardization</h5>
+  <h4>💻 Code Standardization</h4>
   <p>Goal is to work towards a well-rounded repository of code with examples to implement most standard models for such work.</p>
+  <p><strong>Leads:</strong> Kaifeng Lu (BeOne Medicines) and Ray Lin (Genentech/Roche)</p>
   
-  <h5>📅 Logistics/Planning</h5>
-  <p>Schedule bi-monthly seminars and to coordinate group activities such as short course, workshop proposals, and publications. Seminars with Professor Eric Tchetgen Tchetgen (UPenn), Hege Michiels (Argenx), and Kaspar Rufibach (Roche) have been scheduled for the first half of 2024.</p>
-  <p><strong>Leads:</strong> Erik Bloomquist (Merck)</p>
-  
-  <h4>Sub-team Activities:</h4>
-  <ul>
-    <li>Bi-monthly seminars and coordination meetings</li>
-    <li>Cross-team collaboration on methodology development</li>
-    <li>Joint publications and workshop proposals</li>
-    <li>Literature reviews on subsequent therapies</li>
-    <li>Code repository development and maintenance</li>
-    <li>Protocol analysis pre-specification guidance</li>
-  </ul>
-</div>
 
 <button class="collapsible">📈 Recent Updates</button>
 <div class="collapsible-content">
@@ -71,7 +66,7 @@ This workstream is formed to address a major challenge in oncology clinical tria
   
   <h4>Recent Milestones:</h4>
   <ul>
-    <li><strong>Q4 2024:</strong> Published package on CRANE </li>
+    <li><strong>Q4 2024:</strong> Published package on CRAN </li>
 
   </ul>
   
@@ -87,21 +82,12 @@ This workstream is formed to address a major challenge in oncology clinical tria
   <h4>How to Participate:</h4>
   <ul>
     <li><strong>Join a Sub-team:</strong> Contact sub-team leads to contribute to specific areas</li>
-    <li><strong>Attend Meetings:</strong> Monthly workstream meetings open to all members</li>
+    <li><strong>Attend Meetings:</strong> Virtual seminars open to all members</li>
     <li><strong>Contribute to Validation:</strong> Help test methods on real-world datasets</li>
     <li><strong>Share Experience:</strong> Present case studies from your trials</li>
     <li><strong>Review Materials:</strong> Provide feedback on guidance documents</li>
   </ul>
-  
-  <h4>Membership Benefits:</h4>
-  <ul>
-    <li>Access to cutting-edge methodological developments</li>
-    <li>Networking with leading experts in the field</li>
-    <li>Early access to validation results and guidance documents</li>
-    <li>Opportunities for collaborative research and publications</li>
-    <li>Professional development through educational activities</li>
-  </ul>
-  
+   
   <p><strong>Ready to get involved?</strong> Contact us at [workstream-email@asa.org] or join our next monthly meeting.</p>
 </div>
 
@@ -147,14 +133,4 @@ This workstream is formed to address a major challenge in oncology clinical tria
 
 ## About This Workstream
 
-The ASA Biopharmaceutical Section's Oncology Treatment Switch Workstream brings together statisticians, clinicians, and regulatory experts to tackle one of the most challenging aspects of modern clinical trials: **treatment switching**.
 
-When patients switch from their assigned treatment to another therapy (often due to disease progression or safety concerns), traditional intent-to-treat analyses may not provide the most relevant estimates of treatment efficacy. Our workstream develops, validates, and promotes statistical methods that can properly adjust for this switching while maintaining scientific rigor.
-
-**Why This Matters:**
-- Treatment switching is increasingly common in oncology trials
-- Regulatory agencies need robust methods for evaluation
-- Patients and clinicians need clear efficacy estimates
-- Statistical community needs validated, accessible tools
-
-Join us in advancing the science of treatment switching analysis!
