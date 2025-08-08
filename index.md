@@ -32,9 +32,10 @@ Join us in advancing the science of treatment switching analysis!
   <p>In order to help standardize and promote treatment switching methodological research and ideas, we propose to start a Treatment Switch workstream with membership from FDA, academic, and industry leaders involved in methodology in this space. We have three major goals: </p>
   
 1. Tutorial
-  <p>To write and publish a tutorial for treatment switching in the peer-reviewed journal Statistics in Medicine. Have received early feedback from editor Paul Albert that the journal would welcome the approach, but need to go through standard peer-review process via associate editor.</p>
+
+To write and publish a tutorial for treatment switching in the peer-reviewed journal Statistics in Medicine. Have received early feedback from editor Paul Albert that the journal would welcome the approach, but need to go through standard peer-review process via associate editor.
   
-2. Trial Implementation
+3. Trial Implementation
   <p>To do fundamental research on practical matters related to treatment switching and its occurrence in clinical trials. Topics to include simulations on the effect of crossover, proposals for how to pre-specify such analyses in protocols, methods and literature reviews on subsequent therapies.</p>
   
   <h4>💻 Code Standardization</h4>
@@ -44,8 +45,10 @@ Join us in advancing the science of treatment switching analysis!
 </div>
 -->
   
+<!--
 <button class="collapsible">👥 Sub-teams</button>
 <div class="collapsible-content">
+-->
   <h3>Workstream Organization</h3>
   <p>Our workstream is organized into specialized sub-teams focused on different aspects of treatment switching methodology.</p>
    
@@ -129,7 +132,10 @@ Join us in advancing the science of treatment switching analysis!
     <p>Download our R package</p>
     <a href="https://github.com/ShreyaSreeram27/trtswitch" class="btn" target="_blank">CRAN</a>
   </div>
+
+<!--
 </div>
+-->
 
 ---
 
