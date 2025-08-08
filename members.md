@@ -21,7 +21,7 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
       <span style="margin-left: 1rem; background: #28a745; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Founding Co-lead</span>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Erik Bloomquist is a Statistical Scientist at Merck with expertise in oncology biostatistics and clinical trial methodology. He is one of the founding co-leads of the Treatment Switch Workstream, helping to establish the group's mission and coordinate activities across industry, academia, and regulatory partners.
+      Erik Bloomquist is a Senior Principal Scientist at Merck...
     </p>
     <p style="margin: 0;">
       <strong>Email:</strong> <a href="mailto:erik.bloomquist@merck.com">erik.bloomquist@merck.com</a>
@@ -370,6 +370,6 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
 
 We welcome participation from statisticians, clinicians, and researchers interested in treatment switching methodology.
 
-**Contact:** [workstream-email@asa.org](mailto:workstream-email@asa.org)
+**Contact:** [trt.switch@gmail.com](mailto:trt.switch@gmail.com)
 
 ---
