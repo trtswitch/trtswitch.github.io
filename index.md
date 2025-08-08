@@ -114,25 +114,25 @@ This workstream is formed to address a major challenge in oncology clinical tria
   
   <div style="text-align: center; padding: 1rem; border: 1px solid #dee2e6; border-radius: 8px;">
     <h3>👥 Members</h3>
-    <p>Meet our workstream team</p>
+    <p>Meet our workstream team members </p>
     <a href="{{ '/members' | relative_url }}" class="btn">View Team</a>
   </div>
 
   <div style="text-align: center; padding: 1rem; border: 1px solid #dee2e6; border-radius: 8px;">
     <h3>📊 Methods</h3>
-    <p>Statistical approaches for treatment switching</p>
+    <p>Methods adjusting for treatment switching</p>
     <a href="{{ '/methods' | relative_url }}" class="btn">Learn More</a>
   </div>
     
   <div style="text-align: center; padding: 1rem; border: 1px solid #dee2e6; border-radius: 8px;">
     <h3>🎓 Seminars</h3>
-    <p>Educational webinars and workshops</p>
+    <p>Educational webinars</p>
     <a href="{{ '/seminars' | relative_url }}" class="btn">View Schedule</a>
   </div>
   
   <div style="text-align: center; padding: 1rem; border: 1px solid #dee2e6; border-radius: 8px;">
     <h3>📚 Resources</h3>
-    <p>Documentation, papers, and guides</p>
+    <p>Training materials, presentations, and publications</p>
     <a href="{{ '/resources' | relative_url }}" class="btn">Explore</a>
   </div>
   
