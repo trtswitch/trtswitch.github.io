@@ -41,7 +41,6 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
       <span style="margin-left: 1rem; background: #28a745; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Founding Co-lead</span>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Meijing Huang is a 
     </p>
     <p style="margin: 0;">
       <strong>Email:</strong> <a href="mailto:meijing.huang@company.com">meijing.huang@company.com</a>
@@ -98,7 +97,6 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
       <a href="https://www.linkedin.com/in/abhijoy-saha/" target="_blank" style="text-decoration: none; color: #2c3e50;">Abhijoy Saha</a>
-      <span style="margin-left: 1rem; background: #6c757d; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Member</span>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
       Abhijoy Saha is a biostatistician with expertise in clinical trials and statistical analysis.
@@ -134,7 +132,6 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
       <a href="https://www.linkedin.com/in/charu-gupta/" target="_blank" style="text-decoration: none; color: #2c3e50;">Charu Gupta</a>
-      <span style="margin-left: 1rem; background: #6c757d; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Member</span>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
       Charu Gupta is a biostatistician with experience in pharmaceutical research and clinical trials.
