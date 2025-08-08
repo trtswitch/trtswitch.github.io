@@ -26,9 +26,6 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
       Erik Bloomquist is a Statistical Scientist at Merck with expertise in oncology biostatistics and clinical trial methodology. He is one of the founding co-leads of the Treatment Switch Workstream, helping to establish the group's mission and coordinate activities across industry, academia, and regulatory partners.
     </p>
     <p style="margin: 0;">
-      <strong>Areas of Expertise:</strong> Treatment switching methodology • Oncology biostatistics • Clinical trial design • Regulatory statistics
-    </p>
-    <p style="margin: 0.5rem 0 0 0;">
       <strong>Email:</strong> <a href="mailto:erik.bloomquist@merck.com">erik.bloomquist@merck.com</a>
     </p>
   </div>
@@ -44,12 +41,9 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
       <span style="margin-left: 1rem; background: #28a745; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Founding Co-lead</span>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Meijing Huang is ... 
+      Meijing Huang is a biostatistician with extensive experience in oncology clinical trials and treatment switching methodology. She is one of the founding co-leads of the Treatment Switch Workstream, helping to establish the group's mission and coordinate activities between industry and academic partners.
     </p>
     <p style="margin: 0;">
-      <strong>Areas of Expertise:</strong> Treatment switching methodology • Survival analysis • Clinical trial biostatistics • Causal inference
-    </p>
-    <p style="margin: 0.5rem 0 0 0;">
       <strong>Email:</strong> <a href="mailto:meijing.huang@company.com">meijing.huang@company.com</a>
     </p>
   </div>
@@ -70,9 +64,6 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
       Bingxia Wang is a biostatistician with expertise in clinical trial methodology and treatment switching analysis. She serves as a co-lead for the Treatment Switch Workstream, coordinating research activities and methodology development across the team.
     </p>
     <p style="margin: 0;">
-      <strong>Areas of Expertise:</strong> Treatment switching analysis • Clinical biostatistics • Survival analysis • Protocol development
-    </p>
-    <p style="margin: 0.5rem 0 0 0;">
       <strong>Email:</strong> <a href="mailto:bingxia.wang@company.com">bingxia.wang@company.com</a>
     </p>
   </div>
@@ -84,17 +75,14 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
-      <a href="https://www.linkedin.com/in/ray-lin-stanford/" target="_blank" style="text-decoration: none; color: #2c3e50;">Ray Lin</a>
+      <a href="https://www.linkedin.com/in/ray-lin-7176373/" target="_blank" style="text-decoration: none; color: #2c3e50;">Ray Lin</a>
       <span style="margin-left: 1rem; background: #007bff; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Co-lead</span>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
       Ray Lin is a Senior Principal Statistical Scientist in the Biostatistics MCO group (Methods, Collaboration, and Outreach) at Genentech. He joined Genentech around 10 years ago and had been supporting both early and late stage development in oncology before joining MCO. He is passionate about applying statistical methodology to clinical trials and is active in external biostatistical communities, currently serving as President Elect of ASA San Francisco Bay Area local chapter, on the Board of Directors of the BBSW (Bay-area Biopharma Statistics Workshop), and on the leadership team of the Cross-Pharma Non-Proportional Hazard Working Group.
     </p>
     <p style="margin: 0;">
-      <strong>Areas of Expertise:</strong> Treatment switching methodology • Clinical trial design and implementation • Simulation studies for crossover effects • Protocol analysis pre-specification
-    </p>
-    <p style="margin: 0.5rem 0 0 0;">
-      <strong>Education:</strong> PhD from Stanford University (2010) • <strong>Email:</strong> <a href="mailto:lins24@gene.com">lins24@gene.com</a>
+      <strong>Email:</strong> <a href="mailto:lins24@gene.com">lins24@gene.com</a>
     </p>
   </div>
 </div>
@@ -116,9 +104,6 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
       Abhijoy Saha is a biostatistician with expertise in clinical trials and statistical analysis.
     </p>
     <p style="margin: 0;">
-      <strong>Areas of Expertise:</strong> Clinical biostatistics • Statistical analysis • Trial methodology • Data interpretation
-    </p>
-    <p style="margin: 0.5rem 0 0 0;">
       <strong>Email:</strong> <a href="mailto:abhijoy.saha@company.com">abhijoy.saha@company.com</a>
     </p>
   </div>
@@ -137,9 +122,6 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
       Ananya Roy is a biostatistician at Merck with expertise in oncology clinical trials. She leads the Tutorial sub-team, working on publishing educational content for treatment switching methods in Statistics in Medicine.
     </p>
     <p style="margin: 0;">
-      <strong>Areas of Expertise:</strong> Educational content development • Treatment switching methodology • Statistical tutorials • Clinical trial biostatistics
-    </p>
-    <p style="margin: 0.5rem 0 0 0;">
       <strong>Email:</strong> <a href="mailto:ananya.roy@merck.com">ananya.roy@merck.com</a>
     </p>
   </div>
@@ -158,9 +140,6 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
       Charu Gupta is a biostatistician with experience in pharmaceutical research and clinical trials.
     </p>
     <p style="margin: 0;">
-      <strong>Areas of Expertise:</strong> Pharmaceutical statistics • Clinical trials • Biostatistics • Regulatory submissions
-    </p>
-    <p style="margin: 0.5rem 0 0 0;">
       <strong>Email:</strong> <a href="mailto:charu.gupta@company.com">charu.gupta@company.com</a>
     </p>
   </div>
@@ -179,9 +158,6 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
       Cindy Chen is a biostatistician with expertise in oncology clinical trials and treatment switching analysis.
     </p>
     <p style="margin: 0;">
-      <strong>Areas of Expertise:</strong> Clinical biostatistics • Treatment switching • Oncology trials • Survival analysis
-    </p>
-    <p style="margin: 0.5rem 0 0 0;">
       <strong>Email:</strong> <a href="mailto:cindy.chen@company.com">cindy.chen@company.com</a>
     </p>
   </div>
@@ -200,9 +176,6 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
       Heng Wang is a biostatistician with expertise in statistical methodology and clinical trials.
     </p>
     <p style="margin: 0;">
-      <strong>Areas of Expertise:</strong> Statistical methodology • Clinical trials • Biostatistics • Data analysis
-    </p>
-    <p style="margin: 0.5rem 0 0 0;">
       <strong>Email:</strong> <a href="mailto:heng.wang@company.com">heng.wang@company.com</a>
     </p>
   </div>
@@ -221,9 +194,6 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
       Hongwei Wang is a biostatistician with expertise in clinical trials and statistical methodology.
     </p>
     <p style="margin: 0;">
-      <strong>Areas of Expertise:</strong> Clinical biostatistics • Statistical methodology • Trial design • Data analysis
-    </p>
-    <p style="margin: 0.5rem 0 0 0;">
       <strong>Email:</strong> <a href="mailto:hongwei.wang@company.com">hongwei.wang@company.com</a>
     </p>
   </div>
@@ -242,9 +212,6 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
       Kaifeng Lu is a biostatistician with extensive experience in statistical programming and methodology development. He co-leads the Code Standardization sub-team, working towards developing comprehensive code repositories for treatment switching methods.
     </p>
     <p style="margin: 0;">
-      <strong>Areas of Expertise:</strong> Statistical programming • R package development • Code standardization • Treatment switching methodology
-    </p>
-    <p style="margin: 0.5rem 0 0 0;">
       <strong>Email:</strong> <a href="mailto:kaifeng.lu@company.com">kaifeng.lu@company.com</a>
     </p>
   </div>
@@ -263,9 +230,6 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
       Laura Fernandes is a biostatistician with experience in clinical research and statistical methodology.
     </p>
     <p style="margin: 0;">
-      <strong>Areas of Expertise:</strong> Clinical research • Statistical analysis • Biostatistics • Trial methodology
-    </p>
-    <p style="margin: 0.5rem 0 0 0;">
       <strong>Email:</strong> <a href="mailto:laura.fernandes@company.com">laura.fernandes@company.com</a>
     </p>
   </div>
@@ -284,9 +248,6 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
       Qing Liu is a biostatistician with expertise in statistical methodology and clinical research.
     </p>
     <p style="margin: 0;">
-      <strong>Areas of Expertise:</strong> Statistical methodology • Clinical research • Biostatistics • Data science
-    </p>
-    <p style="margin: 0.5rem 0 0 0;">
       <strong>Email:</strong> <a href="mailto:qing.liu@company.com">qing.liu@company.com</a>
     </p>
   </div>
@@ -305,9 +266,6 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
       Shreya Sreeram is a biostatistician with expertise in R programming and statistical methodology. She contributes to the workstream's development of R packages and methodology implementation.
     </p>
     <p style="margin: 0;">
-      <strong>Areas of Expertise:</strong> R package development • Treatment switching methodology • Statistical programming • Software development
-    </p>
-    <p style="margin: 0.5rem 0 0 0;">
       <strong>Email:</strong> <a href="mailto:shreya.sreeram@company.com">shreya.sreeram@company.com</a>
     </p>
   </div>
@@ -326,9 +284,6 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
       Suk-Young Yoo is a biostatistician with expertise in clinical trials and statistical methodology.
     </p>
     <p style="margin: 0;">
-      <strong>Areas of Expertise:</strong> Clinical biostatistics • Statistical methodology • Trial design • Data analysis
-    </p>
-    <p style="margin: 0.5rem 0 0 0;">
       <strong>Email:</strong> <a href="mailto:sukyoung.yoo@company.com">sukyoung.yoo@company.com</a>
     </p>
   </div>
@@ -347,9 +302,6 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
       Vickie Zhang is a biostatistician with expertise in clinical trials and statistical methodology.
     </p>
     <p style="margin: 0;">
-      <strong>Areas of Expertise:</strong> Clinical biostatistics • Statistical methodology • Trial design • Data analysis
-    </p>
-    <p style="margin: 0.5rem 0 0 0;">
       <strong>Email:</strong> <a href="mailto:vickie.zhang@company.com">vickie.zhang@company.com</a>
     </p>
   </div>
@@ -368,9 +320,6 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
       Wenjuan (Jessie) Gu is a biostatistician with expertise in clinical trials and statistical methodology.
     </p>
     <p style="margin: 0;">
-      <strong>Areas of Expertise:</strong> Clinical biostatistics • Statistical methodology • Trial design • Data analysis
-    </p>
-    <p style="margin: 0.5rem 0 0 0;">
       <strong>Email:</strong> <a href="mailto:jessie.gu@company.com">jessie.gu@company.com</a>
     </p>
   </div>
@@ -389,9 +338,6 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
       Ya Wang is a biostatistician with expertise in clinical trials and statistical methodology.
     </p>
     <p style="margin: 0;">
-      <strong>Areas of Expertise:</strong> Clinical biostatistics • Statistical methodology • Trial design • Data analysis
-    </p>
-    <p style="margin: 0.5rem 0 0 0;">
       <strong>Email:</strong> <a href="mailto:ya.wang@company.com">ya.wang@company.com</a>
     </p>
   </div>
@@ -410,9 +356,6 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
       Yu-Che Chung is a biostatistician with expertise in clinical trial methodology and statistical analysis.
     </p>
     <p style="margin: 0;">
-      <strong>Areas of Expertise:</strong> Clinical trial design • Statistical methodology • Biostatistics • Data analysis
-    </p>
-    <p style="margin: 0.5rem 0 0 0;">
       <strong>Email:</strong> <a href="mailto:yuche.chung@company.com">yuche.chung@company.com</a>
     </p>
   </div>
@@ -431,9 +374,6 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
       Yufei Wang is a biostatistician at GSK with expertise in advanced statistical methodology and causal inference. She co-leads the Method sub-team, focusing on methodological research and development.
     </p>
     <p style="margin: 0;">
-      <strong>Areas of Expertise:</strong> Causal inference • Treatment switching methodology • Survival analysis • Clinical trial methodology
-    </p>
-    <p style="margin: 0.5rem 0 0 0;">
       <strong>Email:</strong> <a href="mailto:yufei.wang@gsk.com">yufei.wang@gsk.com</a>
     </p>
   </div>
