@@ -18,14 +18,23 @@ Model Assumptions
 Common Treatment Effect: This assumption posits that the treatment effect (represented by the acceleration factor) is consistent across all individuals, regardless of when the investigational therapy is initiated, the characteristics of the patient who switches, and the type of the switched therapy. This implies that the effect of the treatment on survival time is the same for all participants with respect to the time spent on treatment.
 The model does not require any additional assumption regarding the switch or the outcome of interest (e.g., the effect of covariates on the switch or on the outcome).
 
-## Advantages and Limitations 
+## Model Assumptions
+- Common Treatment Effect: This assumption posits that the treatment effect (represented by the acceleration factor) is consistent across all individuals, regardless of when the investigational therapy is initiated, the characteristics of the patient who switches, and the type of the switched therapy. This implies that the effect of the treatment on survival time is the same for all participants with respect to the time spent on treatment.
+- The model does not require any additional assumption regarding the switch or the outcome of interest (e.g., the effect of covariates on the switch or on the outcome).
 
-Advantages
-The RPSFT does not require covariate information, unlike Inverse Probability Censoring Weighting (IPCW) or Two-Stage models. It can be used when there is little information on covariates.
-The RPSFT is relatively robust when the switching proportion is high.
-The RPSFT is most appropriate in studies with crossover from control to investigational treatment, for example, due to early finding of superiority.
-Limitations
-The "common treatment effect" assumption: The model is sensitive to the "common treatment effect" assumption. 
+## Model Details
+## Estimation Process
+## Method-specific topics (eg, re-censoring for RPSFT)
+## Additional guidance or recommendations (may be added later)
+## sample codes
+
+## Advantages and Limitations 
+### Advantages
+- The RPSFT does not require covariate information, unlike Inverse Probability Censoring Weighting (IPCW) or Two-Stage models. It can be used when there is little information on covariates.
+- The RPSFT is relatively robust when the switching proportion is high.
+- The RPSFT is most appropriate in studies with crossover from control to investigational treatment, for example, due to early finding of superiority.
+### Limitations
+- The model is sensitive to the "common treatment effect" assumption. 
 
 ## References and Literature
 
