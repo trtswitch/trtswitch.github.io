@@ -24,7 +24,7 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
       <span style="margin-left: 1rem; background: #6c757d; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Member</span>
     </h2>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Hongwei Wang is a [title] at [affiliation] with expertise in [areas]. [Additional bio information to be updated]
+      Hongwei Wang is a...
     </p>
     <p style="margin: 0;">
       <strong>Areas of Expertise:</strong> [To be updated] • [To be updated] • [To be updated] • [To be updated]
