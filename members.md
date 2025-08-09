@@ -364,12 +364,12 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
   </div>
 </div>
 
+<!--
 ---
-
 ## How to Join
 
 We welcome participation from statisticians, clinicians, and researchers interested in treatment switching methodology.
 
 **Contact:** [trt.switch@gmail.com](mailto:trt.switch@gmail.com)
-
+-->
 ---
