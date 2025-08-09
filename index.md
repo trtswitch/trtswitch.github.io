@@ -51,15 +51,15 @@ Join us in advancing the science of treatment switching analysis!
 -->   
 # Sub-teams  
   1. **Tutorial Sub-team:**
-  <p><strong>Leads:</strong> Jing Xu (Takeda), Ananya Roy (Merck)</p>
+  **Leads:**  Ananya Roy (Merck)
   
 2. **Method and Trial Implementation Sub-team:**
-  <p>To do fundamental research on practical matters related to treatment switching and its occurrence in clinical trials. Topics to include simulations on the effect of crossover, proposals for how to pre-specify such analyses in protocols, methods and literature reviews on subsequent therapies.</p>
-  <p><strong>Leads:</strong> Yufei Wang (Eli Lily) and Ray Lin (Genentech/Roche)</p>
+    To do fundamental research on practical matters related to treatment switching and its occurrence in clinical trials. Topics to include simulations on the effect of crossover, proposals for how to pre-specify such analyses in protocols, methods and literature reviews on subsequent therapies.</p>
+ **Leads:** Yufei Wang (Eli Lily) and Ray Lin (Genentech/Roche)</p>
   
  3. **Code Standardization Sub-team:**
-  <p>Goal is to work towards a well-rounded repository of code with examples to implement most standard models for such work.</p>
-  <p><strong>Leads:</strong> Kaifeng Lu (BeOne Medicines) and Ray Lin (Genentech/Roche)</p>
+    The code standardization subteam aims to provide validated, ready to use R and SAS code for commonly used treatment switching methods, including IPCW, IPE, MSM, RPSFT, and the TSE. It also collaborates with other subteams on website development.
+    **Leads:** Kaifeng Lu (BeOne Medicines) and Ray Lin (Genentech/Roche)</p>
 
 
 <!--
