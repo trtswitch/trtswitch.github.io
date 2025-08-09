@@ -42,7 +42,7 @@ where there are three distinct cases for one-way treatment switching from the co
 - **Control Group Switchers**: $T_{C_i}$ is the time from randomization to treatment switch, and $T_{E_i}$ is the time from the switch to either death or censoring.
 
 ## Estimation Process
-For a fixed value of $\psi$, we can construct the counterfactual untreated survival times $U_{i,\psi}^* $ and the corresponding event indicators $\Delta_{i,\psi}^* $. The `psi_test` parameter specifies the method used to estimate $\psi$. 
+For a fixed value of $\psi$, we can construct the counterfactual untreated survival times $U_{i,\psi}^\*$ and the corresponding event indicators $\Delta_{i,\psi}^\*$. The `psi_test` parameter specifies the method used to estimate $\psi$. 
 
 - When `psi_test = "logrank"`, a log-rank test (which may be stratified) is used to compare the counterfactual untreated survival times between the two treatment groups. 
 
@@ -52,9 +52,9 @@ For a fixed value of $\psi$, we can construct the counterfactual untreated survi
 
 In all cases, let $Z(\psi)$ denote the Z-test statistic used to evaluate the treatment effect based on the counterfactual untreated survival times. Under the assumption that potential outcomes are independent of the randomized treatment group, the estimate of $\psi$ is the value that makes $Z(\psi)$ closest to zero. The confidence limits for $\psi$ can be derived from the values of $\psi$ that yield $Z(\psi)$ closest to $\Phi^{-1}(1 - \alpha/2)$ and $\Phi^{-1}(\alpha/2)$, where $\Phi(x)$ is the cumulative distribution function of the standard normal distribution and $\alpha$ is the two-sided significance level.
 
-The `rpsftm` function provides two methods for estimating $\psi$:
+Two common methods for estimating $\psi$:
 
-1. **Grid search method**: This divides the interval from `low_psi` to `hi_psi` into `n_eval_z - 1` subintervals and evaluates $Z(\psi)$ at `n_eval_z` equally spaced points of $\psi$ (including the endpoints `low_psi` and `hi_psi`).
+1. **Grid search method**: This divides a specified interval for $\psi$ (`low_psi` to `hi_psi`) into a specified number of subintervals and evaluates $Z(\psi)$ at these equally spaced points of $\psi$ (including the endpoints `low_psi` and `hi_psi`).
 2. **Root-finding method**: This method uses numerical techniques, such as Brent's method, to find the value of $\psi$ such that $Z(\psi) = 0$ for the point estimate, $Z(\psi) = \Phi^{-1}(1 - \alpha/2)$ for the lower confidence limit, and $Z(\psi) = \Phi^{-1}(\alpha/2)$ for the upper confidence limit. 
 
 It is important to note that the solution for $\psi$ may not be unique and may depend on the search interval and convergence tolerance.
@@ -62,7 +62,7 @@ It is important to note that the solution for $\psi$ may not be unique and may d
 Regardless of the method used for estimating $\psi$, it is helpful to visualize the log-rank test statistic, $Z(\psi)$, across a range of $\psi$ values. Additionally, a Kaplan-Meier plot of the counterfactual survival times for the two randomized groups provides further validation of the estimated value of $\psi$. 
 
 ## Recensoring
-The censoring time $C_i$ must be defined for all patients including those who experience an event. We assume that censoring is non-informative in the absence of treatment switching, i.e., $T_{L_i} \perp\!\!\!\perp C_i$, where $T_{L_i}$ denotes the latent time to event for subject $i$. 
+The censoring time $C_i$ must be defined for all patients including those who experience an event. We assume that censoring is non-informative in the absence of treatment switching, i.e., $T_{L_i} \perp\perp C_i$, where $T_{L_i}$ denotes the latent time to event for subject $i$. 
 
 The observed time to event or censoring is given by 
 $$T_i = \min(T_{C_i} + e^{-\psi}(T_{L_i} - T_{C_i}), C_i)$$ 
