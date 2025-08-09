@@ -5,9 +5,23 @@ title: RPSFT Method
 
 # Rank Preserving Structural Failure Time Model (RPSFT)
 
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+
+$$T_i = \min(T_{C_i} + e^{-\psi}(T_{L_i} - T_{C_i}), C_i)$$ 
+with the event indicator
+$$\Delta_{i} = I(T_{C_i} + e^{-\psi}(T_{L_i} - T_{C_i})\leq C_i)$$
+For a patient who switches treatment, the counterfactual time to event or censoring is 
+$$U_{i,\psi} = \min(T_{L_i}, T_{C_i} + e^{\psi}(C_i - T_{C_i}))$$
+
 ## Overview 
 
-Key Components: 
+Key Components: $\alpha$
 
 Acceleration Factor (ψ): The core of the RPSFT model assumes that the active treatment modifies survival time by a constant multiplicative factor, often denoted as the "acceleration factor" (e.g., exp(ψ)). This factor quantifies the gain or loss in survival time due to receiving the active treatment.
 Counterfactual Times: For patients who switched treatments, the model "reconstructs" their survival duration as if they had never received the active treatment they switched to. This involves adjusting their observed survival time by the acceleration factor during the period they were on the switched treatment.
