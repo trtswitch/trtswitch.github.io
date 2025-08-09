@@ -75,9 +75,7 @@ However, treatment switching is often associated with poor prognosis for surviva
 
 To address this issue, we define a recensoring time that accounts for all possible switching times,
 
-$$
-  D_{i,\psi}^* = \min_{T_{C_i} \in [0, C_i]} \{T_{C_i} + e^{\psi}(C_i - T_{C_i})\} = \min(C_i, e^{\psi}C_i)
-$$
+$$D_{i,\psi}^* = \min_{T_{C_i} \in [0, C_i]} \{T_{C_i} + e^{\psi}(C_i - T_{C_i})\} = \min(C_i, e^{\psi}C_i)$$
 
 The recensored time to event or censoring is 
 
@@ -87,7 +85,7 @@ with the corresponding event indicator
 
 $$\Delta_{i,\psi}^* = I(U_{i,\psi} \leq D_{i,\psi}^*) = I(T_{L_i} \leq D_{i,\psi}^*)$$
 
-By construction, $T_{L_i} \perp\!\!\!\perp D_{i,\psi}^*$, thus the sample $\{(U_{i,\psi}^*,\Delta_{i,\psi}^*)\}$ provides an unbiased estimate of the survival distribution of $T_{L_i}$. 
+By construction, $T_{L_i} \perp\!\!\!\perp D_{i,\psi}^{\*}$, thus the sample $\{(U_{i,\psi}^*,\Delta_{i,\psi}^*)\}$ provides an unbiased estimate of the survival distribution of $T_{L_i}$. 
 
 It is important to note that if recensoring is applied only to switchers, the sample becomes 
 
