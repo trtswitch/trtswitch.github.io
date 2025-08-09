@@ -42,7 +42,7 @@ where there are three distinct cases for one-way treatment switching from the co
 - **Control Group Switchers**: $T_{C_i}$ is the time from randomization to treatment switch, and $T_{E_i}$ is the time from the switch to either death or censoring.
 
 ## Estimation Process
-For a fixed value of $\psi$, we can construct the counterfactual untreated survival times $U_{i,\psi}^*$ and the corresponding event indicators $\Delta_{i,\psi}^*$. The `psi_test` parameter specifies the method used to estimate $\psi$. 
+For a fixed value of $\psi$, we can construct the counterfactual untreated survival times $U_{i,\psi}^\*$ and the corresponding event indicators $\Delta_{i,\psi}^\*$. The `psi_test` parameter specifies the method used to estimate $\psi$. 
 
 - When `psi_test = "logrank"`, a log-rank test (which may be stratified) is used to compare the counterfactual untreated survival times between the two treatment groups. 
 
