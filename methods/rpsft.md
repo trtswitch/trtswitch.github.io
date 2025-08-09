@@ -74,18 +74,27 @@ and the event indicator can be rewritten as $$\Delta_{i} = I(T_{L_i} \leq  T_{C_
 However, treatment switching is often associated with poor prognosis for survival, i.e., $T_{L_i}$ and $T_{C_i}$ are correlated. Consequently, $T_{L_i}$ and $T_{C_i} + e^{\psi}(C_i - T_{C_i})$ are also correlated. As a result, using the sample $\{(U_{i,\psi},\Delta_i)\}$ will generally produce a biased estimate of the survival distribution of $T_{L_i}$. 
 
 To address this issue, we define a recensoring time that accounts for all possible switching times,
+
 $$
   D_{i,\psi}^* = \min_{T_{C_i} \in [0, C_i]} \{T_{C_i} + e^{\psi}(C_i - T_{C_i})\} = \min(C_i, e^{\psi}C_i)
 $$
+
 The recensored time to event or censoring is 
+
 $$U_{i,\psi}^* = \min(U_{i,\psi}, D_{i,\psi}^*) = \min(T_{L_i}, D_{i,\psi}^*)$$
+
 with the corresponding event indicator
+
 $$\Delta_{i,\psi}^* = I(U_{i,\psi} \leq D_{i,\psi}^*) = I(T_{L_i} \leq D_{i,\psi}^*)$$
+
 By construction, $T_{L_i} \perp\!\!\!\perp D_{i,\psi}^*$, thus the sample $\{(U_{i,\psi}^*,\Delta_{i,\psi}^*)\}$ provides an unbiased estimate of the survival distribution of $T_{L_i}$. 
 
 It is important to note that if recensoring is applied only to switchers, the sample becomes 
+
 $$U_{i,\psi}^{\dagger} = \min(T_{L_i}, D_{i,\psi}^* I(S_i=1) + C_i I(S_i=0))$$
+
 $$\Delta_{i,\psi}^{\dagger} = I(T_{L_i} \leq D_{i,\psi}^* I(S_i=1) + C_i I(S_i=0))$$
+
 where $S_i$ is the indicator for treatment switching. Since $S_i$ is correlated with $T_{L_i}$, the resulting censoring time $D_{i,\psi}^* I(S_i=1) + C_i I(S_i=0)$ is also correlated with $T_{L_i}$. Therefore, using the sample $\{(U_{i,\psi}^{\dagger}, \Delta_{i,\psi}^{\dagger})\}$ will lead to biased survival estimates. 
 
 This illustrates that recensoring must be applied to all patients in treatment arms where treatment switching occurs to obtain unbiased estimates of the survival distribution. 
