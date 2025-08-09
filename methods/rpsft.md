@@ -42,7 +42,7 @@ where there are three distinct cases for one-way treatment switching from the co
 - **Control Group Switchers**: $T_{C_i}$ is the time from randomization to treatment switch, and $T_{E_i}$ is the time from the switch to either death or censoring.
 
 ## Estimation Process
-For a fixed value of $\psi$, we can construct the counterfactual untreated survival times $U_{i,\psi}^\*$ and the corresponding event indicators $\Delta_{i,\psi}^* $. The `psi_test` parameter specifies the method used to estimate $\psi$. 
+For a fixed value of $\psi$, we can construct the counterfactual untreated survival times $U_{i,\psi}^* $ and the corresponding event indicators $\Delta_{i,\psi}^* $. The `psi_test` parameter specifies the method used to estimate $\psi$. 
 
 - When `psi_test = "logrank"`, a log-rank test (which may be stratified) is used to compare the counterfactual untreated survival times between the two treatment groups. 
 
@@ -79,13 +79,13 @@ $$D_{i,\psi}^* = \min_{T_{C_i} \in [0, C_i]} \{T_{C_i} + e^{\psi}(C_i - T_{C_i})
 
 The recensored time to event or censoring is 
 
-$$U_{i,\psi}^* = \min(U_{i,\psi}, D_{i,\psi}^*) = \min(T_{L_i}, D_{i,\psi}^*)$$
+$$U_{i,\psi}^* = \min(U_{i,\psi}, D_{i,\psi}^* ) = \min(T_{L_i}, D_{i,\psi}^* )$$
 
 with the corresponding event indicator
 
-$$\Delta_{i,\psi}^* = I(U_{i,\psi} \leq D_{i,\psi}^*) = I(T_{L_i} \leq D_{i,\psi}^*)$$
+$$\Delta_{i,\psi}^* = I(U_{i,\psi} \leq D_{i,\psi}^* ) = I(T_{L_i} \leq D_{i,\psi}^* )$$
 
-By construction, $T_{L_i} \perp\!\!\!\perp D_{i,\psi}^{\*}$, thus the sample $\{(U_{i,\psi}^*,\Delta_{i,\psi}^*)\}$ provides an unbiased estimate of the survival distribution of $T_{L_i}$. 
+By construction, $T_{L_i} \perp\!\!\!\perp D_{i,\psi}^* $, thus the sample $\{(U_{i,\psi}^* ,\Delta_{i,\psi}^* )\}$ provides an unbiased estimate of the survival distribution of $T_{L_i}$. 
 
 It is important to note that if recensoring is applied only to switchers, the sample becomes 
 
