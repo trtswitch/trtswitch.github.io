@@ -52,9 +52,9 @@ $\psi = \hat{\psi}$.
 
 The updated estimate of $\psi$ is equal to the negative of the regression coefficient for the treatment indicator in the AFT model.
 
-## Estimation of Hazard Ratio
+## Estimation of Counterfactual Treatment Effect
 
-This step is the same as the RPSFT method. Once $\psi$ has been estimated, we can fit a (potentially stratified) Cox proportional hazards model to the adjusted data set. This allows us to obtain an estimate of the hazard ratio. The confidence interval for the hazard ratio can be derived by either 
+This step is the same as the RPSFT method. Once $\psi$ has been estimated, we can fit a (optionally stratified) Cox proportional hazards model to the adjusted data set. This allows us to obtain an estimate of the hazard ratio. The confidence interval for the hazard ratio can be derived by either 
 
 1. Matching the p-value from the log-rank test for an ITT analysis, or
 2. Bootstrapping the entire adjustment and subsequent model-fitting process. 
