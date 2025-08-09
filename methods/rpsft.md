@@ -46,7 +46,7 @@ where there are three distinct cases for one-way treatment switching from the co
 
 - **Control Group Switchers**: $T_{C_i}$ is the time from randomization to treatment switch, and $T_{E_i}$ is the time from the switch to either death or censoring.
 
-## Estimation Process
+## Estimation of $\psi$
 For a fixed value of $\psi$, we can construct the counterfactual untreated survival times $U_{i,\psi}^\*$ and the corresponding event indicators $\Delta_{i,\psi}^\*$. The `psi_test` parameter specifies the method used to estimate $\psi$. 
 
 - When `psi_test = "logrank"`, a log-rank test (which may be stratified) is used to compare the counterfactual untreated survival times between the two treatment groups. 
@@ -65,6 +65,20 @@ Two common methods for estimating $\psi$:
 It is important to note that the solution for $\psi$ may not be unique and may depend on the search interval and convergence tolerance.
 
 Regardless of the method used for estimating $\psi$, it is helpful to visualize the log-rank test statistic, $Z(\psi)$, across a range of $\psi$ values. Additionally, a Kaplan-Meier plot of the counterfactual survival times for the two randomized groups provides further validation of the estimated value of $\psi$. 
+
+
+## Estimation of Counterfactual Treatment Effect
+Let $A_i$ denote the randomized treatment group and $Z_i$ the baseline covariates for subject $i$ ($i=1,\ldots,n$). Once $\psi$ has been estimated, we can fit a (potentially stratified) Cox proportional hazards model to the following: 
+
+- The observed survival times of the experimental group:  $\{(T_i,\Delta_i,Z_i): A_i = 1\}$
+
+- The counterfactual survival times for the control group:  $\{(U_{i,\psi}^* , \Delta_{i,\psi}^* , Z_i): A_i = 0\}$ evaluated at $\psi = \hat{\psi}$.
+
+This allows us to obtain an estimate of the treatment effect hazard ratio. The confidence interval for the hazard ratio can be derived by either 
+
+1. Matching the p-value from the log-rank test for an intention-to-treat (ITT) analysis, or
+2. Bootstrapping the entire adjustment and subsequent model-fitting process. 
+
 
 ## Recensoring
 The censoring time $C_i$ must be defined for all patients including those who experience an event. We assume that censoring is non-informative in the absence of treatment switching, i.e., $T_{L_i} \perp\perp C_i$, where $T_{L_i}$ denotes the latent time to event for subject $i$. 
