@@ -23,12 +23,11 @@ Join us in advancing the science of treatment switching analysis!
 <!-- <button class="collapsible">📋 Objectives</button>
 <div class="collapsible-content">
 -->
-# Background
+# Objectives
   <p>Treatment switching is a common occurrence in oncology clinical trials and is characterized by patients switching from control therapy to treatment therapy or vice versa during a clinical study. The occurrence of treatment switching amongst a large number of patients confounds and complicates a standard ITT based analysis of treatment efficacy, especially for long term outcomes such as overall survival and adjuvant-based disease-free survival.</p>
   
   <p>In the past decade of rapid oncology development for immuno-based and targeted-based therapies, treatment switching has been a regular occurrence in clinical trials and has led to several key oncologic drug advisory committee meetings. Yet, the topic has received only limited development in the academic and methodologic space and no organized group has yet emerged to bring a structured foundation for future research endeavors.</p>
   
-# Our Missions
   <p>In order to help standardize and promote treatment switching methodological research and ideas, we propose to start a Treatment Switch workstream with membership from FDA, academic, and industry leaders involved in methodology in this space. We have three major goals: </p>
   
 1. **Tutorial**: To write and publish a tutorial for treatment switching in the peer-reviewed journal Statistics in Medicine. Have received early feedback from editor Paul Albert that the journal would welcome the approach, but need to go through standard peer-review process via associate editor.
@@ -51,13 +50,13 @@ Join us in advancing the science of treatment switching analysis!
 -->   
 # Sub-teams  
   1. **Tutorial Sub-team:**    
-    The tutorial subteam focuses on case studies and method comparisons across different treatment switching approaches. It is currently preparing a tutorial manuscript.
+    The tutorial subteam focuses on case studies and method comparisons across different treatment switching approaches. It is currently preparing a tutorial manuscript.    
     **Leads:**  Ananya Roy (Merck)
 2. **Novel Method and Trial Implementation Sub-team:**    
-    The new methods subteam focuses on emerging methodologies and is currently comparing different data generation approaches for treatment switching scenarios. The practical considerations subteam focuses on factors influencing treatment switching methods, including the impact of switcher proportion, method selection, non-statistical considerations, and sensitivity analyses. It also includes simulations to inform study design and guide appropriate analysis methods.
+    The new methods subteam focuses on emerging methodologies and is currently comparing different data generation approaches for treatment switching scenarios. The practical considerations subteam focuses on factors influencing treatment switching methods, including the impact of switcher proportion, method selection, non-statistical considerations, and sensitivity analyses. It also includes simulations to inform study design and guide appropriate analysis methods.    
     **Leads:** Yufei Wang (Eli Lily) and Ray Lin (Genentech/Roche)
  3. **Code Standardization Sub-team:**    
-    The code standardization subteam aims to provide validated, ready to use R and SAS code for commonly used treatment switching methods, including IPCW, IPE, MSM, RPSFT, and the TSE. It also collaborates with other subteams on website development.
+    The code standardization subteam aims to provide validated, ready to use R and SAS code for commonly used treatment switching methods, including IPCW, IPE, MSM, RPSFT, and the TSE. It also collaborates with other subteams on website development.    
     **Leads:** Kaifeng Lu (BeOne Medicines) and Ray Lin (Genentech/Roche)
 
 
@@ -93,8 +92,9 @@ Join us in advancing the science of treatment switching analysis!
   </ul>
    
   <p><strong>Ready to get involved?</strong> Contact us at [workstream-email@asa.org] or join our next monthly meeting.</p>
+<!--
 </div>
-
+-->
 <!--
 ---
 
