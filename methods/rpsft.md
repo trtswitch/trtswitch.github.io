@@ -9,7 +9,7 @@ title: RPSFT Method
 
 The key components of RPSFT are:
 
-Acceleration Factor $\psi$: The core of the RPSFT model assumes that the active treatment modifies survival time by a constant multiplicative factor, often denoted as the "acceleration factor" (e.g., $e^{\psi}$). This factor quantifies the gain or loss in survival time due to receiving the active treatment.
+- Acceleration Factor $\psi$: The core of the RPSFT model assumes that the active treatment modifies survival time by a constant multiplicative factor, often denoted as the "acceleration factor" (e.g., $e^{\psi}$). This factor quantifies the gain or loss in survival time due to receiving the active treatment.
 Counterfactual Times: For patients who switched treatments, the model "reconstructs" their survival duration as if they had never received the active treatment they switched to. This involves adjusting their observed survival time by the acceleration factor during the period they were on the switched treatment.
 
 - Rank Preservation: The "rank preserving" aspect implies that the relative ordering (ranks) of patients' survival times remain consistent even after these adjustments for treatment effects.
@@ -18,8 +18,8 @@ G-estimation: The model employs a statistical procedure known as "g-estimation" 
 - Randomization-Based: A significant strength of RPSFT is its randomization-based nature. It primarily relies on information about the randomized treatment group, observed event times, and treatment history to estimate the causal treatment effect, rather than requiring extensive covariate data over time.
 Model Assumptions
 
-- Common Treatment Effect: This assumption posits that the treatment effect (represented by the acceleration factor) is consistent across all individuals, regardless of when the investigational therapy is initiated, the characteristics of the patient who switches, and the type of the switched therapy. This implies that the effect of the treatment on survival time is the same for all participants with respect to the time spent on treatment.
-The model does not require any additional assumption regarding the switch or the outcome of interest (e.g., the effect of covariates on the switch or on the outcome).
+- Common Treatment Effect: This assumption posits that the treatment effect (represented by the acceleration factor) is consistent across all individuals, regardless of when the investigational therapy is initiated, the characteristics of the patient who switches, and the type of the switched therapy. This implies that the effect of the treatment on survival time is the same for all participants with respect to the time spent on treatment. However, in oncology trials, treatment switching often happens after disease progression, and therefore the treatment effect post-progression may be weaker than the effect observed immediately following randomization. To account for this in sensitivity analyses, a `treat effect modifier` parameter can be introduced in the model, usually with a value between 0 and 1, to represent the weaker treatment effect of received after disease progression, via multiplying $\psi$ by this modifier.  
+- The model does not require any additional assumption regarding the switch or the outcome of interest (e.g., the effect of covariates on the switch or on the outcome).
 
 ## Model Assumptions
 - Common Treatment Effect: This assumption posits that the treatment effect (represented by the acceleration factor) is consistent across all individuals, regardless of when the investigational therapy is initiated, the characteristics of the patient who switches, and the type of the switched therapy. This implies that the effect of the treatment on survival time is the same for all participants with respect to the time spent on treatment.
@@ -42,6 +42,7 @@ where there are three distinct cases for one-way treatment switching from the co
 - **Control Group Switchers**: $T_{C_i}$ is the time from randomization to treatment switch, and $T_{E_i}$ is the time from the switch to either death or censoring.
 
 ## Estimation Process
+
 ## Method-specific topics (eg, re-censoring for RPSFT)
 ## Additional guidance or recommendations (may be added later)
 ## sample codes
