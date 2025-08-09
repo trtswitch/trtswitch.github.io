@@ -51,11 +51,11 @@ Join us in advancing the science of treatment switching analysis!
 -->   
 # Sub-teams  
   1. **Tutorial Sub-team:**    
-  The tutorial subteam focuses on case studies and method comparisons across different treatment switching approaches. It is currently preparing a tutorial manuscript.
-  **Leads:**  Ananya Roy (Merck)
+    The tutorial subteam focuses on case studies and method comparisons across different treatment switching approaches. It is currently preparing a tutorial manuscript.
+    **Leads:**  Ananya Roy (Merck)
 2. **Novel Method and Trial Implementation Sub-team:**    
     The new methods subteam focuses on emerging methodologies and is currently comparing different data generation approaches for treatment switching scenarios. The practical considerations subteam focuses on factors influencing treatment switching methods, including the impact of switcher proportion, method selection, non-statistical considerations, and sensitivity analyses. It also includes simulations to inform study design and guide appropriate analysis methods.
- **Leads:** Yufei Wang (Eli Lily) and Ray Lin (Genentech/Roche)
+    **Leads:** Yufei Wang (Eli Lily) and Ray Lin (Genentech/Roche)
  3. **Code Standardization Sub-team:**    
     The code standardization subteam aims to provide validated, ready to use R and SAS code for commonly used treatment switching methods, including IPCW, IPE, MSM, RPSFT, and the TSE. It also collaborates with other subteams on website development.
     **Leads:** Kaifeng Lu (BeOne Medicines) and Ray Lin (Genentech/Roche)
@@ -80,8 +80,8 @@ Join us in advancing the science of treatment switching analysis!
 <button class="collapsible">👨‍💼 Get Involved</button>
 <div class="collapsible-content">
 -->
-# Join Our Community</h3>
-  <p>We welcome statisticians, clinicians, and researchers interested in advancing treatment switching methodology.</p>
+# Join Our Community
+  We welcome statisticians, clinicians, and researchers interested in advancing treatment switching methodology.
   
   <h4>How to Participate:</h4>
   <ul>
@@ -95,7 +95,7 @@ Join us in advancing the science of treatment switching analysis!
   <p><strong>Ready to get involved?</strong> Contact us at [workstream-email@asa.org] or join our next monthly meeting.</p>
 </div>
 
-
+<!--
 ---
 
 ## Quick Navigation
@@ -132,12 +132,10 @@ Join us in advancing the science of treatment switching analysis!
     <a href="https://github.com/ShreyaSreeram27/trtswitch" class="btn" target="_blank">CRAN</a>
   </div>
 
-<!--
+
 </div>
 -->
 
----
 
-## About This Workstream
 
 
