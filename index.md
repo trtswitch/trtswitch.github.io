@@ -90,7 +90,7 @@ Join us in advancing the science of treatment switching analysis!
     <li><strong>Share Experience:</strong> Present case studies from your trials</li>
     <li><strong>Review Materials:</strong> Provide feedback on guidance documents</li>
   </ul>
-   <p>**Contact us at [workstream-email@asa.org]**</p>
+**Contact:** [trt.switch@gmail.com](mailto:trt.switch@gmail.com)
   
 <!--
 </div>
