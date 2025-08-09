@@ -100,8 +100,8 @@ This illustrates that recensoring must be applied to all patients in treatment a
 
 ## Additional guidance or recommendations (may be added later)
 
-## sample codes
-
+## Example
+An example using our R package trtswitch is available in the [RPSFT vignettes on CRAN](https://cran.r-project.org/web/packages/trtswitch/vignettes/rpsftm.html).
 
 
 ## References and Literature
