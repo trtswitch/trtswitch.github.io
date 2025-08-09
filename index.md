@@ -80,9 +80,7 @@ Join us in advancing the science of treatment switching analysis!
 <div class="collapsible-content">
 -->
 # Join Our Community
-  We welcome statisticians, clinicians, and researchers interested in advancing treatment switching methodology.
-  
-  <h4>How to Participate:</h4>
+  We welcome statisticians, clinicians, and researchers interested in advancing treatment switching methodology.  
   <ul>
     <li><strong>Join a Sub-team:</strong> Contact sub-team leads to contribute to specific areas</li>
     <li><strong>Attend Meetings:</strong> Virtual seminars open to all members</li>
@@ -92,12 +90,8 @@ Join us in advancing the science of treatment switching analysis!
   </ul>
    
   <p><strong>Ready to get involved?</strong> Contact us at [workstream-email@asa.org] or join our next monthly meeting.</p>
-<!--
 </div>
--->
 <!--
----
-
 ## Quick Navigation
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin: 2rem 0;">
@@ -131,7 +125,7 @@ Join us in advancing the science of treatment switching analysis!
     <p>Download our R package</p>
     <a href="https://github.com/ShreyaSreeram27/trtswitch" class="btn" target="_blank">CRAN</a>
   </div>
-
+-->
 
 </div>
 -->
