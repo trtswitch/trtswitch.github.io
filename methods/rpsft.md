@@ -22,12 +22,13 @@ G-estimation: The model employs a statistical procedure known as "g-estimation" 
 - Randomization-Based: A significant strength of RPSFT is its randomization-based nature. It primarily relies on information about the randomized treatment group, observed event times, and treatment history to estimate the causal treatment effect, rather than requiring extensive covariate data over time.
 Model Assumptions
 
-- Common Treatment Effect: This assumption posits that the treatment effect (represented by the acceleration factor) is consistent across all individuals, regardless of when the investigational therapy is initiated, the characteristics of the patient who switches, and the type of the switched therapy. This implies that the effect of the treatment on survival time is the same for all participants with respect to the time spent on treatment. However, in oncology trials, treatment switching often happens after disease progression, and therefore the treatment effect post-progression may be weaker than the effect observed immediately following randomization. To account for this in sensitivity analyses, a `treat effect modifier` parameter can be introduced in the model, usually with a value between 0 and 1, to represent the weaker treatment effect of received after disease progression, via multiplying $\psi$ by this modifier.  
+- Common Treatment Effect: This assumption posits that the treatment effect (represented by the acceleration factor) is consistent across all individuals, regardless of when the investigational therapy is initiated, the characteristics of the patient who switches, and the type of the switched therapy. This implies that the effect of the treatment on survival time is the same for all participants with respect to the time spent on treatment.  
 - The model does not require any additional assumption regarding the switch or the outcome of interest (e.g., the effect of covariates on the switch or on the outcome).
 -->
 
 ## Model Assumptions
-- Common Treatment Effect: This assumption posits that the treatment effect (represented by the acceleration factor) is consistent across all individuals, regardless of when the investigational therapy is initiated, the characteristics of the patient who switches, and the type of the switched therapy. This implies that the effect of the treatment on survival time is the same for all participants with respect to the time spent on treatment.
+- Common Treatment Effect: This assumption posits that the treatment effect (represented by the acceleration factor) is consistent across all individuals, regardless of when the investigational therapy is initiated, the characteristics of the patient who switches, and the type of the switched therapy. This implies that the effect of the treatment on survival time is the same for all participants with respect to the time spent on treatment. This strong assumption can be relaxed by introducing a `treat effect modifier` parameter to specify the relative effect of the treatment received at switching vs the treatment received at randomization. This effect modifier is implemented via multiplying $\psi$.
+
 - The model does not require any additional assumption regarding the switch or the outcome of interest (e.g., the effect of covariates on the switch or on the outcome).
 
 ## Model Details
@@ -122,7 +123,8 @@ This illustrates that recensoring must be applied to all patients in treatment a
 - The RPSFT is relatively robust when the switching proportion is high.
 - The RPSFT is most appropriate in studies with crossover from control to investigational treatment, for example, due to early finding of superiority.
 ### Limitations
-- The model is sensitive to the "common treatment effect" assumption. 
+- The model is sensitive to the "common treatment effect" assumption. However, this may not be true in real studies. For example, in oncology trials, treatment switching often happens after disease progression, and therefore the treatment effect received post-progression may be weaker than the effect observed immediately received at randomization. To account for this in sensitivity analyses, a `treat effect modifier` parameter can be introduced in the model, usually with a value between 0 and 1, to represent the weaker treatment effect of received after disease progression, via multiplying $\psi$ by this modifier.
+
 
 ## Additional guidance or recommendations (may be added later)
 
