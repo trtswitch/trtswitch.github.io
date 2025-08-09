@@ -23,7 +23,7 @@ Join us in advancing the science of treatment switching analysis!
 <!-- <button class="collapsible">📋 Objectives</button>
 <div class="collapsible-content">
 -->
-# Objectives
+# OUr Mission
   <p>Treatment switching is a common occurrence in oncology clinical trials and is characterized by patients switching from control therapy to treatment therapy or vice versa during a clinical study. The occurrence of treatment switching amongst a large number of patients confounds and complicates a standard ITT based analysis of treatment efficacy, especially for long term outcomes such as overall survival and adjuvant-based disease-free survival.</p>
   
   <p>In the past decade of rapid oncology development for immuno-based and targeted-based therapies, treatment switching has been a regular occurrence in clinical trials and has led to several key oncologic drug advisory committee meetings. Yet, the topic has received only limited development in the academic and methodologic space and no organized group has yet emerged to bring a structured foundation for future research endeavors.</p>
@@ -90,9 +90,9 @@ Join us in advancing the science of treatment switching analysis!
     <li><strong>Share Experience:</strong> Present case studies from your trials</li>
     <li><strong>Review Materials:</strong> Provide feedback on guidance documents</li>
   </ul>
-   
+   <p>**Contact us at [workstream-email@asa.org]**</p>
+  
 <!--
-  <p><strong>Ready to get involved?</strong> Contact us at [workstream-email@asa.org] or join our next monthly meeting.</p>
 </div>
 ## Quick Navigation
 
