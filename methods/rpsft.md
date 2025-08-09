@@ -42,10 +42,53 @@ where there are three distinct cases for one-way treatment switching from the co
 - **Control Group Switchers**: $T_{C_i}$ is the time from randomization to treatment switch, and $T_{E_i}$ is the time from the switch to either death or censoring.
 
 ## Estimation Process
+For a fixed value of $\psi$, we can construct the counterfactual untreated survival times $U_{i,\psi}^*$ and the corresponding event indicators $\Delta_{i,\psi}^*$. The `psi_test` parameter specifies the method used to estimate $\psi$. 
 
-## Method-specific topics (eg, re-censoring for RPSFT)
-## Additional guidance or recommendations (may be added later)
-## sample codes
+- When `psi_test = "logrank"`, a log-rank test (which may be stratified) is used to compare the counterfactual untreated survival times between the two treatment groups. 
+
+- When `psi_test = "phreg"`, a Cox proportional hazards model (which may also be stratified) is used to test for treatment differences while adjusting for baseline covariates. 
+
+- When `psi_test = "lifereg"`, an accelerated failure time (AFT) model is used to assess treatment differences, also adjusting for baseline covariates. If stratification factors are provided, they are converted into dummy variables and included as covariates in the AFT model for estimating $\psi$. 
+
+In all cases, let $Z(\psi)$ denote the Z-test statistic used to evaluate the treatment effect based on the counterfactual untreated survival times. Under the assumption that potential outcomes are independent of the randomized treatment group, the estimate of $\psi$ is the value that makes $Z(\psi)$ closest to zero. The confidence limits for $\psi$ can be derived from the values of $\psi$ that yield $Z(\psi)$ closest to $\Phi^{-1}(1 - \alpha/2)$ and $\Phi^{-1}(\alpha/2)$, where $\Phi(x)$ is the cumulative distribution function of the standard normal distribution and $\alpha$ is the two-sided significance level.
+
+The `rpsftm` function provides two methods for estimating $\psi$:
+
+1. **Grid search method**: This divides the interval from `low_psi` to `hi_psi` into `n_eval_z - 1` subintervals and evaluates $Z(\psi)$ at `n_eval_z` equally spaced points of $\psi$ (including the endpoints `low_psi` and `hi_psi`).
+2. **Root-finding method**: This method uses numerical techniques, such as Brent's method, to find the value of $\psi$ such that $Z(\psi) = 0$ for the point estimate, $Z(\psi) = \Phi^{-1}(1 - \alpha/2)$ for the lower confidence limit, and $Z(\psi) = \Phi^{-1}(\alpha/2)$ for the upper confidence limit. 
+
+It is important to note that the solution for $\psi$ may not be unique and may depend on the search interval and convergence tolerance.
+
+Regardless of the method used for estimating $\psi$, it is helpful to visualize the log-rank test statistic, $Z(\psi)$, across a range of $\psi$ values. Additionally, a Kaplan-Meier plot of the counterfactual survival times for the two randomized groups provides further validation of the estimated value of $\psi$. 
+
+## Recensoring
+The censoring time $C_i$ must be defined for all patients including those who experience an event. We assume that censoring is non-informative in the absence of treatment switching, i.e., $T_{L_i} \perp\!\!\!\perp C_i$, where $T_{L_i}$ denotes the latent time to event for subject $i$. 
+
+The observed time to event or censoring is given by 
+$$T_i = \min(T_{C_i} + e^{-\psi}(T_{L_i} - T_{C_i}), C_i)$$ 
+with the event indicator
+$$\Delta_{i} = I(T_{C_i} + e^{-\psi}(T_{L_i} - T_{C_i})\leq C_i)$$
+For a patient who switches treatment, the counterfactual time to event or censoring is 
+$$U_{i,\psi} = \min(T_{L_i}, T_{C_i} + e^{\psi}(C_i - T_{C_i}))$$
+and the event indicator can be rewritten as $$\Delta_{i} = I(T_{L_i} \leq  T_{C_i} + e^{\psi}(C_i - T_{C_i}))$$
+However, treatment switching is often associated with poor prognosis for survival, i.e., $T_{L_i}$ and $T_{C_i}$ are correlated. Consequently, $T_{L_i}$ and $T_{C_i} + e^{\psi}(C_i - T_{C_i})$ are also correlated. As a result, using the sample $\{(U_{i,\psi},\Delta_i)\}$ will generally produce a biased estimate of the survival distribution of $T_{L_i}$. 
+
+To address this issue, we define a recensoring time that accounts for all possible switching times,
+$$
+  D_{i,\psi}^* = \min_{T_{C_i} \in [0, C_i]} \{T_{C_i} + e^{\psi}(C_i - T_{C_i})\} = \min(C_i, e^{\psi}C_i)
+$$
+The recensored time to event or censoring is 
+$$U_{i,\psi}^* = \min(U_{i,\psi}, D_{i,\psi}^*) = \min(T_{L_i}, D_{i,\psi}^*)$$
+with the corresponding event indicator
+$$\Delta_{i,\psi}^* = I(U_{i,\psi} \leq D_{i,\psi}^*) = I(T_{L_i} \leq D_{i,\psi}^*)$$
+By construction, $T_{L_i} \perp\!\!\!\perp D_{i,\psi}^*$, thus the sample $\{(U_{i,\psi}^*,\Delta_{i,\psi}^*)\}$ provides an unbiased estimate of the survival distribution of $T_{L_i}$. 
+
+It is important to note that if recensoring is applied only to switchers, the sample becomes 
+$$U_{i,\psi}^{\dagger} = \min(T_{L_i}, D_{i,\psi}^* I(S_i=1) + C_i I(S_i=0))$$
+$$\Delta_{i,\psi}^{\dagger} = I(T_{L_i} \leq D_{i,\psi}^* I(S_i=1) + C_i I(S_i=0))$$
+where $S_i$ is the indicator for treatment switching. Since $S_i$ is correlated with $T_{L_i}$, the resulting censoring time $D_{i,\psi}^* I(S_i=1) + C_i I(S_i=0)$ is also correlated with $T_{L_i}$. Therefore, using the sample $\{(U_{i,\psi}^{\dagger}, \Delta_{i,\psi}^{\dagger})\}$ will lead to biased survival estimates. 
+
+This illustrates that recensoring must be applied to all patients in treatment arms where treatment switching occurs to obtain unbiased estimates of the survival distribution. 
 
 ## Advantages and Limitations 
 ### Advantages
@@ -54,6 +97,12 @@ where there are three distinct cases for one-way treatment switching from the co
 - The RPSFT is most appropriate in studies with crossover from control to investigational treatment, for example, due to early finding of superiority.
 ### Limitations
 - The model is sensitive to the "common treatment effect" assumption. 
+
+## Additional guidance or recommendations (may be added later)
+
+## sample codes
+
+
 
 ## References and Literature
 
