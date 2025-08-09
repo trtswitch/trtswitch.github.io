@@ -5,25 +5,11 @@ title: RPSFT Method
 
 # Rank Preserving Structural Failure Time Model (RPSFT)
 
-```{r, include = FALSE}
-knitr::opts_chunk$set(
-  collapse = TRUE,
-  comment = "#>"
-)
-```
-
-
-$$T_i = \min(T_{C_i} + e^{-\psi}(T_{L_i} - T_{C_i}), C_i)$$ 
-with the event indicator
-$$\Delta_{i} = I(T_{C_i} + e^{-\psi}(T_{L_i} - T_{C_i})\leq C_i)$$
-For a patient who switches treatment, the counterfactual time to event or censoring is 
-$$U_{i,\psi} = \min(T_{L_i}, T_{C_i} + e^{\psi}(C_i - T_{C_i}))$$
-
 ## Overview 
 
-Key Components: $\alpha$
+Key Components:
 
-Acceleration Factor (ψ): The core of the RPSFT model assumes that the active treatment modifies survival time by a constant multiplicative factor, often denoted as the "acceleration factor" (e.g., exp(ψ)). This factor quantifies the gain or loss in survival time due to receiving the active treatment.
+Acceleration Factor ($\psi$): The core of the RPSFT model assumes that the active treatment modifies survival time by a constant multiplicative factor, often denoted as the "acceleration factor" (e.g., $\exp(\ψ)$). This factor quantifies the gain or loss in survival time due to receiving the active treatment.
 Counterfactual Times: For patients who switched treatments, the model "reconstructs" their survival duration as if they had never received the active treatment they switched to. This involves adjusting their observed survival time by the acceleration factor during the period they were on the switched treatment.
 Rank Preservation: The "rank preserving" aspect implies that the relative ordering (ranks) of patients' survival times remain consistent even after these adjustments for treatment effects.
 G-estimation: The model employs a statistical procedure known as "g-estimation" to determine the value of the acceleration factor (ψ) that balances the "counterfactual" event times between the treatment groups. This is typically achieved by finding the ψ value that makes a test statistic (such as the log-rank test statistic) equal to zero, indicating no difference in the counterfactual survival distributions between the groups.
