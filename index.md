@@ -90,8 +90,10 @@ Join us in advancing the science of treatment switching analysis!
     <li><strong>Share Experience:</strong> Present case studies from your trials</li>
     <li><strong>Review Materials:</strong> Provide feedback on guidance documents</li>
   </ul>
+<!-- 
 <strong>Contact us at [trt.switch@gmail.com](mailto:trt.switch@gmail.com)</strong>
-  
+-->
+
 <!--
 </div>
 ## Quick Navigation
