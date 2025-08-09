@@ -20,6 +20,6 @@ The core of the RPSFT approach is its assumption of a common treatment effect: t
 
 # Inverse Probability Censoring Weighting (IPCW)
 
-# TSE (Two-stage Estimation (TSE)
+# Two-stage Estimation (TSE)
 
 # Marginal Structural Model (MSM)
