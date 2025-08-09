@@ -52,9 +52,11 @@ Join us in advancing the science of treatment switching analysis!
   1. **Tutorial Sub-team:**    
     The tutorial subteam focuses on case studies and method comparisons across different treatment switching approaches. It is currently preparing a tutorial manuscript.    
     **Leads:**  Ananya Roy (Merck)
+
 2. **Novel Method and Trial Implementation Sub-team:**    
     The new methods subteam focuses on emerging methodologies and is currently comparing different data generation approaches for treatment switching scenarios. The practical considerations subteam focuses on factors influencing treatment switching methods, including the impact of switcher proportion, method selection, non-statistical considerations, and sensitivity analyses. It also includes simulations to inform study design and guide appropriate analysis methods.    
     **Leads:** Yufei Wang (Eli Lily) and Ray Lin (Genentech/Roche)
+   
  3. **Code Standardization Sub-team:**    
     The code standardization subteam aims to provide validated, ready to use R and SAS code for commonly used treatment switching methods, including IPCW, IPE, MSM, RPSFT, and the TSE. It also collaborates with other subteams on website development.    
     **Leads:** Kaifeng Lu (BeOne Medicines) and Ray Lin (Genentech/Roche)
@@ -80,7 +82,7 @@ Join us in advancing the science of treatment switching analysis!
 <div class="collapsible-content">
 -->
 # Join Our Community
-  We welcome statisticians, clinicians, and researchers interested in advancing treatment switching methodology.  
+  We welcome statisticians, clinicians, and researchers interested in advancing treatment switching methodology. Contact us at [trt.switch@gmail.com].  
   <ul>
     <li><strong>Join a Sub-team:</strong> Contact sub-team leads to contribute to specific areas</li>
     <li><strong>Attend Meetings:</strong> Virtual seminars open to all members</li>
@@ -89,9 +91,9 @@ Join us in advancing the science of treatment switching analysis!
     <li><strong>Review Materials:</strong> Provide feedback on guidance documents</li>
   </ul>
    
+<!--
   <p><strong>Ready to get involved?</strong> Contact us at [workstream-email@asa.org] or join our next monthly meeting.</p>
 </div>
-<!--
 ## Quick Navigation
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin: 2rem 0;">
@@ -125,7 +127,6 @@ Join us in advancing the science of treatment switching analysis!
     <p>Download our R package</p>
     <a href="https://github.com/ShreyaSreeram27/trtswitch" class="btn" target="_blank">CRAN</a>
   </div>
--->
 
 </div>
 -->
