@@ -10,6 +10,50 @@ body {
     color: #333;
 }
 
+/* MathJax styling fixes - ADD THIS SECTION */
+.MathJax {
+    font-style: normal !important;
+    font-family: inherit !important;
+}
+
+.MathJax_Display {
+    font-style: normal !important;
+    margin: 1em 0 !important;
+}
+
+/* Preserve math italics for variables */
+.MathJax .mi {
+    font-style: italic !important;
+}
+
+/* Keep numbers normal */
+.MathJax .mn {
+    font-style: normal !important;
+}
+
+/* Fix for operators and symbols */
+.MathJax .mo {
+    font-style: normal !important;
+}
+
+/* Ensure math doesn't inherit unwanted global styles */
+.MathJax * {
+    color: inherit !important;
+    font-weight: inherit !important;
+}
+
+/* Fix for inline math spacing */
+.MathJax_Preview {
+    color: inherit;
+}
+
+/* Ensure display math is centered */
+.MathJax_Display {
+    text-align: center !important;
+}
+
+/* END MathJax fixes */
+
 /* Hero Section - Cleaner professional design */
 .hero-section {
     background: linear-gradient(135deg, #2c3e50 0%, #3498db 100%);
