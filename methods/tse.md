@@ -7,6 +7,8 @@ title: TSE Method
 
 ## Overview 
 
+Test: $x = y + z$ and $$E = mc^2$$
+
 ## Model Assumptions
 
 ## Model Details
