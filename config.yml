@@ -6,7 +6,14 @@ url: "https://shreyasreeram27.github.io"
 # Build settings
 markdown: kramdown
 highlighter: rouge
-# Remove the theme line completely - let GitHub Pages use default
+
+# Kramdown settings for MathJax support
+kramdown:
+  math_engine: mathjax
+  math_engine_opts:
+    preview: true
+    preview_as_code: false
+
 
 # Navigation menu items
 header_pages:
