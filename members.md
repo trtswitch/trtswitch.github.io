@@ -9,6 +9,8 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
 
 ---
 
+## Leadership Team
+
 ### Founding Co-leads
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
@@ -39,6 +41,10 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
       <span style="margin-left: 1rem; background: #28a745; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Founding Co-lead</span>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
+      [Bio information to be added]
+    </p>
+    <p style="margin: 0;">
+      <strong>Email:</strong> <a href="mailto:meijing.huang@company.com">meijing.huang@company.com</a>
     </p>
   </div>
 </div>
@@ -71,10 +77,6 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
     <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
       <a href="https://www.linkedin.com/in/ray-lin-7176373/" target="_blank" style="text-decoration: none; color: #2c3e50;">Ray Lin</a>
       <span style="margin-left: 1rem; background: #007bff; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Co-lead</span>
-<!--
-      <span style="margin-left: 1rem; background: #20c997; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Method Sub-team Co-lead</span>
-      <span style="margin-left: 1rem; background: #fd7e14; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Code Standardization Sub-team Co-lead</span>      
- -->
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
       Ray Lin is a Senior Principal Statistical Scientist at Genentech/Roche. He is co-leading this workstream with Bingxia and co-leading the Code Standardization Subteam with Kaifeng and the Method Subteam with Yufei. He joined the company around 15 years ago and had been supporting both early and late stage drug development in oncology. He is passionate about applying statistical methodology to clinical trials and actively participating in multiple cross-company collaborations. He is also enthusiastic in fostering biostatistical communities, including on the Officers team of ASA San Francisco Bay Area local chapter and serving as the Vice President of Career Development and Leadership of the BBSW (Bay-area Biopharma Statistics Workshop). He got his PhD from Stanford University in 2010.
@@ -86,6 +88,26 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
 </div>
 
 ---
+
+## All Workstream Members
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
+  <div style="flex-shrink: 0; margin-right: 2rem;">
+    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Abhijoy Saha" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+  </div>
+  <div style="flex-grow: 1;">
+    <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
+      <a href="https://www.linkedin.com/in/abhijoy-saha/" target="_blank" style="text-decoration: none; color: #2c3e50;">Abhijoy Saha</a>
+      <span style="margin-left: 1rem; background: #6c757d; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Member</span>
+    </h3>
+    <p style="margin-bottom: 1.5rem; line-height: 1.6;">
+      Abhijoy Saha is a biostatistician with expertise in clinical trials and statistical analysis.
+    </p>
+    <p style="margin: 0;">
+      <strong>Email:</strong> <a href="mailto:abhijoy.saha@company.com">abhijoy.saha@company.com</a>
+    </p>
+  </div>
+</div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
   <div style="flex-shrink: 0; margin-right: 2rem;">
@@ -101,6 +123,78 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
     </p>
     <p style="margin: 0;">
       <strong>Email:</strong> <a href="mailto:ananya.roy@merck.com">ananya.roy@merck.com</a>
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
+  <div style="flex-shrink: 0; margin-right: 2rem;">
+    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Charu Gupta" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+  </div>
+  <div style="flex-grow: 1;">
+    <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
+      <a href="https://www.linkedin.com/in/charu-gupta/" target="_blank" style="text-decoration: none; color: #2c3e50;">Charu Gupta</a>
+      <span style="margin-left: 1rem; background: #6c757d; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Member</span>
+    </h3>
+    <p style="margin-bottom: 1.5rem; line-height: 1.6;">
+      Charu Gupta is a biostatistician with experience in pharmaceutical research and clinical trials.
+    </p>
+    <p style="margin: 0;">
+      <strong>Email:</strong> <a href="mailto:charu.gupta@company.com">charu.gupta@company.com</a>
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
+  <div style="flex-shrink: 0; margin-right: 2rem;">
+    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Qingxia Chen" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+  </div>
+  <div style="flex-grow: 1;">
+    <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
+      <a href="https://www.linkedin.com/in/qingxia-chen-85727a5/" target="_blank" style="text-decoration: none; color: #2c3e50;">Qingxia Chen</a>
+      <span style="margin-left: 1rem; background: #6c757d; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Member</span>
+    </h3>
+    <p style="margin-bottom: 1.5rem; line-height: 1.6;">
+      Dr. Chen is a Professor of Biostatistics, Biomedical Informatics, and Ophthalmology & Visual Sciences at Vanderbilt University Medical Center. She also serves as the Vice Chair of Education at the Department of Biostatistics. Her statistical research currently centers around several key areas, including missing data, survival analysis, and Bayesian approaches. Additionally, she is dedicated to the development of statistical methods specifically designed to analyze multimodal data in precision medicine. Notably, she has been actively involved in the All of Us Research Program, contributing her expertise to advance precision medicine initiatives.
+    </p>
+    <p style="margin: 0;">
+      <strong>Email:</strong> <a href="mailto:qingxia.chen@vumc.org">qingxia.chen@vumc.org</a>
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
+  <div style="flex-shrink: 0; margin-right: 2rem;">
+    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Heng Wang" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+  </div>
+  <div style="flex-grow: 1;">
+    <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
+      <a href="https://www.linkedin.com/in/heng-wang/" target="_blank" style="text-decoration: none; color: #2c3e50;">Heng Wang</a>
+      <span style="margin-left: 1rem; background: #6c757d; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Member</span>
+    </h3>
+    <p style="margin-bottom: 1.5rem; line-height: 1.6;">
+      Heng Wang is a biostatistician with expertise in statistical methodology and clinical trials.
+    </p>
+    <p style="margin: 0;">
+      <strong>Email:</strong> <a href="mailto:heng.wang@company.com">heng.wang@company.com</a>
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
+  <div style="flex-shrink: 0; margin-right: 2rem;">
+    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Hongwei Wang" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+  </div>
+  <div style="flex-grow: 1;">
+    <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
+      <a href="https://www.linkedin.com/in/hongwei-wang/" target="_blank" style="text-decoration: none; color: #2c3e50;">Hongwei Wang</a>
+      <span style="margin-left: 1rem; background: #6c757d; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Member</span>
+    </h3>
+    <p style="margin-bottom: 1.5rem; line-height: 1.6;">
+      Hongwei Wang is a biostatistician with expertise in clinical trials and statistical methodology.
+    </p>
+    <p style="margin: 0;">
+      <strong>Email:</strong> <a href="mailto:hongwei.wang@company.com">hongwei.wang@company.com</a>
     </p>
   </div>
 </div>
@@ -123,6 +217,149 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
   </div>
 </div>
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
+  <div style="flex-shrink: 0; margin-right: 2rem;">
+    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Laura Fernandes" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+  </div>
+  <div style="flex-grow: 1;">
+    <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
+      <a href="https://www.linkedin.com/in/laura-fernandes/" target="_blank" style="text-decoration: none; color: #2c3e50;">Laura Fernandes</a>
+      <span style="margin-left: 1rem; background: #6c757d; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Member</span>
+    </h3>
+    <p style="margin-bottom: 1.5rem; line-height: 1.6;">
+      Laura Fernandes is a biostatistician with experience in clinical research and statistical methodology.
+    </p>
+    <p style="margin: 0;">
+      <strong>Email:</strong> <a href="mailto:laura.fernandes@company.com">laura.fernandes@company.com</a>
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
+  <div style="flex-shrink: 0; margin-right: 2rem;">
+    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Qing Liu" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+  </div>
+  <div style="flex-grow: 1;">
+    <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
+      <a href="https://www.linkedin.com/in/qing-liu/" target="_blank" style="text-decoration: none; color: #2c3e50;">Qing Liu</a>
+      <span style="margin-left: 1rem; background: #6c757d; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Member</span>
+    </h3>
+    <p style="margin-bottom: 1.5rem; line-height: 1.6;">
+      Qing Liu is a biostatistician with expertise in statistical methodology and clinical research.
+    </p>
+    <p style="margin: 0;">
+      <strong>Email:</strong> <a href="mailto:qing.liu@company.com">qing.liu@company.com</a>
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
+  <div style="flex-shrink: 0; margin-right: 2rem;">
+    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Shreya Sreeram" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+  </div>
+  <div style="flex-grow: 1;">
+    <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
+      <a href="https://www.linkedin.com/in/shreya-sreeram/" target="_blank" style="text-decoration: none; color: #2c3e50;">Shreya Sreeram</a>
+      <span style="margin-left: 1rem; background: #6c757d; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Member</span>
+    </h3>
+    <p style="margin-bottom: 1.5rem; line-height: 1.6;">
+      Shreya Sreeram is a biostatistician with expertise in R programming and statistical methodology. She contributes to the workstream's development of R packages and methodology implementation.
+    </p>
+    <p style="margin: 0;">
+      <strong>Email:</strong> <a href="mailto:shreya.sreeram@company.com">shreya.sreeram@company.com</a>
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
+  <div style="flex-shrink: 0; margin-right: 2rem;">
+    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Suk-Young Yoo" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+  </div>
+  <div style="flex-grow: 1;">
+    <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
+      <a href="https://www.linkedin.com/in/suk-young-yoo/" target="_blank" style="text-decoration: none; color: #2c3e50;">Suk-Young Yoo</a>
+      <span style="margin-left: 1rem; background: #6c757d; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Member</span>
+    </h3>
+    <p style="margin-bottom: 1.5rem; line-height: 1.6;">
+      Suk-Young Yoo is a biostatistician with expertise in clinical trials and statistical methodology.
+    </p>
+    <p style="margin: 0;">
+      <strong>Email:</strong> <a href="mailto:sukyoung.yoo@company.com">sukyoung.yoo@company.com</a>
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
+  <div style="flex-shrink: 0; margin-right: 2rem;">
+    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Vickie Zhang" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+  </div>
+  <div style="flex-grow: 1;">
+    <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
+      <a href="https://www.linkedin.com/in/vickie-zhang/" target="_blank" style="text-decoration: none; color: #2c3e50;">Vickie Zhang</a>
+      <span style="margin-left: 1rem; background: #6c757d; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Member</span>
+    </h3>
+    <p style="margin-bottom: 1.5rem; line-height: 1.6;">
+      Vickie Zhang is a biostatistician with expertise in clinical trials and statistical methodology.
+    </p>
+    <p style="margin: 0;">
+      <strong>Email:</strong> <a href="mailto:vickie.zhang@company.com">vickie.zhang@company.com</a>
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
+  <div style="flex-shrink: 0; margin-right: 2rem;">
+    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Wenjuan (Jessie) Gu" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+  </div>
+  <div style="flex-grow: 1;">
+    <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
+      <a href="https://www.linkedin.com/in/jessie-gu/" target="_blank" style="text-decoration: none; color: #2c3e50;">Wenjuan (Jessie) Gu</a>
+      <span style="margin-left: 1rem; background: #6c757d; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Member</span>
+    </h3>
+    <p style="margin-bottom: 1.5rem; line-height: 1.6;">
+      Wenjuan (Jessie) Gu is a biostatistician with expertise in clinical trials and statistical methodology.
+    </p>
+    <p style="margin: 0;">
+      <strong>Email:</strong> <a href="mailto:jessie.gu@company.com">jessie.gu@company.com</a>
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
+  <div style="flex-shrink: 0; margin-right: 2rem;">
+    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Ya Wang" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+  </div>
+  <div style="flex-grow: 1;">
+    <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
+      <a href="https://www.linkedin.com/in/ya-wang/" target="_blank" style="text-decoration: none; color: #2c3e50;">Ya Wang</a>
+      <span style="margin-left: 1rem; background: #6c757d; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Member</span>
+    </h3>
+    <p style="margin-bottom: 1.5rem; line-height: 1.6;">
+      Ya Wang is a biostatistician with expertise in clinical trials and statistical methodology.
+    </p>
+    <p style="margin: 0;">
+      <strong>Email:</strong> <a href="mailto:ya.wang@company.com">ya.wang@company.com</a>
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
+  <div style="flex-shrink: 0; margin-right: 2rem;">
+    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Yu-Che Chung" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+  </div>
+  <div style="flex-grow: 1;">
+    <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
+      <a href="https://www.linkedin.com/in/yu-che-chung/" target="_blank" style="text-decoration: none; color: #2c3e50;">Yu-Che Chung</a>
+      <span style="margin-left: 1rem; background: #6c757d; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Member</span>
+    </h3>
+    <p style="margin-bottom: 1.5rem; line-height: 1.6;">
+      Yu-Che Chung is a biostatistician with expertise in clinical trial methodology and statistical analysis.
+    </p>
+    <p style="margin: 0;">
+      <strong>Email:</strong> <a href="mailto:yuche.chung@company.com">yuche.chung@company.com</a>
+    </p>
+  </div>
+</div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
   <div style="flex-shrink: 0; margin-right: 2rem;">
@@ -142,234 +379,39 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
-  <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Abhijoy Saha" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
-  </div>
-  <div style="flex-grow: 1;">
-    <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
-      <a href="https://www.linkedin.com/in/abhijoy-saha/" target="_blank" style="text-decoration: none; color: #2c3e50;">Abhijoy Saha</a>
-    </h3>
-    <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Abhijoy Saha is a biostatistician with expertise in clinical trials and statistical analysis.
-    </p>
-    <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:abhijoy.saha@company.com">abhijoy.saha@company.com</a>
-    </p>
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
-  <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Charu Gupta" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
-  </div>
-  <div style="flex-grow: 1;">
-    <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
-      <a href="https://www.linkedin.com/in/charu-gupta/" target="_blank" style="text-decoration: none; color: #2c3e50;">Charu Gupta</a>
-    </h3>
-    <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Charu Gupta is a biostatistician with experience in pharmaceutical research and clinical trials.
-    </p>
-    <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:charu.gupta@company.com">charu.gupta@company.com</a>
-    </p>
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
-  <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Cindy Chen" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
-  </div>
-  <div style="flex-grow: 1;">
-    <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
-      <a href="https://www.linkedin.com/in/cindy-chen/" target="_blank" style="text-decoration: none; color: #2c3e50;">Cindy Chen</a>
-    </h3>
-    <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Cindy Chen is a biostatistician with expertise in oncology clinical trials and treatment switching analysis.
-    </p>
-    <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:cindy.chen@company.com">cindy.chen@company.com</a>
-    </p>
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
-  <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Heng Wang" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
-  </div>
-  <div style="flex-grow: 1;">
-    <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
-      <a href="https://www.linkedin.com/in/heng-wang/" target="_blank" style="text-decoration: none; color: #2c3e50;">Heng Wang</a>
-    </h3>
-    <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Heng Wang is a biostatistician with expertise in statistical methodology and clinical trials.
-    </p>
-    <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:heng.wang@company.com">heng.wang@company.com</a>
-    </p>
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
-  <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Hongwei Wang" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
-  </div>
-  <div style="flex-grow: 1;">
-    <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
-      <a href="https://www.linkedin.com/in/hongwei-wang/" target="_blank" style="text-decoration: none; color: #2c3e50;">Hongwei Wang</a>
-    </h3>
-    <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Hongwei Wang is a biostatistician with expertise in clinical trials and statistical methodology.
-    </p>
-    <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:hongwei.wang@company.com">hongwei.wang@company.com</a>
-    </p>
-  </div>
-</div>
-
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
-  <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Laura Fernandes" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
-  </div>
-  <div style="flex-grow: 1;">
-    <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
-      <a href="https://www.linkedin.com/in/laura-fernandes/" target="_blank" style="text-decoration: none; color: #2c3e50;">Laura Fernandes</a>
-    </h3>
-    <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Laura Fernandes is a biostatistician with experience in clinical research and statistical methodology.
-    </p>
-    <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:laura.fernandes@company.com">laura.fernandes@company.com</a>
-    </p>
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
-  <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Qing Liu" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
-  </div>
-  <div style="flex-grow: 1;">
-    <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
-      <a href="https://www.linkedin.com/in/qing-liu/" target="_blank" style="text-decoration: none; color: #2c3e50;">Qing Liu</a>
-    </h3>
-    <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Qing Liu is a biostatistician with expertise in statistical methodology and clinical research.
-    </p>
-    <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:qing.liu@company.com">qing.liu@company.com</a>
-    </p>
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
-  <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Shreya Sreeram" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
-  </div>
-  <div style="flex-grow: 1;">
-    <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
-      <a href="https://www.linkedin.com/in/shreya-sreeram/" target="_blank" style="text-decoration: none; color: #2c3e50;">Shreya Sreeram</a>
-    </h3>
-    <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Shreya Sreeram is a biostatistician with expertise in R programming and statistical methodology. She contributes to the workstream's development of R packages and methodology implementation.
-    </p>
-    <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:shreya.sreeram@company.com">shreya.sreeram@company.com</a>
-    </p>
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
-  <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Suk-Young Yoo" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
-  </div>
-  <div style="flex-grow: 1;">
-    <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
-      <a href="https://www.linkedin.com/in/suk-young-yoo/" target="_blank" style="text-decoration: none; color: #2c3e50;">Suk-Young Yoo</a>
-    </h3>
-    <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Suk-Young Yoo is a biostatistician with expertise in clinical trials and statistical methodology.
-    </p>
-    <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:sukyoung.yoo@company.com">sukyoung.yoo@company.com</a>
-    </p>
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
-  <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Vickie Zhang" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
-  </div>
-  <div style="flex-grow: 1;">
-    <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
-      <a href="https://www.linkedin.com/in/vickie-zhang/" target="_blank" style="text-decoration: none; color: #2c3e50;">Vickie Zhang</a>
-    </h3>
-    <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Vickie Zhang is a biostatistician with expertise in clinical trials and statistical methodology.
-    </p>
-    <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:vickie.zhang@company.com">vickie.zhang@company.com</a>
-    </p>
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
-  <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Wenjuan (Jessie) Gu" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
-  </div>
-  <div style="flex-grow: 1;">
-    <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
-      <a href="https://www.linkedin.com/in/jessie-gu/" target="_blank" style="text-decoration: none; color: #2c3e50;">Wenjuan (Jessie) Gu</a>
-    </h3>
-    <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Wenjuan (Jessie) Gu is a biostatistician with expertise in clinical trials and statistical methodology.
-    </p>
-    <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:jessie.gu@company.com">jessie.gu@company.com</a>
-    </p>
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
-  <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Ya Wang" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
-  </div>
-  <div style="flex-grow: 1;">
-    <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
-      <a href="https://www.linkedin.com/in/ya-wang/" target="_blank" style="text-decoration: none; color: #2c3e50;">Ya Wang</a>
-    </h3>
-    <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Ya Wang is a biostatistician with expertise in clinical trials and statistical methodology.
-    </p>
-    <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:ya.wang@company.com">ya.wang@company.com</a>
-    </p>
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
-  <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Yu-Che Chung" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
-  </div>
-  <div style="flex-grow: 1;">
-    <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
-      <a href="https://www.linkedin.com/in/yu-che-chung/" target="_blank" style="text-decoration: none; color: #2c3e50;">Yu-Che Chung</a>
-    </h3>
-    <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Yu-Che Chung is a biostatistician with expertise in clinical trial methodology and statistical analysis.
-    </p>
-    <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:yuche.chung@company.com">yuche.chung@company.com</a>
-    </p>
-  </div>
-</div>
-
-<!--
 ---
+
+## Guest Speakers & External Collaborators
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 2rem; padding: 1rem; background: #e3f2fd; border-radius: 8px; border-left: 4px solid #2196f3;">
+  <div style="flex-grow: 1;">
+    <h3 style="margin-top: 0; color: #1976d2;">Academic Partners</h3>
+    <ul style="margin-bottom: 0;">
+      <li><strong>Professor Eric Tchetgen Tchetgen</strong> - University of Pennsylvania</li>
+      <li><strong>Nick Latimer</strong> - University of Sheffield</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 2rem; padding: 1rem; background: #f3e5f5; border-radius: 8px; border-left: 4px solid #9c27b0;">
+  <div style="flex-grow: 1;">
+    <h3 style="margin-top: 0; color: #7b1fa2;">Industry Collaborators</h3>
+    <ul style="margin-bottom: 0;">
+      <li><strong>Hege Michiels</strong> - Argenx</li>
+      <li><strong>Kaspar Rufibach</strong> - Roche</li>
+      <li><strong>Jane Lin</strong> - Takeda</li>
+    </ul>
+  </div>
+</div>
+
+---
+
 ## How to Join
 
 We welcome participation from statisticians, clinicians, and researchers interested in treatment switching methodology.
 
 **Contact:** [trt.switch@gmail.com](mailto:trt.switch@gmail.com)
--->
+
 ---
+
+*Member information is being updated. If you are a workstream member and would like to update your profile, please contact the leadership team with your bio, photo, and current affiliation.*
