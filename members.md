@@ -205,14 +205,14 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
-      <a href="https://www.linkedin.com/in/kaifeng-lu/" target="_blank" style="text-decoration: none; color: #2c3e50;">Kaifeng Lu</a>
+      <a href="https://www.linkedin.com/in/kaifeng-lu-90a83218/" target="_blank" style="text-decoration: none; color: #2c3e50;">Kaifeng Lu</a>
       <span style="margin-left: 1rem; background: #fd7e14; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Code Standardization Sub-team Co-lead</span>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Kaifeng Lu is a biostatistician with extensive experience in statistical programming and methodology development. He co-leads the Code Standardization sub-team, working towards developing comprehensive code repositories for treatment switching methods.
+      Kaifeng has over 23 years of experience in the biopharmaceutical industry, with roles at Lilly, Merck, Forest Laboratories/Allergan/AbbVie, and BeOne. He has a solid background in pharmaceutical development, clinical trials, and observational research across various therapeutic areas, focusing on developing drugs aimed at improving patient survival and quality of life. His work has contributed to the approval of several therapies, including sitagliptin, cariprazine, ubrogepant, and atogepant. Kaifeng has authored over 70 publications in peer-reviewed statistical and medical journals, and his research interests include sample size calculations, missing data handling, multiple comparison procedures, adaptive designs, estimands, and treatment switching. Currently, he serves as Senior Director at BeiGene, where he leads the Statistical Modeling & Simulations group for more than 20 pharmaceutical products in different stages of development. Throughout his career, he has held various roles, progressing from study statistician to therapeutic area head, while fostering collaboration and support within his teams.
     </p>
     <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:kaifeng.lu@company.com">kaifeng.lu@company.com</a>
+      <strong>Email:</strong> <a href="mailto:kaifenglu@gmail.com">kaifenglu@gmail.com</a>
     </p>
   </div>
 </div>
