@@ -11,10 +11,6 @@ Our workstream hosts regular educational seminars and workshops to advance under
 
 *No upcoming seminars are currently scheduled. Please check back for future announcements.*
 
-**Stay Updated:** Subscribe to our newsletter or follow our announcements for information about upcoming educational events and workshops.
-
-
-
 # Educational Seminars & Workshops
 
 Our workstream hosts regular educational seminars and workshops to advance understanding of treatment switching methods in oncology clinical trials.
