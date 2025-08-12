@@ -368,30 +368,6 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
 
 ---
 
-## Guest Speakers & External Collaborators
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 2rem; padding: 1rem; background: #e3f2fd; border-radius: 8px; border-left: 4px solid #2196f3;">
-  <div style="flex-grow: 1;">
-    <h3 style="margin-top: 0; color: #1976d2;">Academic Partners</h3>
-    <ul style="margin-bottom: 0;">
-      <li><strong>Professor Eric Tchetgen Tchetgen</strong> - University of Pennsylvania</li>
-      <li><strong>Nick Latimer</strong> - University of Sheffield</li>
-    </ul>
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 2rem; padding: 1rem; background: #f3e5f5; border-radius: 8px; border-left: 4px solid #9c27b0;">
-  <div style="flex-grow: 1;">
-    <h3 style="margin-top: 0; color: #7b1fa2;">Industry Collaborators</h3>
-    <ul style="margin-bottom: 0;">
-      <li><strong>Hege Michiels</strong> - Argenx</li>
-      <li><strong>Kaspar Rufibach</strong> - Roche</li>
-      <li><strong>Jane Lin</strong> - Takeda</li>
-    </ul>
-  </div>
-</div>
-
----
 
 ## How to Join
 
