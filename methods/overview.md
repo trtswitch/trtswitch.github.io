@@ -22,5 +22,6 @@ The Iterative Parameter Estimation (IPE) method is very similar to the Rank Pres
 # Inverse Probability Censoring Weighting (IPCW)
 
 # Two-stage Estimation (TSE)
+The simple two-stage estimation (TSE) method is developed to account for treatment switching that occurs after a specific disease-related time-point - known as the "secondary baseline", such as the point of disease progression. The approach involves two stages: first, estimating the treatment effect attributable to switching; and second, using this estimate to generate counterfactual survival times for patients who switched treatments - representing the survival outcomes that would have been observed had switching not taken place. The method relies on three key assumptions: (1) switching occurs only at or after the secondary baseline. (2) conditional on variables measured up to the secondary baseline, switching is independent of potential outcomes, and (3) no time-dependent confounding exists between the secondary baseline and the switch.
 
 # Marginal Structural Model (MSM)
