@@ -186,10 +186,10 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
       <a href="https://www.linkedin.com/in/hongwei-wang/" target="_blank" style="text-decoration: none; color: #2c3e50;">Hongwei Wang</a>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Hongwei Wang is a biostatistician with expertise in clinical trials and statistical methodology.
+      Dr. Hongwei Wang is currently a Sr. Research Fellow and Immunology TA Head at Medical Affairs & Health Technology Assessment Statistics of AbbVie. Prior to that, he worked at Sanofi and Merck with increasing responsibilities. Hongwei received his PhD in Statistics from Rutgers University and actively published in real-world evidence, network meta-analysis, advanced analytics and their application to different stages of drug development.
     </p>
     <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:hongwei.wang@company.com">hongwei.wang@company.com</a>
+      <strong>Email:</strong> <a href="mailto:hongwei.wang@abbvie.com">hongwei.wang@abbvie.com</a>
     </p>
   </div>
 </div>
@@ -323,7 +323,7 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
       <a href="https://www.linkedin.com/in/ya-wang/" target="_blank" style="text-decoration: none; color: #2c3e50;">Ya Wang</a>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Ya Wang is a biostatistician with expertise in clinical trials and statistical methodology.
+      Ya Wang obtained her doctorate degree in Biostatistics from Columbia University, where her research focused on developing statistical methodologies for analyzing epigenetic data. Since joining Gilead in 2018, she has been actively involved in a range of initiatives at the intersection of statistical innovation and software development. Her current work includes the development of R packages, creation of interactive Shiny applications, methodological research, and statistical consultation across various therapeutic areas. She is passionate about open-source software, user-friendly analytics tools, and fostering collaboration in the scientific and healthcare communities.
     </p>
     <p style="margin: 0;">
       <strong>Email:</strong> <a href="mailto:ya.wang@company.com">ya.wang@company.com</a>
@@ -367,7 +367,6 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
 </div>
 
 ---
-
 
 ## How to Join
 
