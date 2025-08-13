@@ -1,10 +1,9 @@
 /**
  * Table of Contents (TOC) functionality for GitHub Pages
- * Automatically generates a static TOC from headings with id attributes
- * Responsive design: static sidebar on desktop, mobile overlay on small screens
+ * Uses existing HTML elements from layout - does NOT create new ones
  */
 
-// TOC Configuration - Easy to modify
+// TOC Configuration
 const TOC_CONFIG = {
     selectors: {
         tocContainer: '#floating-toc',
@@ -15,10 +14,10 @@ const TOC_CONFIG = {
         wrapper: '.wrapper, .page-content, main'
     },
     settings: {
-        scrollOffset: 250, // Offset to account for fixed header
+        scrollOffset: 250,
         mobileBreakpoint: 768,
         throttleDelay: 100,
-        initDelay: 150 // Wait for other scripts like KaTeX
+        initDelay: 150
     },
     classes: {
         tocItem: 'toc-item',
@@ -29,9 +28,7 @@ const TOC_CONFIG = {
     }
 };
 
-/**
- * TOC State Management
- */
+// TOC State Management
 const TOCState = {
     isInitialized: false,
     isMobile: false,
@@ -47,7 +44,7 @@ function initializeTOC() {
     
     console.log('Initializing Table of Contents...');
     
-    // Cache DOM elements
+    // Cache DOM elements (don't create new ones)
     cacheElements();
     
     // Check if TOC should be disabled for this page
@@ -73,7 +70,7 @@ function initializeTOC() {
 }
 
 /**
- * Cache frequently used DOM elements
+ * Cache frequently used DOM elements - DO NOT CREATE NEW ONES
  */
 function cacheElements() {
     TOCState.elements = {
@@ -266,7 +263,6 @@ function closeMobileTOC() {
  * Handle responsive behavior
  */
 function handleResize() {
-    const wasMobile = TOCState.isMobile;
     TOCState.isMobile = window.innerWidth <= TOC_CONFIG.settings.mobileBreakpoint;
     
     const { tocToggle } = TOCState.elements;
@@ -318,11 +314,6 @@ function setupEventListeners() {
     
     // Keyboard navigation
     document.addEventListener('keydown', handleKeyDown);
-    
-    // Content change observer for dynamic content
-    if (TOCState.elements.wrapper) {
-        observeContentChanges();
-    }
 }
 
 /**
@@ -333,28 +324,6 @@ function handleKeyDown(event) {
     if (event.key === 'Escape' && TOCState.isMobile && TOCState.isVisible) {
         closeMobileTOC();
     }
-}
-
-/**
- * Observe content changes and regenerate TOC if needed
- */
-function observeContentChanges() {
-    const observer = new MutationObserver(throttle(() => {
-        const headingCount = document.querySelectorAll(TOC_CONFIG.selectors.headings).length;
-        const tocItemCount = document.querySelectorAll(`.${TOC_CONFIG.classes.tocItem}`).length;
-        
-        // Regenerate TOC if heading count changed
-        if (headingCount !== tocItemCount) {
-            console.log('Content changed, regenerating TOC...');
-            generateTOC();
-            updateActiveSection();
-        }
-    }, 500));
-    
-    observer.observe(TOCState.elements.wrapper, {
-        childList: true,
-        subtree: true
-    });
 }
 
 /**
