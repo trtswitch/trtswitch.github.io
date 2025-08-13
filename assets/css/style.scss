@@ -329,12 +329,19 @@ body {
     padding: 0 2rem;
 }
 
-/* Desktop: Center content with space for TOC */
+/* Desktop: True centering that accounts for TOC */
 @media (min-width: 1025px) {
+    .page-content {
+        display: flex;
+        justify-content: center;
+        padding-right: 290px; /* Reserve space for TOC */
+    }
+    
     .page-content .wrapper {
         max-width: 1000px;
-        margin-left: auto;
-        margin-right: 320px; /* Space for TOC */
+        margin: 0 auto;
+        padding: 0 2rem;
+        flex: 0 1 1000px; /* Don't grow beyond max-width */
     }
 }
 
