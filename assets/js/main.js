@@ -1,283 +1,103 @@
-// Complete main.js file - cleaned and fixed
+/**
+ * Main JavaScript file for the Oncology Treatment Switch website
+ * Handles collapsible sections and other interactive features
+ */
 
 // Initialize everything when DOM loads
 document.addEventListener('DOMContentLoaded', function() {
-    // Initialize existing collapsible functionality first
     initializeCollapsibles();
-    
-    // Then initialize floating TOC
-    initializeFloatingTOC();
+    console.log('Main.js initialized');
 });
 
-// Your existing collapsible function (keep this as is)
+/**
+ * Initialize collapsible sections functionality
+ * Handles the expanding/collapsing content sections
+ */
 function initializeCollapsibles() {
-    console.log('DOM loaded, looking for collapsible elements...');
+    console.log('Initializing collapsible elements...');
     
+    // Small delay to ensure all content is loaded
     setTimeout(function() {
-        var collapsibleButtons = document.querySelectorAll('.collapsible');
-        console.log('Found', collapsibleButtons.length, 'collapsible buttons');
+        const collapsibleButtons = document.querySelectorAll('.collapsible');
+        console.log(`Found ${collapsibleButtons.length} collapsible buttons`);
         
         collapsibleButtons.forEach(function(button, index) {
-            console.log('Setting up button', index);
+            console.log(`Setting up collapsible button ${index + 1}`);
             
             button.addEventListener("click", function() {
-                console.log('Button clicked:', this.textContent);
+                console.log('Collapsible clicked:', this.textContent.trim());
                 
-                // Toggle the active class
+                // Toggle the active class on the button
                 this.classList.toggle("active");
                 
-                // Jekyll wraps buttons in <p> tags, so we need to go up to the parent
-                // and then get the next sibling
-                var buttonParent = this.parentElement;
-                var content = buttonParent.nextElementSibling;
+                // Find the corresponding content div
+                // Jekyll sometimes wraps buttons in <p> tags, so we need to handle both cases
+                let content = this.nextElementSibling;
                 
-                // If the parent is a <p> tag and next sibling exists
+                // If button is wrapped in a <p> tag, look for content after the parent
+                if (!content || !content.classList.contains('collapsible-content')) {
+                    const buttonParent = this.parentElement;
+                    content = buttonParent.nextElementSibling;
+                }
+                
                 if (content && content.classList.contains('collapsible-content')) {
-                    console.log('Found content div after parent');
-                    
-                    // Toggle the content visibility
-                    if (content.classList.contains('active')) {
-                        // Currently open - close it
-                        content.style.maxHeight = "0px";
-                        content.classList.remove("active");
-                        console.log('Closing content');
-                    } else {
-                        // Currently closed - open it
-                        content.style.maxHeight = content.scrollHeight + "px";
-                        content.classList.add("active");
-                        console.log('Opening content, height:', content.scrollHeight);
-                    }
+                    toggleCollapsibleContent(content, this.classList.contains('active'));
                 } else {
-                    console.log('No content div found. Parent:', buttonParent.tagName, 'Next sibling:', content ? content.tagName : 'none');
+                    console.warn('Could not find corresponding .collapsible-content for button:', this.textContent.trim());
                 }
             });
         });
         
-        console.log('Collapsible setup complete!');
-    }, 500);
+        console.log('Collapsible setup completed successfully');
+    }, 100); // Reduced delay for better performance
 }
 
-// Create TOC HTML elements
-function createTOCElements() {
-    // Create toggle button for mobile
-    const toggleButton = document.createElement('button');
-    toggleButton.id = 'tocToggle';
-    toggleButton.className = 'toc-toggle';
-    toggleButton.innerHTML = '☰';
-    toggleButton.setAttribute('aria-label', 'Toggle table of contents');
-    document.body.appendChild(toggleButton);
-
-    // Create backdrop for mobile
-    const backdrop = document.createElement('div');
-    backdrop.id = 'tocBackdrop';
-    backdrop.className = 'toc-backdrop';
-    document.body.appendChild(backdrop);
-
-    // Create TOC container
-    const tocContainer = document.createElement('div');
-    tocContainer.id = 'floatingToc';
-    tocContainer.className = 'floating-toc';
-    
-    const tocTitle = document.createElement('h3');
-    tocTitle.textContent = 'On this page';
-    
-    const tocList = document.createElement('ul');
-    tocList.id = 'tocList';
-    tocList.className = 'toc-list';
-    
-    tocContainer.appendChild(tocTitle);
-    tocContainer.appendChild(tocList);
-    document.body.appendChild(tocContainer);
+/**
+ * Toggle the visibility of collapsible content
+ * @param {Element} content - The content element to toggle
+ * @param {boolean} shouldOpen - Whether to open (true) or close (false) the content
+ */
+function toggleCollapsibleContent(content, shouldOpen) {
+    if (shouldOpen) {
+        // Open the content
+        content.style.maxHeight = content.scrollHeight + "px";
+        content.classList.add("active");
+        console.log(`Opening content, height: ${content.scrollHeight}px`);
+    } else {
+        // Close the content
+        content.style.maxHeight = "0px";
+        content.classList.remove("active");
+        console.log('Closing content');
+    }
 }
 
-// Main Floating TOC functionality
-function initializeFloatingTOC() {
-    // Create TOC elements
-    createTOCElements();
-    
-    const tocContainer = document.getElementById('floatingToc');
-    const tocList = document.getElementById('tocList');
-    const tocToggle = document.getElementById('tocToggle');
-    const tocBackdrop = document.getElementById('tocBackdrop');
-    
-    if (!tocContainer || !tocList || !tocToggle) {
-        console.log('TOC elements not found, skipping TOC initialization');
-        return;
-    }
-    
-    let tocVisible = true;
-
-    // Generate TOC from headings
-    function generateTOC() {
-        const headings = document.querySelectorAll('h1[id], h2[id], h3[id], h4[id], h5[id], h6[id]');
-        tocList.innerHTML = '';
-
-        if (headings.length === 0) {
-            // Hide TOC if no headings found
-            tocContainer.style.display = 'none';
-            tocToggle.style.display = 'none';
-            return;
-        }
-
-        headings.forEach(heading => {
-            const level = parseInt(heading.tagName.substr(1));
-            const link = document.createElement('a');
-            const listItem = document.createElement('li');
-            
-            link.href = `#${heading.id}`;
-            link.textContent = heading.textContent;
-            link.className = `toc-link level-${level}`;
-            
-            listItem.className = 'toc-item';
-            listItem.appendChild(link);
-            tocList.appendChild(listItem);
-        });
-
-        // Add click handlers for smooth scrolling
-        document.querySelectorAll('.toc-link').forEach(link => {
-            link.addEventListener('click', function(e) {
-                e.preventDefault();
-                const targetId = this.getAttribute('href').substring(1);
-                const targetElement = document.getElementById(targetId);
-                
-                if (targetElement) {
-                    targetElement.scrollIntoView({
-                        behavior: 'smooth',
-                        block: 'start'
-                    });
-                }
-
-                // Hide TOC on mobile after clicking
-                if (window.innerWidth <= 768) {
-                    hideTOC();
-                }
-            });
-        });
-    }
-
-    // Highlight current section
-    function highlightCurrentSection() {
-        const headings = document.querySelectorAll('h1[id], h2[id], h3[id], h4[id], h5[id], h6[id]');
-        const tocLinks = document.querySelectorAll('.toc-link');
-        
-        let currentSection = '';
-        const scrollPosition = window.scrollY + 200; // Offset for header
-
-        headings.forEach(heading => {
-            if (heading.offsetTop <= scrollPosition) {
-                currentSection = heading.id;
-            }
-        });
-
-        tocLinks.forEach(link => {
-            link.classList.remove('active');
-            if (link.getAttribute('href') === `#${currentSection}`) {
-                link.classList.add('active');
-            }
-        });
-    }
-
-    // Mobile-only show/hide functions
-    function showTOC() {
-        if (window.innerWidth <= 768) {
-            tocContainer.classList.remove('hidden');
-            tocContainer.classList.add('show');
-            if (tocBackdrop) tocBackdrop.classList.add('show');
-        }
-        tocVisible = true;
-    }
-
-    function hideTOC() {
-        if (window.innerWidth <= 768) {
-            tocContainer.classList.add('hidden');
-            tocContainer.classList.remove('show');
-            if (tocBackdrop) tocBackdrop.classList.remove('show');
-        }
-        tocVisible = false;
-    }
-
-    function toggleTOC() {
-        if (window.innerWidth <= 768) {
-            if (tocVisible) {
-                hideTOC();
-            } else {
-                showTOC();
-            }
-        }
-    }
-
-    // STATIC: Only handle highlighting on scroll, no auto-hide
-    function handleScroll() {
-        highlightCurrentSection();
-    }
-
-    // Handle responsive behavior
-    function handleResize() {
-        if (window.innerWidth <= 768) {
-            // Mobile: show toggle button
-            tocToggle.style.display = 'block';
-            // Keep current mobile state
-        } else {
-            // Desktop: hide toggle button, ensure TOC is visible and static
-            tocToggle.style.display = 'none';
-            tocContainer.classList.remove('hidden', 'show');
-            tocContainer.style.transform = 'none';
-            tocContainer.style.opacity = '1';
-            if (tocBackdrop) tocBackdrop.classList.remove('show');
-            tocVisible = true;
-        }
-    }
-
-    // Throttle function for performance
-    function throttle(func, limit) {
-        let inThrottle;
-        return function() {
-            const args = arguments;
-            const context = this;
-            if (!inThrottle) {
-                func.apply(context, args);
-                inThrottle = true;
-                setTimeout(() => inThrottle = false, limit);
-            }
-        }
-    }
-
-    // Event listeners
-    tocToggle.addEventListener('click', toggleTOC);
-    window.addEventListener('scroll', throttle(handleScroll, 100));
-    window.addEventListener('resize', handleResize);
-
-    // Hide TOC when clicking backdrop on mobile
-    if (tocBackdrop) {
-        tocBackdrop.addEventListener('click', hideTOC);
-    }
-
-    // Hide TOC when clicking outside on mobile
-    document.addEventListener('click', function(e) {
-        if (window.innerWidth <= 768 && tocVisible && 
-            !tocContainer.contains(e.target) && 
-            e.target !== tocToggle && 
-            !tocToggle.contains(e.target)) {
-            hideTOC();
-        }
-    });
-
-    // Initialize
-    generateTOC();
-    handleResize();
-    highlightCurrentSection();
-
-    // Re-generate TOC if content changes dynamically
-    const observer = new MutationObserver(function(mutations) {
-        mutations.forEach(function(mutation) {
-            if (mutation.type === 'childList') {
-                generateTOC();
-            }
-        });
-    });
-
-    observer.observe(document.querySelector('.wrapper') || document.body, {
-        childList: true,
-        subtree: true
+/**
+ * Utility function to close all collapsible sections
+ * Can be called externally if needed
+ */
+function closeAllCollapsibles() {
+    const activeButtons = document.querySelectorAll('.collapsible.active');
+    activeButtons.forEach(button => {
+        button.click(); // Trigger the click to close
     });
 }
+
+/**
+ * Utility function to open a specific collapsible by ID or text content
+ * @param {string} identifier - Either the ID of the button or its text content
+ */
+function openCollapsible(identifier) {
+    const buttons = document.querySelectorAll('.collapsible');
+    const targetButton = Array.from(buttons).find(button => 
+        button.id === identifier || 
+        button.textContent.trim().toLowerCase().includes(identifier.toLowerCase())
+    );
+    
+    if (targetButton && !targetButton.classList.contains('active')) {
+        targetButton.click();
+    }
+}
+
+// Export functions for external use if needed
+window.closeAllCollapsibles = closeAllCollapsibles;
+window.openCollapsible = openCollapsible;
