@@ -1,5 +1,3 @@
-// Add this to your existing main.js file
-
 // Floating Table of Contents functionality
 document.addEventListener('DOMContentLoaded', function() {
     // Initialize existing collapsible functionality first
@@ -200,36 +198,25 @@ function initializeFloatingTOC() {
         }
     }
 
-    // Auto-hide/show TOC based on scroll (desktop only)
-    let lastScrollTop = 0;
+    // UPDATED: Remove auto-hide behavior, keep TOC static
     function handleScroll() {
-        const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
-        
-        // Only auto-hide on desktop
-        if (window.innerWidth > 768) {
-            if (scrollTop > lastScrollTop && scrollTop > 300) {
-                // Scrolling down - hide TOC
-                if (tocVisible) hideTOC();
-            } else {
-                // Scrolling up - show TOC
-                if (!tocVisible) showTOC();
-            }
-        }
-        
-        lastScrollTop = scrollTop;
+        // Only highlight current section, no auto-hide
         highlightCurrentSection();
     }
 
-    // Handle responsive behavior
+    // UPDATED: Handle responsive behavior - force TOC to stay visible on desktop
     function handleResize() {
         if (window.innerWidth <= 768) {
             // Mobile: show toggle button, hide TOC by default
             tocToggle.classList.add('show');
             if (tocVisible) hideTOC();
         } else {
-            // Desktop: hide toggle button, show TOC
+            // Desktop/Tablet: hide toggle button, ALWAYS show TOC
             tocToggle.classList.remove('show');
-            if (!tocVisible) showTOC();
+            // Force TOC to stay visible on desktop
+            tocContainer.classList.remove('hidden');
+            tocContainer.classList.add('show');
+            tocVisible = true;
         }
     }
 
