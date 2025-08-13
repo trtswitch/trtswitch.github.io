@@ -119,11 +119,11 @@
     background: #bdc1c6;
 }
 
-/* IMPORTANT: Adjust main content to make room for static TOC */
 @media (min-width: 1025px) {
     .page-content .wrapper {
-        margin-right: 290px; /* Make room for 250px TOC + 40px gap */
-        max-width: none; /* Remove max-width constraint */
+        max-width: 1000px;
+        margin-left: auto;
+        margin-right: 320px;
     }
 }
 
