@@ -1,4 +1,3 @@
-
 ---
 layout: default
 ---
@@ -19,7 +18,6 @@ Our workstream hosts regular educational seminars and workshops to advance under
 
 ## Past Events
 
-### 2024-2025 Seminar Series
 
 <button class="collapsible">📅 February 11th, 2025: Treatment Switching TSD 24 Overview</button>
 <div class="collapsible-content">
@@ -81,7 +79,6 @@ Our workstream hosts regular educational seminars and workshops to advance under
   </ul>
 </div>
 
-### 2024 Workshop Series
 
 <button class="collapsible">📹 February 27th, 2024: Structural Cumulative Survival Models</button>
 <div class="collapsible-content">
@@ -110,18 +107,6 @@ Our workstream hosts regular educational seminars and workshops to advance under
 </div>
 
 
-## Special Events
-
-
-## Seminar Resources
-
-### For Attendees
-
-
-### For Presenters
-
-
-### Archives
 
 
 ## Contact & Suggestions
