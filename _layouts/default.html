@@ -44,16 +44,10 @@
     <header class="site-header">
         <div class="hero-section">
             <div class="hero-content">
-                <div class="hero-header">
-                    <a href="https://community.amstat.org/biop/home" target="_blank" rel="noopener noreferrer" class="logo-link">
-                        <img src="{{ '/asa_biopharm_logo_trim.png' | relative_url }}" 
-                              alt="ASA Biopharmaceutical Section" 
-                              class="sponsor-logo">
-                    </a>
-                    <div class="hero-text">
-                        <h1>UNDER CONSTRUCTION</h1>
-                        <h2>Oncology Treatment Switch Workstream</h2>
-                    </div>
+                <!-- Removed logo from here -->
+                <div class="hero-text">
+                    <h1>UNDER CONSTRUCTION</h1>
+                    <h2>Oncology Treatment Switch Workstream</h2>
                 </div>
                 
                 <div class="hero-description">
@@ -62,9 +56,15 @@
             </div>
         </div>
         
-        <!-- Navigation Menu -->
+        <!-- Navigation Menu with Logo -->
         <nav class="site-nav">
             <div class="nav-container">
+                <!-- Logo moved here, before Home -->
+                <a href="https://community.amstat.org/biop/home" target="_blank" rel="noopener noreferrer" class="logo-nav-link">
+                    <img src="{{ '/asa_biopharm_logo_trim.png' | relative_url }}" 
+                          alt="ASA Biopharmaceutical Section" 
+                          class="nav-logo">
+                </a>
                 <a href="{{ '/' | relative_url }}">Home</a>
                 <!-- <a href="{{ '/objectives' | relative_url }}">Objectives</a> -->
                 <a href="{{ '/members' | relative_url }}">Members</a>
