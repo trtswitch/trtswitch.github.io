@@ -31,23 +31,84 @@ body {
 }
 .MathJax_Preview { color: inherit; }
 
-/* Enhanced Navigation Menu with Logo and Better Spacing */
+/* Hero Section - COMES FIRST NOW */
+.hero-section {
+    background: linear-gradient(135deg, #2c3e50 0%, #3498db 100%);
+    color: white;
+    padding: 2rem 0 1.5rem 0; /* Slightly more padding since it's now the header */
+    position: relative;
+}
+
+.hero-section::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 1px;
+    background: rgba(255, 255, 255, 0.2);
+}
+
+.hero-content {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 2rem;
+    text-align: center;
+}
+
+.hero-text {
+    text-align: center;
+}
+
+.hero-text h1 {
+    font-size: 2.8rem; /* Larger since it's now the main header */
+    margin: 0 0 0.4rem 0;
+    font-weight: 300;
+    letter-spacing: 3px;
+    line-height: 1.1;
+    color: white;
+    text-transform: uppercase;
+}
+
+.hero-text h2 {
+    font-size: 2.2rem; /* Larger subtitle */
+    margin: 0 0 0.5rem 0;
+    font-weight: 400;
+    opacity: 0.95;
+    line-height: 1.2;
+    letter-spacing: 2px;
+    color: white;
+}
+
+.hero-description {
+    font-size: 1.3rem; /* Larger description */
+    opacity: 0.9;
+    text-align: center;
+    margin: 0 auto;
+    line-height: 1.3;
+    font-weight: 300;
+    letter-spacing: 1px;
+    max-width: 900px;
+}
+
+/* Navigation Menu - COMES SECOND NOW, with logo integrated */
 .site-nav {
-    background: #2c3e50;
+    background: #2c3e50; /* Keep same color for consistency */
     padding: 0;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    border-top: 1px solid rgba(255, 255, 255, 0.1); /* Subtle separator */
 }
 
 .nav-container {
-    max-width: 1400px; /* Wider container for more spread */
+    max-width: 1400px;
     margin: 0 auto;
     display: flex;
     align-items: center;
-    justify-content: space-between; /* Spread items across full width */
+    justify-content: space-between;
     padding: 0 2rem;
 }
 
-/* Logo in navigation */
+/* Logo in navigation - smaller since hero is more prominent */
 .nav-logo {
     display: flex;
     align-items: center;
@@ -58,7 +119,7 @@ body {
     display: inline-block;
     transition: all 0.3s ease;
     text-decoration: none;
-    padding: 0.8rem 0; /* Vertical padding only */
+    padding: 0.6rem 0; /* Slightly less padding */
 }
 
 .nav-logo .logo-link:hover {
@@ -67,10 +128,10 @@ body {
 }
 
 .nav-logo .sponsor-logo {
-    height: 40px; /* Smaller for nav bar */
+    height: 35px; /* Smaller since hero is more prominent */
     width: auto;
     background: rgba(255, 255, 255, 0.95);
-    padding: 0.3rem;
+    padding: 0.25rem;
     border-radius: 4px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
     transition: all 0.3s ease;
@@ -80,27 +141,27 @@ body {
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
 }
 
-/* Navigation links container */
+/* Navigation links - same styling */
 .nav-links {
     display: flex;
     align-items: center;
-    justify-content: space-evenly; /* Spread links evenly */
-    flex: 1; /* Take remaining space */
-    margin-left: 2rem; /* Space from logo */
+    justify-content: space-evenly;
+    flex: 1;
+    margin-left: 2rem;
 }
 
 .nav-links a {
     color: white;
-    padding: 1.4rem 1.8rem; /* Slightly less horizontal padding for more spread */
+    padding: 1.2rem 1.6rem; /* Slightly less padding since nav is secondary */
     text-decoration: none;
     transition: all 0.3s ease;
     display: block;
     font-weight: 500;
-    font-size: 1.1rem;
-    letter-spacing: 2px; /* More letter spacing for spread effect */
+    font-size: 1rem; /* Slightly smaller */
+    letter-spacing: 1.8px;
     border-bottom: 3px solid transparent;
-    white-space: nowrap; /* Prevent text wrapping */
-    text-transform: uppercase; /* Makes text look more spread out */
+    white-space: nowrap;
+    text-transform: uppercase;
 }
 
 .nav-links a:hover {
@@ -120,12 +181,12 @@ body {
     display: none;
     position: absolute;
     background: #1a252f;
-    min-width: 200px; /* Wider dropdown */
+    min-width: 200px;
     box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
     z-index: 1;
     border-radius: 4px;
     overflow: hidden;
-    top: 100%; /* Position below nav item */
+    top: 100%;
 }
 
 .dropdown-content a {
@@ -134,7 +195,7 @@ body {
     white-space: nowrap;
     font-size: 0.95rem;
     border-bottom: none !important;
-    text-transform: none !important; /* Normal case for dropdown */
+    text-transform: none !important;
     letter-spacing: 1px !important;
     transform: none !important;
 }
@@ -147,73 +208,13 @@ body {
     display: block;
 }
 
-/* CLEAN Hero Section - Only text, no logo */
-.hero-section {
-    background: linear-gradient(135deg, #2c3e50 0%, #3498db 100%);
-    color: white;
-    padding: 1.2rem 0 1rem 0;
-    position: relative;
-}
-
-.hero-section::after {
-    content: '';
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    height: 1px;
-    background: rgba(255, 255, 255, 0.2);
-}
-
-.hero-content {
-    max-width: 1400px;
-    margin: 0 auto;
-    padding: 0 2rem;
-    text-align: center; /* Center the text now that logo is in nav */
-}
-
-.hero-text {
-    text-align: center;
-}
-
-.hero-text h1 {
-    font-size: 2.6rem;
-    margin: 0 0 0.3rem 0;
-    font-weight: 300;
-    letter-spacing: 3px; /* Even more spacing */
-    line-height: 1.1;
-    color: white;
-    text-transform: uppercase;
-}
-
-.hero-text h2 {
-    font-size: 2rem;
-    margin: 0 0 0.4rem 0;
-    font-weight: 400;
-    opacity: 0.95;
-    line-height: 1.2;
-    letter-spacing: 2px;
-    color: white;
-}
-
-.hero-description {
-    font-size: 1.2rem;
-    opacity: 0.9;
-    text-align: center;
-    margin: 0 auto;
-    line-height: 1.3;
-    font-weight: 300;
-    letter-spacing: 1px;
-    max-width: 900px;
-}
-
 /* ========================================
    STATIC TOC STYLES - CENTERED CONTENT
    ======================================== */
 
 .floating-toc {
     position: fixed;
-    top: 200px; /* Reduced since header is shorter */
+    top: 280px; /* Adjusted for hero + nav height */
     right: 20px;
     width: 250px;
     max-width: 250px;
@@ -222,7 +223,7 @@ body {
     padding: 16px;
     box-shadow: 0 2px 16px rgba(0, 0, 0, 0.1);
     z-index: 1000;
-    max-height: calc(100vh - 220px); /* Adjusted for new position */
+    max-height: calc(100vh - 300px);
     overflow-y: auto;
     border: 1px solid #e1e5e9;
     transition: opacity 0.3s ease;
@@ -354,12 +355,12 @@ body {
 /* Tablet: Adjust for smaller TOC */
 @media (max-width: 1024px) and (min-width: 769px) {
     .floating-toc {
+        top: 260px;
         right: 15px;
         width: 220px;
         max-width: 220px;
-        top: 180px; /* Adjusted for tablet */
         padding: 12px;
-        max-height: calc(100vh - 200px);
+        max-height: calc(100vh - 280px);
     }
     
     .page-content .wrapper {
@@ -384,13 +385,21 @@ body {
     }
     
     .nav-links a {
-        padding: 1.2rem 1.2rem;
-        font-size: 1rem;
+        padding: 1rem 1.2rem;
+        font-size: 0.95rem;
         letter-spacing: 1.5px;
     }
     
     .nav-logo .sponsor-logo {
-        height: 35px;
+        height: 32px;
+    }
+    
+    .hero-text h1 {
+        font-size: 2.4rem;
+    }
+    
+    .hero-text h2 {
+        font-size: 1.9rem;
     }
 }
 
@@ -449,21 +458,21 @@ body {
     }
     
     .hero-section {
-        padding: 1rem 0 0.8rem 0; /* Even more compact on mobile */
+        padding: 1.5rem 0 1rem 0;
     }
     
     .hero-text h1 {
-        font-size: 1.6rem;
-        letter-spacing: 1px;
+        font-size: 1.8rem;
+        letter-spacing: 1.5px;
     }
     
     .hero-text h2 {
-        font-size: 1.3rem;
-        letter-spacing: 0.8px;
+        font-size: 1.4rem;
+        letter-spacing: 1px;
     }
     
     .hero-description {
-        font-size: 1rem;
+        font-size: 1.1rem;
     }
     
     .nav-container {
@@ -472,10 +481,14 @@ body {
     }
     
     .nav-logo {
-        padding: 1rem 0;
+        padding: 0.8rem 0;
         border-bottom: 1px solid rgba(255, 255, 255, 0.2);
         width: 100%;
         justify-content: center;
+    }
+    
+    .nav-logo .sponsor-logo {
+        height: 28px;
     }
     
     .nav-links {
@@ -486,10 +499,11 @@ body {
     
     .nav-links a {
         text-align: center;
-        padding: 1rem;
+        padding: 0.8rem;
         border-bottom: 1px solid rgba(255, 255, 255, 0.1);
         letter-spacing: 1px;
         text-transform: none;
+        font-size: 0.95rem;
     }
     
     .dropdown .dropdown-content {
@@ -633,9 +647,9 @@ h3 {
     font-weight: 500;
 }
 
-/* Scroll offset for headings */
+/* Update scroll offset for headings */
 h1[id], h2[id], h3[id], h4[id], h5[id], h6[id] {
-    scroll-margin-top: 120px; /* Reduced from 160px */
+    scroll-margin-top: 180px; /* Adjusted for new header height */
 }
 
 /* Paragraphs */
