@@ -15,33 +15,7 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
   <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Yufei Wang" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
-  </div>
-  <div style="flex-grow: 1;">
-    <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
-      <a href="https://www.linkedin.com/in/yufei-wang/" target="_blank" style="text-decoration: none; color: #2c3e50;">Yufei Wang</a>
-      <span style="margin-left: 1rem; background: #20c997; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Method Sub-team Co-lead</span>
-    </h3>
-    <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Yufei Wang is a biostatistician at GSK with expertise in advanced statistical methodology and causal inference. She co-leads the Method sub-team, focusing on methodological research and development.
-    </p>
-    <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:yufei.wang@gsk.com">yufei.wang@gsk.com</a>
-    </p>
-  </div>
-</div>
-
----
-
-## How to Join
-
-We welcome participation from statisticians, clinicians, and researchers interested in treatment switching methodology.
-
-**Contact:** [trt.switch@gmail.com](mailto:trt.switch@gmail.com)
-
----
-
-*Member information is being updated. If you are a workstream member and would like to update your profile, please contact the leadership team with your bio, photo, and current affiliation.*/assets/imgs/members/erik-bloomquist.jpg" alt="Erik Bloomquist" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+    <img src="/assets/imgs/members/erik-bloomquist.jpg" alt="Erik Bloomquist" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
@@ -376,4 +350,30 @@ We welcome participation from statisticians, clinicians, and researchers interes
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
   <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="
+    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Yufei Wang" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+  </div>
+  <div style="flex-grow: 1;">
+    <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
+      <a href="https://www.linkedin.com/in/yufei-wang/" target="_blank" style="text-decoration: none; color: #2c3e50;">Yufei Wang</a>
+      <span style="margin-left: 1rem; background: #20c997; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Method Sub-team Co-lead</span>
+    </h3>
+    <p style="margin-bottom: 1.5rem; line-height: 1.6;">
+      Yufei Wang is a biostatistician at GSK with expertise in advanced statistical methodology and causal inference. She co-leads the Method sub-team, focusing on methodological research and development.
+    </p>
+    <p style="margin: 0;">
+      <strong>Email:</strong> <a href="mailto:yufei.wang@gsk.com">yufei.wang@gsk.com</a>
+    </p>
+  </div>
+</div>
+
+---
+
+## How to Join
+
+We welcome participation from statisticians, clinicians, and researchers interested in treatment switching methodology.
+
+**Contact:** [trt.switch@gmail.com](mailto:trt.switch@gmail.com)
+
+---
+
+*Member information is being updated. If you are a workstream member and would like to update your profile, please contact the leadership team with your bio, photo, and current affiliation.*
