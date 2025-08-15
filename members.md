@@ -41,7 +41,9 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
       <span style="margin-left: 1rem; background: #28a745; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Founding Co-lead</span>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      [Bio information to be added]
+      Meijing Wu was the founding co-lead of this workstream and also co-led the Code Standardization Subteam. In November 2024, the team sadly lost our beloved Meijing due to an accident. Her passing was a profound loss to her family, colleagues, friends, and the statistics community. We honor Meijing's extraordinary contribution and leadership to the workstream, and we are continuing her efforts to advance the research in this important area. Meijing will always be a irreplaceable member of the team.
+
+To honor Meijing's legacy, please visit the ASA page.
     </p>
     <p style="margin: 0;">
       <strong>Email:</strong> <a href="mailto:meijing.huang@company.com">meijing.huang@company.com</a>
