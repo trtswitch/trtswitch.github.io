@@ -15,7 +15,7 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
   <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Erik Bloomquist" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+    <img src="/assets/imgs/members/erik-bloomquist.jpg" alt="Erik Bloomquist" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
@@ -23,7 +23,7 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
       <span style="margin-left: 1rem; background: #28a745; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Founding Co-lead</span>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Erik Bloomquist is a Senior Principal Scientist at Merck...
+      Erik Bloomquist works at Merck as a Senior Principal Scientist in Hematology.  He is the 2025 ASA BIOP Section chair and has research interests in treatment switching and dose optimization.
     </p>
     <p style="margin: 0;">
       <strong>Email:</strong> <a href="mailto:erik.bloomquist@merck.com">erik.bloomquist@merck.com</a>
@@ -33,18 +33,18 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
   <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Meijing Huang" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+    <img src="/assets/imgs/members/meijing-wu.jpeg" alt="Erik Bloomquist" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
-      <a href="https://www.linkedin.com/in/meijing-wu-74538a4b/" target="_blank" style="text-decoration: none; color: #2c3e50;">Meijing Wu</a>
+      <a href="https://www.linkedin.com/in/meijing-huang/" target="_blank" style="text-decoration: none; color: #2c3e50;">Meijing Huang</a>
       <span style="margin-left: 1rem; background: #28a745; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Founding Co-lead</span>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Meijing Wu was the founding co-lead of this workstream and also co-led the Code Standardization Subteam. In November 2024, the team sadly lost our beloved Meijing due to an accident. Her passing was a profound loss to her family, colleagues, friends, and the statistics community. We honor Meijing's extraordinary contribution and leadership to the workstream, and we are continuing her efforts to advance the research in this important area. Meijing will always be a irreplaceable member of the team.
+      [Bio information to be added]
     </p>
     <p style="margin: 0;">
-      To honor Meijing's legacy, please visit <a href="[mailto:meijing.huang@company.com](https://ww2.amstat.org/giving/honored-members/meijing-wu.cfm)"> the ASA page.</a>
+      <strong>Email:</strong> <a href="mailto:meijing.huang@company.com">meijing.huang@company.com</a>
     </p>
   </div>
 </div>
@@ -71,7 +71,7 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
   <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="https://lh5.googleusercontent.com/habV27MspU4oFwyESPBnVHGIYQOq1R7xo5GUcMgTH9fy14GkHuNa8aPs161lhE7zo8Xsv41liA9NNZ-d-PsduH2kfP7xuyO_tQehccXx4kSu7zpHd9oUeoXIVej2sTtHAZEW1U6VUNl5JHuCbOrmhXdGcm_LiovQKp9W=w1280" alt="Ray Lin" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+    <img src="/assets/imgs/members/ray-lin.jpg" alt="Ray Lin" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
@@ -128,7 +128,7 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
   <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Charu Gupta" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+    <img src="/assets/imgs/members/charu-gupta.jpg" alt="Charu Gupta" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50;">
@@ -145,7 +145,7 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
   <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Qingxia Chen" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+    <img src="/assets/imgs/members/cindy-chen.jpeg" alt="Qingxia Chen" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50;">
@@ -169,7 +169,7 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
       <a href="https://www.linkedin.com/in/heng-wang/" target="_blank" style="text-decoration: none; color: #2c3e50;">Heng Wang</a>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Heng Wang is a biostatistician with expertise in statistical methodology and clinical trials.
+      Heng Wang is a Principal Data Scientist at Genentech/Roche with a strong focus on innovation and efficiency in clinical trial analysis. She has participated in a variety of cross-industry initiatives, including the [R Submission Pilots](https://rconsortium.github.io/submissions-pilot1/), which explore the use of R for regulatory submissions. Demonstrating her commitment to open-source collaboration, she was also an early contributor to the development of [NEST packages](https://github.com/insightsengineering). Her primary interest lies in implementing automation solutions to streamline the clinical trial analysis and reporting process. A key example of her work in this area is the development of [autoslideR](https://insightsengineering.github.io/autoslider.core/latest-tag/index.html), a tool designed to automate the creation of presentation slides for clinical reporting.
     </p>
     <p style="margin: 0;">
       <strong>Email:</strong> <a href="mailto:heng.wang@company.com">heng.wang@company.com</a>
@@ -179,7 +179,7 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
   <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Hongwei Wang" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+    <img src="/assets/imgs/members/Hongwei-wang.JPG" alt="Hongwei Wang" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50;">
@@ -196,7 +196,7 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
   <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Kaifeng Lu" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+    <img src="/assets/imgs/members/kaifeng.jpg" alt="Kaifeng Lu" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
@@ -316,7 +316,7 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
   <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Ya Wang" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+    <img src="/assets/imgs/members/Ya-wang.jpeg" alt="Ya Wang" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50;">
