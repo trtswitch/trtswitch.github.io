@@ -23,7 +23,7 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
       <span style="margin-left: 1rem; background: #28a745; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Founding Co-lead</span>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Erik Bloomquist is a Senior Principal Scientist at Merck...
+      Erik Bloomquist works at Merck as a Senior Principal Scientist in Hematology.  He is the 2025 ASA BIOP Section chair and has research interests in treatment switching and dose optimization.
     </p>
     <p style="margin: 0;">
       <strong>Email:</strong> <a href="mailto:erik.bloomquist@merck.com">erik.bloomquist@merck.com</a>
