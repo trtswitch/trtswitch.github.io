@@ -341,7 +341,7 @@ To honor Meijing's legacy, please visit the ASA page.
       <a href="https://www.linkedin.com/in/yu-che-chung/" target="_blank" style="text-decoration: none; color: #2c3e50;">Yu-Che Chung</a>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Yu-Che Chung is a biostatistician with expertise in clinical trial methodology and statistical analysis.
+      Yu-Che Chung works as a senior manager of statistics at Takeda Pharmaceuticals. He primarily works on late-phase oncology studies and has been involved in multiple regulatory submissions. He has many research interests, including Bayesian methods, adaptive seamless designs, treatment switching, and dose optimization.
     </p>
     <p style="margin: 0;">
       <strong>Email:</strong> <a href="mailto:yuche.chung@company.com">yuche.chung@company.com</a>
