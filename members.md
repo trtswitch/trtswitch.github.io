@@ -287,13 +287,21 @@ To honor Meijing's legacy, please visit the ASA page.
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50;">
-      <a href="https://www.linkedin.com/in/vickie-zhang/" target="_blank" style="text-decoration: none; color: #2c3e50;">Vickie Zhang</a>
+      <a href="[https://www.linkedin.com/in/vickie-zhang/](https://www.linkedin.com/in/yuanye-vickie-zhang-20258815/
+
+)" target="_blank" style="text-decoration: none; color: #2c3e50;">Vickie Zhang</a>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Vickie Zhang is a biostatistician with expertise in clinical trials and statistical methodology.
+      Vickie Zhang serves as the Senior Director of Biostatistics at Servier, where she leads the Hematology
+and Solid Tumor Oncology Late Phase Statistics group. Before joining Servier, she held key roles at Agios
+Pharmaceuticals and Novartis, leading a variety of oncology projects. Vickie earned her Ph.D. in Statistics
+and an M.S. in Neurobiology and Physiology from the University of Connecticut. She has authored
+numerous peer-reviewed book chapters and manuscripts on methodology, study design, and data
+analysis. Combining expertise in both statistics and science, Vickie is always passionate about leveraging
+data-driven decision-making in the pharmaceutical industry.
     </p>
     <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:vickie.zhang@company.com">vickie.zhang@company.com</a>
+      <strong>Email:</strong> <a href="mailto:vickie.zhang@servier.com">vickie.zhang@servier.com</a>
     </p>
   </div>
 </div>
