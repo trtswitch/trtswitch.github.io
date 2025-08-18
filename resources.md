@@ -6,14 +6,8 @@ title: Resources
 # Resources and Documentation
 
 ## Documentation
-- [Package Documentation](https://shreyasreeram27.github.io/trtswitch/)
-- [User Guide](#user-guide)
-- [FAQ](#faq)
-
-## Publications & References
-- **Methodological Papers:** Key publications on RPSFTM and IPE methods
-- **Validation Studies:** Peer-reviewed validation research
-- **Regulatory Guidance:** FDA and EMA perspectives on treatment switching
+- [Package Documentation](https://cran.r-project.org/web/packages/trtswitch/index.html)
+- [GitHub](https://github.com/kaifenglu/trtswitchuser-guide)
 
 ## Software Dependencies
 ```r
