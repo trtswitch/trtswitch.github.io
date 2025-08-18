@@ -242,10 +242,9 @@ I hold double master’s degrees in mathematics and statistics, specializing in 
       <a href="https://www.linkedin.com/in/qing-liu/" target="_blank" style="text-decoration: none; color: #2c3e50;">Qing Liu</a>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Qing Liu is a biostatistician with expertise in statistical methodology and clinical research.
+      Qing Liu is a Director of Biostatistics at Amgen, specializing in the advancement of innovative trial designs with statistical strategics and quantified frameworks to support data-driven decision-making across therapeutic areas, with a particular focus on oncology.
     </p>
     <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:qing.liu@company.com">qing.liu@company.com</a>
     </p>
   </div>
 </div>
