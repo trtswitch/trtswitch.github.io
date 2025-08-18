@@ -46,7 +46,6 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
 To honor Meijing's legacy, please visit the ASA page.
     </p>
     <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:meijing.huang@company.com">meijing.huang@company.com</a>
     </p>
   </div>
 </div>
