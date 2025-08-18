@@ -98,13 +98,15 @@ To honor Meijing's legacy, please visit the ASA page.
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50;">
-      <a href="https://www.linkedin.com/in/abhijoy-saha/" target="_blank" style="text-decoration: none; color: #2c3e50;">Abhijoy Saha</a>
+      <a href="www.linkedin.com/in/abhijoysaha" target="_blank" style="text-decoration: none; color: #2c3e50;">Abhijoy Saha</a>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Abhijoy Saha is a biostatistician with expertise in clinical trials and statistical analysis.
+      Abhijoy Saha is a Sr. Advisor at Eli Lilly and Company, where he applies his expertise in statistical methodology to advance late-phase clinical trials in Oncology and Neuroscience. He earned his Ph.D. from The Ohio State University in 2019 and has since played a key role in designing and optimizing innovative trial strategies. At Lilly, he is responsible for developing statistical approaches for pivotal studies, championing the adoption of adaptive and novel trial designs, and serving as a consultant to cross-functional study teams on statistical trial design.
     </p>
     <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:abhijoy.saha@company.com">abhijoy.saha@company.com</a>
+      <strong>Email:</strong> <a href="mailto:saha_abhijoy@lilly.com
+">saha_abhijoy@lilly.com
+</a>
     </p>
   </div>
 </div>
