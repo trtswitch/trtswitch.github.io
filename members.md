@@ -133,10 +133,13 @@ To honor Meijing's legacy, please visit the ASA page.
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50;">
-      <a href="https://www.linkedin.com/in/charu-gupta/" target="_blank" style="text-decoration: none; color: #2c3e50;">Charu Gupta</a>
+      <a href=" https://www.linkedin.com/in/charu-gupta-587b8314/
+" target="_blank" style="text-decoration: none; color: #2c3e50;">Charu Gupta</a>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Charu Gupta is a biostatistician with experience in pharmaceutical research and clinical trials.
+      I am currently working as an  Statistical Science Director for Late-stage oncology biometrics at AstraZeneca. With over 15 years of experience in drug development as a biostatistician, I had been leading statistical strategies for multiple Phase 2 and 3 trials including but not limited to developing and implementing new statistical methodologies within clinical research, contributing to complex innovative study designs, analysis, interpretations and reporting, health authority interactions, and NDA submissions etc. My technical expertise lies in advanced statistical methods particularly applicable to oncology clinical trials, including Cox regression, non-proportional hazard, survival and multivariate analysis, treatment crossover methodologies etc.  Additionally, I am proficient in SAS and R programming and hold base SAS programmer certification.
+I hold double master’s degrees in mathematics and statistics, specializing in Probability and Statistics, and have been recognized for my academic achievements, including earning a certificate in Immuno-oncology from Harvard University and AI in pharma from MIT.I am passionate about mentoring and developing the next generation of statisticians, promoting innovation, and enhancing statistical standards across the industry and committed to advancing the field of biostatistics. I look forward to contributing my expertise to the broader statistical community.
+
     </p>
     <p style="margin: 0;">
       <strong>Email:</strong> <a href="mailto:charu.gupta@company.com">charu.gupta@company.com</a>
