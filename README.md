@@ -129,9 +129,6 @@ We welcome contributions from workstream members and the broader statistical com
 - **Code Standardization Sub-team**: Led by Ray Lin & Kaifeng Lu  
 - **Tutorial Sub-team**: Led by Ananya Roy
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
