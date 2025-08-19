@@ -119,7 +119,7 @@ To honor Meijing's legacy, please visit the ASA page.
       <span style="margin-left: 1rem; background: #6f42c1; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Tutorial Sub-team Lead</span>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Ananya Roy is a biostatistician at Merck with expertise in oncology clinical trials. She leads the Tutorial sub-team, working on publishing educational content for treatment switching methods in Statistics in Medicine.
+      Dr. Ananya Roy is a Senior Director of Biostatistics at Merck, where she works in Oncology late development statistics. Ananya has over 10 years of experience in pharmaceutical industry and has previously worked as a faculty member at University of Nebraska, Lincoln. She holds a PhD in Statistics from University of Florida.
     </p>
     <p style="margin: 0;">
       <strong>Email:</strong> <a href="mailto:ananya.roy@merck.com">ananya.roy@merck.com</a>
