@@ -62,7 +62,7 @@ To honor Meijing's legacy, please visit the ASA page.
       <span style="margin-left: 1rem; background: #007bff; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Co-lead</span>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Bingxia Wang is a biostatistician with expertise in clinical trial methodology and treatment switching analysis. She serves as a co-lead for the Treatment Switch Workstream, coordinating research activities and methodology development across the team.
+      Bingxia Wang ..... 
     </p>
     <p style="margin: 0;">
       <strong>Email:</strong> <a href="mailto:bingxia.wang@company.com">bingxia.wang@company.com</a>
@@ -317,7 +317,7 @@ data-driven decision-making in the pharmaceutical industry.
       <a href="https://www.linkedin.com/in/jessie-gu/" target="_blank" style="text-decoration: none; color: #2c3e50;">Wenjuan (Jessie) Gu</a>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Wenjuan (Jessie) Gu is a biostatistician with expertise in clinical trials and statistical methodology.
+      Wenjuan (Jessie) Gu .... 
     </p>
     <p style="margin: 0;">
       <strong>Email:</strong> <a href="mailto:jessie.gu@company.com">jessie.gu@company.com</a>
