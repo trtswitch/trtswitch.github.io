@@ -19,7 +19,7 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
-      <a href="https://www.linkedin.com/in/erik-bloomquist/" target="_blank" style="text-decoration: none; color: #2c3e50;">Erik Bloomquist</a>
+      <a href="[https://www.linkedin.com/in/erik-bloomquist/](https://www.linkedin.com/in/erikbloomquist-stat/)" target="_blank" style="text-decoration: none; color: #2c3e50;">Erik Bloomquist</a>
       <span style="margin-left: 1rem; background: #28a745; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Founding Co-lead</span>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
