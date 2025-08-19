@@ -346,7 +346,6 @@ I hold double master’s degrees in mathematics and statistics, specializing in 
       Yu-Che Chung works as a senior manager of statistics at Takeda Pharmaceuticals. He primarily works on late-phase oncology studies and has been involved in multiple regulatory submissions. He has many research interests, including Bayesian methods, adaptive seamless designs, treatment switching, and dose optimization.
     </p>
     <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:yuche.chung@company.com">yuche.chung@company.com</a>
     </p>
   </div>
 </div>
