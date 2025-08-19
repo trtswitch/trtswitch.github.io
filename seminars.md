@@ -108,9 +108,9 @@ Our workstream hosts regular educational seminars and workshops to advance under
 
 **Seminar Coordination:** 
 
-**Suggest a Topic:** We welcome suggestions for future seminar topics. <a href="#">Submit your ideas here</a>.
+**Suggest a Topic:** We welcome suggestions for future seminar topics. 
 
-**Technical Support:** For webinar access or technical issues, contact <a href="#">support@workstream.org</a>.
+**Technical Support:** For webinar access or technical issues, contact 
 
 ---
 
