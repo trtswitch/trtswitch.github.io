@@ -225,7 +225,7 @@ I hold double master’s degrees in mathematics and statistics, specializing in 
       <a href="https://www.linkedin.com/in/laura-fernandes/" target="_blank" style="text-decoration: none; color: #2c3e50;">Laura Fernandes</a>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Laura Fernandes is a biostatistician with experience in clinical research and statistical methodology.
+      Laura Fernandes ..... 
     </p>
     <p style="margin: 0;">
       <strong>Email:</strong> <a href="mailto:laura.fernandes@company.com">laura.fernandes@company.com</a>
@@ -235,7 +235,7 @@ I hold double master’s degrees in mathematics and statistics, specializing in 
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
   <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Qing Liu" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+    <img src="/assets/imgs/members/Qing L.jpg alt="Qing Liu" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50;">
