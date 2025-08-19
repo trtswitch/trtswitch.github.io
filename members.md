@@ -170,7 +170,7 @@ I hold double master’s degrees in mathematics and statistics, specializing in 
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50;">
-      <a href="https://www.linkedin.com/in/heng-wang/" target="_blank" style="text-decoration: none; color: #2c3e50;">Heng Wang</a>
+      <a href="[https://www.linkedin.com/in/heng-wang/](https://www.linkedin.com/in/heng-wang-52a19265/)" target="_blank" style="text-decoration: none; color: #2c3e50;">Heng Wang</a>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
       Heng Wang is a Principal Data Scientist at Genentech/Roche with a strong focus on innovation and efficiency in clinical trial analysis. She has participated in a variety of cross-industry initiatives, including the [R Submission Pilots](https://rconsortium.github.io/submissions-pilot1/), which explore the use of R for regulatory submissions. Demonstrating her commitment to open-source collaboration, she was also an early contributor to the development of [NEST packages](https://github.com/insightsengineering). Her primary interest lies in implementing automation solutions to streamline the clinical trial analysis and reporting process. A key example of her work in this area is the development of [autoslideR](https://insightsengineering.github.io/autoslider.core/latest-tag/index.html), a tool designed to automate the creation of presentation slides for clinical reporting.
