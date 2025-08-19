@@ -62,7 +62,17 @@ To honor Meijing's legacy, please visit the ASA page.
       <span style="margin-left: 1rem; background: #007bff; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Co-lead</span>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Bingxia Wang ..... 
+      Dr. Bingxia Wang currently serves as the Senior Director of Statistics and Quantitative
+Sciences at the Data &amp; Quantitative Science at Takeda. With over 15 years of
+experience in drug development, specializing in oncological disease areas, she has
+emerged as a leading expert in the statistical design of oncology clinical trials. She has
+played a pivotal role in shaping regulatory submissions for high-impact oncology
+products. She has presented on numerous topics at statistical conferences, where she
+loves to share her insights and knowledge to help inform quantitative decision-making
+processes. She is currently leading and participating in various statistical research
+working groups, contributing to new methodologies for treatment switch and indirect
+treatment comparison for RWE/RWD generation. Bingxia holds a PhD degree in
+biostatistics from Boston University.
     </p>
     <p style="margin: 0;">
       <strong>Email:</strong> <a href="mailto:bingxia.wang@company.com">bingxia.wang@company.com</a>
