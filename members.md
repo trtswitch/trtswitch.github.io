@@ -139,10 +139,8 @@ To honor Meijing's legacy, please visit the ASA page.
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
       I am currently working as an  Statistical Science Director for Late-stage oncology biometrics at AstraZeneca. With over 15 years of experience in drug development as a biostatistician, I had been leading statistical strategies for multiple Phase 2 and 3 trials including but not limited to developing and implementing new statistical methodologies within clinical research, contributing to complex innovative study designs, analysis, interpretations and reporting, health authority interactions, and NDA submissions etc. My technical expertise lies in advanced statistical methods particularly applicable to oncology clinical trials, including Cox regression, non-proportional hazard, survival and multivariate analysis, treatment crossover methodologies etc.  Additionally, I am proficient in SAS and R programming and hold base SAS programmer certification.
 I hold double master’s degrees in mathematics and statistics, specializing in Probability and Statistics, and have been recognized for my academic achievements, including earning a certificate in Immuno-oncology from Harvard University and AI in pharma from MIT.I am passionate about mentoring and developing the next generation of statisticians, promoting innovation, and enhancing statistical standards across the industry and committed to advancing the field of biostatistics. I look forward to contributing my expertise to the broader statistical community.
-
     </p>
     <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:charu.gupta@company.com">charu.gupta@company.com</a>
     </p>
   </div>
 </div>
@@ -176,7 +174,7 @@ I hold double master’s degrees in mathematics and statistics, specializing in 
       Heng Wang is a Principal Data Scientist at Genentech/Roche with a strong focus on innovation and efficiency in clinical trial analysis. She has participated in a variety of cross-industry initiatives, including the <a href="https://rconsortium.github.io/submissions-pilot1/" target="_blank">R Submission Pilots</a>, which explore the use of R for regulatory submissions. Demonstrating her commitment to open-source collaboration, she was also an early contributor to the development of <a href="https://github.com/insightsengineering" target="_blank">NEST packages</a>. Her primary interest lies in implementing automation solutions to streamline the clinical trial analysis and reporting process. A key example of her work in this area is the development of <a href="https://insightsengineering.github.io/autoslider.core/latest-tag/index.html" target="_blank">autoslideR</a>, a tool designed to automate the creation of presentation slides for clinical reporting.
     </p>
     <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:heng.wang@company.com">heng.wang@company.com</a>
+      <strong>Email:</strong> <a href="mailto:wangh107@gene.com">wangh107@gene.com</a>
     </p>
   </div>
 </div>
@@ -245,7 +243,6 @@ I hold double master’s degrees in mathematics and statistics, specializing in 
       Qing Liu is a Director of Biostatistics at Amgen, specializing in the advancement of innovative trial designs with statistical strategics and quantified frameworks to support data-driven decision-making across therapeutic areas, with a particular focus on oncology.
     </p>
     <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:qing.liu@company.com">qing.liu@company.com</a>
     </p>
   </div>
 </div>
