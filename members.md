@@ -19,7 +19,7 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
-      <a href="https://www.linkedin.com/in/erik-bloomquist/" target="_blank" style="text-decoration: none; color: #2c3e50;">Erik Bloomquist</a>
+      <a href="https://www.linkedin.com/in/erikbloomquist-stat/" target="_blank" style="text-decoration: none; color: #2c3e50;">Erik Bloomquist</a>
       <span style="margin-left: 1rem; background: #28a745; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Founding Co-lead</span>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
@@ -37,7 +37,7 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
-      <a href="https://www.linkedin.com/in/meijing-huang/" target="_blank" style="text-decoration: none; color: #2c3e50;">Meijing Wu</a>
+      <a target="_blank" style="text-decoration: none; color: #2c3e50;">Meijing Wu</a>
       <span style="margin-left: 1rem; background: #28a745; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Founding Co-lead</span>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
@@ -46,7 +46,6 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
 To honor Meijing's legacy, please visit the ASA page.
     </p>
     <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:meijing.huang@company.com">meijing.huang@company.com</a>
     </p>
   </div>
 </div>
@@ -63,7 +62,7 @@ To honor Meijing's legacy, please visit the ASA page.
       <span style="margin-left: 1rem; background: #007bff; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Co-lead</span>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Bingxia Wang is a biostatistician with expertise in clinical trial methodology and treatment switching analysis. She serves as a co-lead for the Treatment Switch Workstream, coordinating research activities and methodology development across the team.
+      Bingxia Wang ..... 
     </p>
     <p style="margin: 0;">
       <strong>Email:</strong> <a href="mailto:bingxia.wang@company.com">bingxia.wang@company.com</a>
@@ -95,32 +94,32 @@ To honor Meijing's legacy, please visit the ASA page.
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
   <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Abhijoy Saha" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+    <img src="/assets/imgs/members/Abhijoy-Saha.jpg" alt="Abhijoy Saha" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50;">
-      <a href="https://www.linkedin.com/in/abhijoy-saha/" target="_blank" style="text-decoration: none; color: #2c3e50;">Abhijoy Saha</a>
+      <a href="https://www.linkedin.com/in/abhijoysaha" target="_blank" style="text-decoration: none; color: #2c3e50;">Abhijoy Saha</a>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Abhijoy Saha is a biostatistician with expertise in clinical trials and statistical analysis.
+      Abhijoy Saha is a Sr. Advisor at Eli Lilly and Company, where he applies his expertise in statistical methodology to advance late-phase clinical trials in Oncology and Neuroscience. He earned his Ph.D. from The Ohio State University in 2019 and has since played a key role in designing and optimizing innovative trial strategies. At Lilly, he is responsible for developing statistical approaches for pivotal studies, championing the adoption of adaptive and novel trial designs, and serving as a consultant to cross-functional study teams on statistical trial design.
     </p>
     <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:abhijoy.saha@company.com">abhijoy.saha@company.com</a>
+      <strong>Email:</strong> <a href="mailto:saha_abhijoy@lilly.com">saha_abhijoy@lilly.com</a>
     </p>
   </div>
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
   <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Ananya Roy" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+    <img src="/assets/imgs/members/AR.jpg" alt="Ananya Roy" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
-      <a href="https://www.linkedin.com/in/ananya-roy/" target="_blank" style="text-decoration: none; color: #2c3e50;">Ananya Roy</a>
+      <a href="https://www.linkedin.com/in/ananya-roy-864174b2/" target="_blank" style="text-decoration: none; color: #2c3e50;">Ananya Roy</a>
       <span style="margin-left: 1rem; background: #6f42c1; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Tutorial Sub-team Lead</span>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Ananya Roy is a biostatistician at Merck with expertise in oncology clinical trials. She leads the Tutorial sub-team, working on publishing educational content for treatment switching methods in Statistics in Medicine.
+      Dr. Ananya Roy is a Senior Director of Biostatistics at Merck, where she works in Oncology late development statistics. Ananya has over 10 years of experience in pharmaceutical industry and has previously worked as a faculty member at University of Nebraska, Lincoln. She holds a PhD in Statistics from University of Florida.
     </p>
     <p style="margin: 0;">
       <strong>Email:</strong> <a href="mailto:ananya.roy@merck.com">ananya.roy@merck.com</a>
@@ -134,13 +133,14 @@ To honor Meijing's legacy, please visit the ASA page.
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50;">
-      <a href="https://www.linkedin.com/in/charu-gupta/" target="_blank" style="text-decoration: none; color: #2c3e50;">Charu Gupta</a>
+      <a href=" https://www.linkedin.com/in/charu-gupta-587b8314/
+" target="_blank" style="text-decoration: none; color: #2c3e50;">Charu Gupta</a>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Charu Gupta is a biostatistician with experience in pharmaceutical research and clinical trials.
+      I am currently working as an  Statistical Science Director for Late-stage oncology biometrics at AstraZeneca. With over 15 years of experience in drug development as a biostatistician, I had been leading statistical strategies for multiple Phase 2 and 3 trials including but not limited to developing and implementing new statistical methodologies within clinical research, contributing to complex innovative study designs, analysis, interpretations and reporting, health authority interactions, and NDA submissions etc. My technical expertise lies in advanced statistical methods particularly applicable to oncology clinical trials, including Cox regression, non-proportional hazard, survival and multivariate analysis, treatment crossover methodologies etc.  Additionally, I am proficient in SAS and R programming and hold base SAS programmer certification.
+I hold double master’s degrees in mathematics and statistics, specializing in Probability and Statistics, and have been recognized for my academic achievements, including earning a certificate in Immuno-oncology from Harvard University and AI in pharma from MIT.I am passionate about mentoring and developing the next generation of statisticians, promoting innovation, and enhancing statistical standards across the industry and committed to advancing the field of biostatistics. I look forward to contributing my expertise to the broader statistical community.
     </p>
     <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:charu.gupta@company.com">charu.gupta@company.com</a>
     </p>
   </div>
 </div>
@@ -164,17 +164,17 @@ To honor Meijing's legacy, please visit the ASA page.
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
   <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Heng Wang" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+    <img src="/assets/imgs/members/heng-wang.jpeg" alt="Heng Wang" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50;">
-      <a href="https://www.linkedin.com/in/heng-wang/" target="_blank" style="text-decoration: none; color: #2c3e50;">Heng Wang</a>
+      <a href="https://www.linkedin.com/in/heng-wang-52a19265/" target="_blank" style="text-decoration: none; color: #2c3e50;">Heng Wang</a>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Heng Wang is a Principal Data Scientist at Genentech/Roche with a strong focus on innovation and efficiency in clinical trial analysis. She has participated in a variety of cross-industry initiatives, including the [R Submission Pilots](https://rconsortium.github.io/submissions-pilot1/), which explore the use of R for regulatory submissions. Demonstrating her commitment to open-source collaboration, she was also an early contributor to the development of [NEST packages](https://github.com/insightsengineering). Her primary interest lies in implementing automation solutions to streamline the clinical trial analysis and reporting process. A key example of her work in this area is the development of [autoslideR](https://insightsengineering.github.io/autoslider.core/latest-tag/index.html), a tool designed to automate the creation of presentation slides for clinical reporting.
+      Heng Wang is a Principal Data Scientist at Genentech/Roche with a strong focus on innovation and efficiency in clinical trial analysis. She has participated in a variety of cross-industry initiatives, including the <a href="https://rconsortium.github.io/submissions-pilot1/" target="_blank">R Submission Pilots</a>, which explore the use of R for regulatory submissions. Demonstrating her commitment to open-source collaboration, she was also an early contributor to the development of <a href="https://github.com/insightsengineering" target="_blank">NEST packages</a>. Her primary interest lies in implementing automation solutions to streamline the clinical trial analysis and reporting process. A key example of her work in this area is the development of <a href="https://insightsengineering.github.io/autoslider.core/latest-tag/index.html" target="_blank">autoslideR</a>, a tool designed to automate the creation of presentation slides for clinical reporting.
     </p>
     <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:heng.wang@company.com">heng.wang@company.com</a>
+      <strong>Email:</strong> <a href="mailto:wangh107@gene.com">wangh107@gene.com</a>
     </p>
   </div>
 </div>
@@ -185,7 +185,7 @@ To honor Meijing's legacy, please visit the ASA page.
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50;">
-      <a href="https://www.linkedin.com/in/hongwei-wang/" target="_blank" style="text-decoration: none; color: #2c3e50;">Hongwei Wang</a>
+      <a href="https://www.linkedin.com/in/hongwei-wang-1309bb7/" target="_blank" style="text-decoration: none; color: #2c3e50;">Hongwei Wang</a>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
       Dr. Hongwei Wang is currently a Sr. Research Fellow and Immunology TA Head at Medical Affairs & Health Technology Assessment Statistics of AbbVie. Prior to that, he worked at Sanofi and Merck with increasing responsibilities. Hongwei received his PhD in Statistics from Rutgers University and actively published in real-world evidence, network meta-analysis, advanced analytics and their application to different stages of drug development.
@@ -223,7 +223,7 @@ To honor Meijing's legacy, please visit the ASA page.
       <a href="https://www.linkedin.com/in/laura-fernandes/" target="_blank" style="text-decoration: none; color: #2c3e50;">Laura Fernandes</a>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Laura Fernandes is a biostatistician with experience in clinical research and statistical methodology.
+      Laura Fernandes ..... 
     </p>
     <p style="margin: 0;">
       <strong>Email:</strong> <a href="mailto:laura.fernandes@company.com">laura.fernandes@company.com</a>
@@ -233,17 +233,16 @@ To honor Meijing's legacy, please visit the ASA page.
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
   <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Qing Liu" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+    <img src="/assets/imgs/members/Qing L.jpg" alt="Qing Liu" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50;">
-      <a href="https://www.linkedin.com/in/qing-liu/" target="_blank" style="text-decoration: none; color: #2c3e50;">Qing Liu</a>
+      <a href="https://www.linkedin.com/in/qing-liu-43993420/" target="_blank" style="text-decoration: none; color: #2c3e50;">Qing Liu</a>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Qing Liu is a biostatistician with expertise in statistical methodology and clinical research.
+      Qing Liu is a Director of Biostatistics at Amgen, specializing in the advancement of innovative trial designs with statistical strategics and quantified frameworks to support data-driven decision-making across therapeutic areas, with a particular focus on oncology.
     </p>
     <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:qing.liu@company.com">qing.liu@company.com</a>
     </p>
   </div>
 </div>
@@ -257,7 +256,7 @@ To honor Meijing's legacy, please visit the ASA page.
       <a href="https://www.linkedin.com/in/shreya-sreeram/" target="_blank" style="text-decoration: none; color: #2c3e50;">Shreya Sreeram</a>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Shreya Sreeram is a biostatistician with expertise in R programming and statistical methodology. She contributes to the workstream's development of R packages and methodology implementation.
+      Shreya Sreeram .....
     </p>
     <p style="margin: 0;">
       <strong>Email:</strong> <a href="mailto:shreya.sreeram@company.com">shreya.sreeram@company.com</a>
@@ -274,7 +273,7 @@ To honor Meijing's legacy, please visit the ASA page.
       <a href="https://www.linkedin.com/in/suk-young-yoo/" target="_blank" style="text-decoration: none; color: #2c3e50;">Suk-Young Yoo</a>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Suk-Young Yoo is a biostatistician with expertise in clinical trials and statistical methodology.
+      Suk-Young Yoo ... 
     </p>
     <p style="margin: 0;">
       <strong>Email:</strong> <a href="mailto:sukyoung.yoo@company.com">sukyoung.yoo@company.com</a>
@@ -284,17 +283,17 @@ To honor Meijing's legacy, please visit the ASA page.
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
   <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Vickie Zhang" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+    <img src="/assets/imgs/members/vickie-zhang.jpeg" alt="Vickie Zhang" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50;">
-      <a href="https://www.linkedin.com/in/vickie-zhang/" target="_blank" style="text-decoration: none; color: #2c3e50;">Vickie Zhang</a>
+      <a href="https://www.linkedin.com/in/yuanye-vickie-zhang-20258815/" target="_blank" style="text-decoration: none; color: #2c3e50;">Vickie Zhang</a>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Vickie Zhang is a biostatistician with expertise in clinical trials and statistical methodology.
+      Vickie Zhang serves as the Senior Director of Biostatistics at Servier, where she leads the Hematology and Solid Tumor Oncology Late Phase Statistics group. Before joining Servier, she held key roles at Agios Pharmaceuticals and Novartis, leading a variety of oncology projects. Vickie earned her Ph.D. in Statistics and an M.S. in Neurobiology and Physiology from the University of Connecticut. She has authored numerous peer-reviewed book chapters and manuscripts on methodology, study design, and data analysis. Combining expertise in both statistics and science, Vickie is always passionate about leveraging data-driven decision-making in the pharmaceutical industry.
     </p>
     <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:vickie.zhang@company.com">vickie.zhang@company.com</a>
+      <strong>Email:</strong> <a href="mailto:vickie.zhang@servier.com">vickie.zhang@servier.com</a>
     </p>
   </div>
 </div>
@@ -308,7 +307,7 @@ To honor Meijing's legacy, please visit the ASA page.
       <a href="https://www.linkedin.com/in/jessie-gu/" target="_blank" style="text-decoration: none; color: #2c3e50;">Wenjuan (Jessie) Gu</a>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Wenjuan (Jessie) Gu is a biostatistician with expertise in clinical trials and statistical methodology.
+      Wenjuan (Jessie) Gu .... 
     </p>
     <p style="margin: 0;">
       <strong>Email:</strong> <a href="mailto:jessie.gu@company.com">jessie.gu@company.com</a>
@@ -318,34 +317,32 @@ To honor Meijing's legacy, please visit the ASA page.
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
   <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="/assets/imgs/members/Ya-wang.jpeg" alt="Ya Wang" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+    <img src="/assets/imgs/members/YW.jpeg" alt="Ya Wang" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50;">
-      <a href="https://www.linkedin.com/in/ya-wang/" target="_blank" style="text-decoration: none; color: #2c3e50;">Ya Wang</a>
+      <a href="https://www.linkedin.com/in/ya-wang-98531524/" target="_blank" style="text-decoration: none; color: #2c3e50;">Ya Wang</a>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
       Ya Wang obtained her doctorate degree in Biostatistics from Columbia University, where her research focused on developing statistical methodologies for analyzing epigenetic data. Since joining Gilead in 2018, she has been actively involved in a range of initiatives at the intersection of statistical innovation and software development. Her current work includes the development of R packages, creation of interactive Shiny applications, methodological research, and statistical consultation across various therapeutic areas. She is passionate about open-source software, user-friendly analytics tools, and fostering collaboration in the scientific and healthcare communities.
     </p>
     <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:ya.wang@company.com">ya.wang@company.com</a>
     </p>
   </div>
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
   <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Yu-Che Chung" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+    <img src="/assets/imgs/members/Yu-Che Photo.jpg" alt="Ya Wang" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50;">
       <a href="https://www.linkedin.com/in/yu-che-chung/" target="_blank" style="text-decoration: none; color: #2c3e50;">Yu-Che Chung</a>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Yu-Che Chung is a biostatistician with expertise in clinical trial methodology and statistical analysis.
+      Yu-Che Chung works as a senior manager of statistics at Takeda Pharmaceuticals. He primarily works on late-phase oncology studies and has been involved in multiple regulatory submissions. He has many research interests, including Bayesian methods, adaptive seamless designs, treatment switching, and dose optimization.
     </p>
     <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:yuche.chung@company.com">yuche.chung@company.com</a>
     </p>
   </div>
 </div>

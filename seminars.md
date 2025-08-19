@@ -24,7 +24,6 @@ Our workstream hosts regular educational seminars and workshops to advance under
   <h3>Treatment Switching TSD 24 Overview</h3>
   <p><strong>Speaker:</strong> Nick Latimer</p>
   <p><strong>Date:</strong> February 11th, 2025</p>
-  <p><strong>Registration:</strong> <a href="#">Register Here</a></p>
   <h4>Session Overview:</h4>
   <p>Nick Latimer will join us to give an overview on the recent updates to the Technical Support Document on treatment switching (TSD 24).</p>
   <h4>Resources:</h4>
@@ -39,8 +38,6 @@ Our workstream hosts regular educational seminars and workshops to advance under
 <div class="collapsible-content">
   <h3>A Unified Three-State Model Framework for Analysis of Treatment Crossover in Survival Trials</h3>
   <p><strong>Date:</strong> June 20th, 2024</p>
-  <p><strong>Recording:</strong> <a href="#">Watch Recording</a></p>
-  <p><strong>Slides:</strong> <a href="#">Download PDF</a></p>
   
   <h4>Session Overview:</h4>
   <p>This seminar presented a unified approach using three-state models for analyzing treatment crossover scenarios in survival trials, providing a comprehensive framework for handling complex switching patterns.</p>
@@ -59,9 +56,8 @@ Our workstream hosts regular educational seminars and workshops to advance under
   <h3>Adjusting for Time-Varying Treatment Switches in Randomized Clinical Trials: The Danger of Extrapolation and How to Address It</h3>
   <p><strong>Speaker:</strong> Hege Michiels, Argenx</p>
   <p><strong>Date:</strong> April 3rd, 2024</p>
-  <p><strong>Recording:</strong> <a href="#">Watch Recording</a></p>
   <p><strong>Paper:</strong> <a href="https://www.tandfonline.com/journals/usbr20" target="_blank">Statistics in Biopharmaceutical Research</a></p>
-  <p><strong>Slides:</strong> <a href="#">Download PDF</a></p>
+ 
   
   <h4>Abstract:</h4>
   <p>When choosing estimands and estimators in randomized clinical trials, caution is warranted, as intercurrent events, such as patients who switch treatment after disease progression, are often strongly associated with patients' time-varying prognostic factors. Consequently, for patients who did experience intercurrent events, there are typically no comparable patients who did not. Statistical analyses may then easily lure one into making large implicit extrapolations, which often go unnoticed.</p>
@@ -85,9 +81,8 @@ Our workstream hosts regular educational seminars and workshops to advance under
   <h3>Structural Cumulative Survival Models for Estimation of Treatment Effects Accounting for Treatment Switching in Randomized Experiments</h3>
   <p><strong>Speaker:</strong> Professor Eric Tchetgen Tchetgen, University of Pennsylvania</p>
   <p><strong>Date:</strong> February 27th, 2024 | <strong>Time:</strong> 1:30 – 3:00 PM EST</p>
-  <p><strong>Recording:</strong> <a href="#">Watch Recording</a></p>
   <p><strong>Paper:</strong> <a href="https://academic.oup.com/biometrics" target="_blank">Biometrics | Oxford Academic</a></p>
-  <p><strong>Slides:</strong> <a href="#">Download PDF</a></p>
+
   
   <h4>Abstract:</h4>
   <p>Treatment switching in a randomized controlled trial occurs when a patient in one treatment arm switches to another arm during follow-up. This can occur at the point of disease progression, whereby patients in the control arm may be offered the experimental treatment. It is widely known that failure to account for treatment switching can seriously bias the estimated treatment causal effect.</p>
