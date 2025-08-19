@@ -10,5 +10,4 @@ title: Resources
 - [GitHub Repository](https://github.com/kaifenglu/trtswitchuser-guide)
 
 
-## Suggested packages  
-install.packages(c("ggplot2", "knitr", "rmarkdown"))
+
