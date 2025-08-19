@@ -330,7 +330,6 @@ I hold double master’s degrees in mathematics and statistics, specializing in 
       Ya Wang obtained her doctorate degree in Biostatistics from Columbia University, where her research focused on developing statistical methodologies for analyzing epigenetic data. Since joining Gilead in 2018, she has been actively involved in a range of initiatives at the intersection of statistical innovation and software development. Her current work includes the development of R packages, creation of interactive Shiny applications, methodological research, and statistical consultation across various therapeutic areas. She is passionate about open-source software, user-friendly analytics tools, and fostering collaboration in the scientific and healthcare communities.
     </p>
     <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:ya.wang@company.com">ya.wang@company.com</a>
     </p>
   </div>
 </div>
