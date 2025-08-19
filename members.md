@@ -286,22 +286,14 @@ I hold double master’s degrees in mathematics and statistics, specializing in 
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
   <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Vickie Zhang" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+    <img src="/assets/imgs/members/vickie-zhang.jpeg" alt="Vickie Zhang" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50;">
-      <a href="https://www.linkedin.com/in/yuanye-vickie-zhang-20258815/"
-
-)" target="_blank" style="text-decoration: none; color: #2c3e50;">Vickie Zhang</a>
+      <a href="https://www.linkedin.com/in/yuanye-vickie-zhang-20258815/" target="_blank" style="text-decoration: none; color: #2c3e50;">Vickie Zhang</a>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Vickie Zhang serves as the Senior Director of Biostatistics at Servier, where she leads the Hematology
-and Solid Tumor Oncology Late Phase Statistics group. Before joining Servier, she held key roles at Agios
-Pharmaceuticals and Novartis, leading a variety of oncology projects. Vickie earned her Ph.D. in Statistics
-and an M.S. in Neurobiology and Physiology from the University of Connecticut. She has authored
-numerous peer-reviewed book chapters and manuscripts on methodology, study design, and data
-analysis. Combining expertise in both statistics and science, Vickie is always passionate about leveraging
-data-driven decision-making in the pharmaceutical industry.
+      Vickie Zhang serves as the Senior Director of Biostatistics at Servier, where she leads the Hematology and Solid Tumor Oncology Late Phase Statistics group. Before joining Servier, she held key roles at Agios Pharmaceuticals and Novartis, leading a variety of oncology projects. Vickie earned her Ph.D. in Statistics and an M.S. in Neurobiology and Physiology from the University of Connecticut. She has authored numerous peer-reviewed book chapters and manuscripts on methodology, study design, and data analysis. Combining expertise in both statistics and science, Vickie is always passionate about leveraging data-driven decision-making in the pharmaceutical industry.
     </p>
     <p style="margin: 0;">
       <strong>Email:</strong> <a href="mailto:vickie.zhang@servier.com">vickie.zhang@servier.com</a>
