@@ -3,11 +3,11 @@ layout: default
 title: Resources
 ---
 
-# Software Packages
+## Access the Package
 
-## Documentation
-- [Package Documentation on CRAN](https://cran.r-project.org/web/packages/trtswitch/index.html)
+- [Package and Documentation on CRAN](https://cran.r-project.org/web/packages/trtswitch/index.html)
 - [GitHub Repository](https://github.com/kaifenglu/trtswitchuser-guide)
 
+## Validation Reports 
 
 
