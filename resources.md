@@ -7,7 +7,7 @@ title: Resources
 
 ## Documentation
 - [Package Documentation](https://cran.r-project.org/web/packages/trtswitch/index.html)
-- [GitHub](https://github.com/kaifenglu/trtswitchuser-guide)
+- [GitHub](https://github.com/kaifenglu/trtswitch)
 
 ## Software Dependencies
 ```r
