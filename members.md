@@ -275,10 +275,9 @@ I hold double master’s degrees in mathematics and statistics, specializing in 
       <a href="https://www.linkedin.com/in/suk-young-yoo/" target="_blank" style="text-decoration: none; color: #2c3e50;">Suk-Young Yoo</a>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Suk-Young Yoo ... 
+      Suk-Young Yoo is a biostatistician with expertise in statistical analysis and clinical trials. She earned her Ph.D. in Statistics from Purdue University. Currently serving as Director of Biostatistics at Regeneron Pharmaceuticals, she has held progressive roles since 2019, overseeing statistical support for oncology clinical trials, collaborating on clinical development plans, and ensuring regulatory compliance in statistical analyses. Prior to joining Regeneron, she contributed to oncology research at The University of Texas M.D. Anderson Cancer Center.
     </p>
     <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:sukyoung.yoo@company.com">sukyoung.yoo@company.com</a>
     </p>
   </div>
 </div>
