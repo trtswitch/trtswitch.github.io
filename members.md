@@ -187,7 +187,7 @@ I hold double master’s degrees in mathematics and statistics, specializing in 
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50;">
-      <a href="https://www.linkedin.com/in/hongwei-wang/" target="_blank" style="text-decoration: none; color: #2c3e50;">Hongwei Wang</a>
+      <a href="https://www.linkedin.com/in/hongwei-wang-1309bb7/" target="_blank" style="text-decoration: none; color: #2c3e50;">Hongwei Wang</a>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
       Dr. Hongwei Wang is currently a Sr. Research Fellow and Immunology TA Head at Medical Affairs & Health Technology Assessment Statistics of AbbVie. Prior to that, he worked at Sanofi and Merck with increasing responsibilities. Hongwei received his PhD in Statistics from Rutgers University and actively published in real-world evidence, network meta-analysis, advanced analytics and their application to different stages of drug development.
