@@ -258,7 +258,7 @@ I hold double master’s degrees in mathematics and statistics, specializing in 
       <a href="https://www.linkedin.com/in/shreya-sreeram/" target="_blank" style="text-decoration: none; color: #2c3e50;">Shreya Sreeram</a>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Shreya Sreeram is a biostatistician with expertise in R programming and statistical methodology. She contributes to the workstream's development of R packages and methodology implementation.
+      Shreya Sreeram .....
     </p>
     <p style="margin: 0;">
       <strong>Email:</strong> <a href="mailto:shreya.sreeram@company.com">shreya.sreeram@company.com</a>
@@ -275,7 +275,7 @@ I hold double master’s degrees in mathematics and statistics, specializing in 
       <a href="https://www.linkedin.com/in/suk-young-yoo/" target="_blank" style="text-decoration: none; color: #2c3e50;">Suk-Young Yoo</a>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Suk-Young Yoo is a biostatistician with expertise in clinical trials and statistical methodology.
+      Suk-Young Yoo ... 
     </p>
     <p style="margin: 0;">
       <strong>Email:</strong> <a href="mailto:sukyoung.yoo@company.com">sukyoung.yoo@company.com</a>
@@ -289,7 +289,7 @@ I hold double master’s degrees in mathematics and statistics, specializing in 
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50;">
-      <a href="[https://www.linkedin.com/in/vickie-zhang/](https://www.linkedin.com/in/yuanye-vickie-zhang-20258815/
+      <a href="https://www.linkedin.com/in/yuanye-vickie-zhang-20258815/"
 
 )" target="_blank" style="text-decoration: none; color: #2c3e50;">Vickie Zhang</a>
     </h3>
