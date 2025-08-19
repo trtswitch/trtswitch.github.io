@@ -235,7 +235,7 @@ I hold double master’s degrees in mathematics and statistics, specializing in 
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
   <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="/assets/imgs/members/Qing L.jpg alt="Qing Liu" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+    <img src="/assets/imgs/members/Qing L.jpg" alt="Qing Liu" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50;">
@@ -245,6 +245,7 @@ I hold double master’s degrees in mathematics and statistics, specializing in 
       Qing Liu is a Director of Biostatistics at Amgen, specializing in the advancement of innovative trial designs with statistical strategics and quantified frameworks to support data-driven decision-making across therapeutic areas, with a particular focus on oncology.
     </p>
     <p style="margin: 0;">
+      <strong>Email:</strong> <a href="mailto:qing.liu@company.com">qing.liu@company.com</a>
     </p>
   </div>
 </div>
