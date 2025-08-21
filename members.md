@@ -278,7 +278,7 @@ I hold double master’s degrees in mathematics and statistics, specializing in 
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
   <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Suk-Young Yoo" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+    <img src="/assets/imgs/members/Suk-Young.jpg" alt="Suk-Young Yoo" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50;">
@@ -288,6 +288,7 @@ I hold double master’s degrees in mathematics and statistics, specializing in 
       Suk-Young Yoo is a biostatistician with expertise in statistical analysis and clinical trials. She earned her Ph.D. in Statistics from Purdue University. Currently serving as Director of Biostatistics at Regeneron Pharmaceuticals, she has held progressive roles since 2019, overseeing statistical support for oncology clinical trials, collaborating on clinical development plans, and ensuring regulatory compliance in statistical analyses. Prior to joining Regeneron, she contributed to oncology research at The University of Texas M.D. Anderson Cancer Center.
     </p>
     <p style="margin: 0;">
+      <strong>Email:</strong> <a href="mailto:sukyoung.yoo@regeneron.com">sukyoung.yoo@regeneron.com</a>
     </p>
   </div>
 </div>
