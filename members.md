@@ -9,9 +9,6 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
 
 ---
 
-## Leadership Team
-
-### Founding Co-leads
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
   <div style="flex-shrink: 0; margin-right: 2rem;">
@@ -50,7 +47,6 @@ To honor Meijing's legacy, please visit the ASA page.
   </div>
 </div>
 
-### Current Co-leads
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
   <div style="flex-shrink: 0; margin-right: 2rem;">
@@ -99,8 +95,6 @@ biostatistics from Boston University.
 </div>
 
 ---
-
-## All Workstream Members
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
   <div style="flex-shrink: 0; margin-right: 2rem;">
