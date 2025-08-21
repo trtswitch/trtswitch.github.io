@@ -67,7 +67,7 @@ methodologies for treatment switching and indirect treatment comparisons to supp
 generation. Bingxia earned her PhD in Biostatistics from Boston University.
     </p>
     <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:bingxia.wang@company.com">bingxia.wang@company.com</a>
+      <strong>Email:</strong> <a href="Bingxia.Wang@takeda.com">Bingxia.Wang@takeda.com</a>
     </p>
   </div>
 </div>
