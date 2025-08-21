@@ -30,7 +30,7 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
   <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="/assets/imgs/members/meijing-wu.jpg" alt="Meijing Wu" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+    <img src="/assets/imgs/members/meijing-wu.jpeg" alt="Meijing Wu" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
