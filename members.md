@@ -30,17 +30,15 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
   <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="/assets/imgs/members/meijing-wu.jpeg" alt="Erik Bloomquist" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+    <img src="/assets/imgs/members/meijing-wu.jpg" alt="Meijing Wu" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
-      <a target="_blank" style="text-decoration: none; color: #2c3e50;">Meijing Wu</a>
+      <a href="https://ww2.amstat.org/giving/honored-members/meijing-wu.cfm" target="_blank" style="text-decoration: none; color: #2c3e50;">Meijing Wu</a>
       <span style="margin-left: 1rem; background: #28a745; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Founding Co-lead</span>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-     Meijing Wu was the founding co-lead of this workstream and also co-led the Code Standardization Subteam. In November 2024, the team sadly lost our beloved Meijing due to an accident. Her passing was a profound loss to her family, colleagues, friends, and the statistics community. We honor Meijing's extraordinary contribution and leadership to the workstream, and we are continuing her efforts to advance the research in this important area. Meijing will always be an irreplaceable member of the team. To honor Meijing's legacy, please visit the [ASA page](https://ww2.amstat.org/giving/honored-members/meijing-wu.cfm).
-    </p>
-    <p style="margin: 0;">
+      Meijing Wu was the founding co-lead of this workstream and also co-led the Code Standardization Subteam. In November 2024, the team sadly lost our beloved Meijing due to an accident. Her passing was a profound loss to her family, colleagues, friends, and the statistics community. We honor Meijing's extraordinary contribution and leadership to the workstream, and we are continuing her efforts to advance the research in this important area. Meijing will always be an irreplaceable member of the team. To honor Meijing's legacy, please visit the <a href="https://ww2.amstat.org/giving/honored-members/meijing-wu.cfm" target="_blank">ASA page</a>.
     </p>
   </div>
 </div>
