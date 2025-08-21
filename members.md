@@ -282,10 +282,10 @@ I hold double master’s degrees in mathematics and statistics, specializing in 
       <a href="https://www.linkedin.com/in/shreya-sreeram/" target="_blank" style="text-decoration: none; color: #2c3e50;">Shreya Sreeram</a>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Shreya Sreeram has an M.S. in Health Data Science from UC San Francisco, developing computer vision algorithms to track bleeding in ultrasound images of injured children. With experience spanning clinical lab work, data science internships at Unlearn AI, and cancer research at UCSF, she specializes in applying machine learning and statistical analysis to healthcare challenges. Shreya holds a Bachelor's in Chemical Biology from UC Berkeley and has expertise in Python, R, cloud computing, and predictive modeling, focusing on creating clinically relevant insights that improve patient outcomes. She is currently a product development data science intern working with the DSX and ADS teams at Genentech, and has help to set up and maintain this website.
+      Shreya Sreeram has an M.S. in Health Data Science from UC San Francisco, developing computer vision algorithms to track bleeding in ultrasound images of injured children. With experience spanning clinical lab work, data science internships at Unlearn AI, and cancer research at UCSF, she specializes in applying machine learning and statistical analysis to healthcare challenges. Shreya holds a Bachelor's in Chemical Biology from UC Berkeley and has expertise in Python, R, cloud computing, and predictive modeling, focusing on creating clinically relevant insights that improve patient outcomes. She is currently a product development data science intern working with the DSX and ADS teams at Genentech, and has contributed in setting up and maintaining this website.
     </p>
     <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:shreyasreeram27@gmail.com>shreyasreeram27@gmail.com/a>
+      <strong>Email:</strong> <a href="mailto:shreyasreeram27@gmail.com">shreyasreeram27@gmail.coma>
     </p>
   </div>
 </div>
