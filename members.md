@@ -236,14 +236,19 @@ I hold double master’s degrees in mathematics and statistics, specializing in 
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
   <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Laura Fernandes" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+    <img src ="/assets/imgs/members/laura.jpg" alt="Laura Fernandes" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50;">
-      <a href="https://www.linkedin.com/in/laura-fernandes/" target="_blank" style="text-decoration: none; color: #2c3e50;">Laura Fernandes</a>
+      <a href="https://www.linkedin.com/in/laura-fernandes-5451956/" target="_blank" style="text-decoration: none; color: #2c3e50;">Laura Fernandes</a>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Laura Fernandes ..... 
+      Laura Fernandes is a senior statistical director at COTA Inc., a real world data company specializing in
+curating oncology EHR data for clinical research. She has a PhD in biostatistics from the University of
+Michigan in Ann Arbor and has previously worked at the FDA for over 7 years supporting the oncology
+center of excellence (OCE) as a senior statistical reviewer of oncology and hematology drug applications
+and at GSK in the biometrics team as a statistical programmer. Her research interest includes real world
+endpoints in oncology, use of RWD in clinical trials as external controls and oncology clinical trial design.
     </p>
     <p style="margin: 0;">
       <strong>Email:</strong> <a href="mailto:laura.fernandes@company.com">laura.fernandes@company.com</a>
