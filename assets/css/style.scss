@@ -31,11 +31,11 @@ body {
 }
 .MathJax_Preview { color: inherit; }
 
-/* Compact Hero Section */
+/* Compact Hero Section - REDUCED HEIGHT */
 .hero-section {
     background: linear-gradient(135deg, #2c3e50 0%, #3498db 100%);
     color: white;
-    padding: 1.5rem 0 1rem 0; /* Much more compact - was 3.5rem 0 2.5rem 0 */
+    padding: 1rem 0 0.8rem 0; /* Reduced from 1.5rem 0 1rem 0 */
     position: relative;
 }
 
@@ -69,34 +69,34 @@ body {
 }
 
 .hero-text h1 {
-    font-size: 2.2rem;
-    margin: 0 0 0.3rem 0;
+    font-size: 1.8rem; /* Reduced from 2.2rem */
+    margin: 0 0 0.2rem 0; /* Reduced margins */
     font-weight: 300;
-    letter-spacing: 2px;
+    letter-spacing: 1.5px; /* Reduced from 2px */
     line-height: 1.1;
     color: white;
     text-transform: uppercase;
 }
 
 .hero-text h2 {
-    font-size: 1.8rem;
-    margin: 0 0 0.5rem 0;
+    font-size: 1.5rem; /* Reduced from 1.8rem */
+    margin: 0 0 0.3rem 0; /* Reduced margins */
     font-weight: 400;
     opacity: 0.95;
     line-height: 1.2;
-    letter-spacing: 1.2px;
+    letter-spacing: 1px; /* Reduced from 1.2px */
     color: white;
 }
 
 .hero-description {
     order: 2;
-    font-size: 1.1rem;
+    font-size: 1rem; /* Reduced from 1.1rem */
     opacity: 0.9;
     text-align: center;
     margin: 0;
     line-height: 1.3;
     font-weight: 300;
-    letter-spacing: 0.5px;
+    letter-spacing: 0.3px; /* Reduced from 0.5px */
 }
 
 /* Navigation Menu */
@@ -117,13 +117,13 @@ body {
 
 .nav-container a {
     color: white;
-    padding: 1.4rem 2.2rem;
+    padding: 1.2rem 2rem; /* Reduced from 1.4rem 2.2rem */
     text-decoration: none;
     transition: all 0.3s ease;
     display: block;
     font-weight: 500;
-    font-size: 1.1rem;
-    letter-spacing: 1.5px;
+    font-size: 1rem; /* Reduced from 1.1rem */
+    letter-spacing: 1.2px; /* Reduced from 1.5px */
     border-bottom: 3px solid transparent;
 }
 
@@ -137,7 +137,7 @@ body {
 .logo-nav-link {
     display: flex !important;
     align-items: center !important;
-    padding: 0.8rem 1.5rem !important;
+    padding: 0.6rem 1.2rem !important; /* Reduced from 0.8rem 1.5rem */
     transition: all 0.3s ease !important;
 }
 
@@ -148,10 +148,10 @@ body {
 }
 
 .nav-logo {
-    height: 40px !important; /* Smaller size for navigation */
+    height: 35px !important; /* Reduced from 40px */
     width: auto !important;
     background: white !important;
-    padding: 0.2rem !important;
+    padding: 0.15rem !important; /* Reduced from 0.2rem */
     border-radius: 4px !important;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1) !important;
     object-fit: cover !important;
@@ -202,7 +202,7 @@ body {
 
 .floating-toc {
     position: fixed;
-    top: 200px; /* Reduced from 320px since header is much shorter */
+    top: 140px; /* Reduced from 200px to account for smaller header */
     right: 20px;
     width: 250px;
     max-width: 250px;
@@ -211,7 +211,7 @@ body {
     padding: 16px;
     box-shadow: 0 2px 16px rgba(0, 0, 0, 0.1);
     z-index: 1000;
-    max-height: calc(100vh - 220px); /* Adjusted for new position */
+    max-height: calc(100vh - 160px); /* Adjusted for new position */
     overflow-y: auto;
     border: 1px solid #e1e5e9;
     transition: opacity 0.3s ease;
@@ -346,9 +346,9 @@ body {
         right: 15px;
         width: 220px;
         max-width: 220px;
-        top: 180px; /* Adjusted for tablet */
+        top: 130px; /* Adjusted for tablet - reduced header */
         padding: 12px;
-        max-height: calc(100vh - 200px);
+        max-height: calc(100vh - 150px);
     }
     
     .page-content .wrapper {
@@ -363,6 +363,10 @@ body {
     }
     
     .toc-link.level-1 { font-size: 13px; }
+    
+    .nav-logo {
+        height: 32px !important; /* Slightly smaller on tablet */
+    }
 }
 
 /* Mobile: Hide TOC, show toggle */
@@ -421,12 +425,12 @@ body {
     
     /* Mobile responsive for navigation logo */
     .nav-logo {
-        height: 35px !important;
-        padding: 0.15rem !important;
+        height: 30px !important; /* Reduced from 35px */
+        padding: 0.1rem !important;
     }
     
     .logo-nav-link {
-        padding: 0.8rem 1rem !important;
+        padding: 0.6rem 0.8rem !important; /* Reduced from 0.8rem 1rem */
         justify-content: center !important;
     }
 }
@@ -566,7 +570,7 @@ h3 {
 
 /* Scroll offset for headings */
 h1[id], h2[id], h3[id], h4[id], h5[id], h6[id] {
-    scroll-margin-top: 120px; /* Reduced from 160px */
+    scroll-margin-top: 100px; /* Reduced from 120px */
 }
 
 /* Paragraphs */
@@ -731,7 +735,7 @@ html {
 /* Mobile responsive for compact header */
 @media (max-width: 768px) {
     .hero-section {
-        padding: 1rem 0 0.8rem 0; /* Even more compact on mobile */
+        padding: 0.8rem 0 0.6rem 0; /* Even more compact on mobile */
     }
     
     .hero-content {
@@ -750,17 +754,17 @@ html {
     }
     
     .hero-text h1 {
-        font-size: 1.6rem;
-        letter-spacing: 1px;
+        font-size: 1.4rem; /* Reduced from 1.6rem */
+        letter-spacing: 0.8px; /* Reduced from 1px */
     }
     
     .hero-text h2 {
-        font-size: 1.3rem;
-        letter-spacing: 0.8px;
+        font-size: 1.2rem; /* Reduced from 1.3rem */
+        letter-spacing: 0.6px; /* Reduced from 0.8px */
     }
     
     .hero-description {
-        font-size: 1rem;
+        font-size: 0.9rem; /* Reduced from 1rem */
     }
     
     .nav-container {
@@ -769,7 +773,8 @@ html {
     
     .nav-container a {
         text-align: center;
-        padding: 1rem;
+        padding: 0.8rem; /* Reduced from 1rem */
+        font-size: 0.9rem; /* Smaller text on mobile */
     }
     
     .dropdown .dropdown-content {
