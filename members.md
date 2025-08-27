@@ -251,7 +251,7 @@ and at GSK in the biometrics team as a statistical programmer. Her research inte
 endpoints in oncology, use of RWD in clinical trials as external controls and oncology clinical trial design.
     </p>
     <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:laura.fernandes@company.com">laura.fernandes@company.com</a>
+      <strong>Email:</strong> <a href="mailto:laurafernandes@cotahealthcare.com">laurafernandes@cotahealthcare.com</a>
     </p>
   </div>
 </div>
