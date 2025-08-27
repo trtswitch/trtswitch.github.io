@@ -26,9 +26,6 @@ Our workstream hosts regular educational seminars and workshops to advance under
     <li>Unified analytical framework</li>
     <li>Application to oncology clinical trials</li>
   </ul>
-  
-  <p><em>Update: Time updated to reflect schedule change.</em></p>
-</div>
 
 
 <button class="collapsible">📅 February 11th, 2025: Treatment Switching TSD 24 Overview</button>
