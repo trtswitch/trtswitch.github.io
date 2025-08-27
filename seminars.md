@@ -49,22 +49,6 @@ Our workstream hosts regular educational seminars and workshops to advance under
   </ul>
 </div>
 
-<button class="collapsible">📹 June 20th, 2024: A Unified Three-State Model Framework</button>
-<div class="collapsible-content">
-  <h3>A Unified Three-State Model Framework for Analysis of Treatment Crossover in Survival Trials</h3>
-  <p><strong>Date:</strong> June 20th, 2024</p>
-  
-  <h4>Session Overview:</h4>
-  <p>This seminar presented a unified approach using three-state models for analyzing treatment crossover scenarios in survival trials, providing a comprehensive framework for handling complex switching patterns.</p>
-  
-  <h4>Key Topics:</h4>
-  <ul>
-    <li>Three-state model methodology</li>
-    <li>Treatment crossover analysis</li>
-    <li>Survival trial design considerations</li>
-    <li>Unified analytical framework</li>
-  </ul>
-</div>
 
 <button class="collapsible">📹 April 3rd, 2024: Adjusting for Time-Varying Treatment Switches</button>
 <div class="collapsible-content">
