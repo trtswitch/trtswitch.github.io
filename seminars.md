@@ -6,7 +6,7 @@ layout: default
 
 Our workstream hosts regular educational seminars and workshops to advance understanding of treatment switching methods in oncology clinical trials.
 
-## Upcoming Events
+## Past Events
 
 <button class="collapsible">📅 June 20th, 2025: A Unified Three-State Model Framework</button>
 <div class="collapsible-content">
@@ -30,7 +30,6 @@ Our workstream hosts regular educational seminars and workshops to advance under
   <p><em>Update: Time updated to reflect schedule change.</em></p>
 </div>
 
-## Past Events
 
 <button class="collapsible">📅 February 11th, 2025: Treatment Switching TSD 24 Overview</button>
 <div class="collapsible-content">
