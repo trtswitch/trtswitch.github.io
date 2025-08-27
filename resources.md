@@ -3,16 +3,7 @@ layout: default
 title: Resources
 ---
 
-# Resources and Documentation
+## Access the Package
 
-## Documentation
-- [Package Documentation](https://cran.r-project.org/web/packages/trtswitch/index.html)
-- [GitHub](https://github.com/kaifenglu/trtswitch)
-
-## Software Dependencies
-```r
-# Required packages
-install.packages(c("survival", "boot", "dplyr"))
-
-# Suggested packages  
-install.packages(c("ggplot2", "knitr", "rmarkdown"))
+- [Package and Documentation on CRAN](https://cran.r-project.org/web/packages/trtswitch/index.html)
+- [GitHub Repository](https://github.com/kaifenglu/trtswitchuser-guide)

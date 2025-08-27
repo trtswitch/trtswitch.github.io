@@ -122,6 +122,7 @@ This illustrates that recensoring must be applied to all patients in treatment a
 - The RPSFT does not require covariate information, unlike Inverse Probability Censoring Weighting (IPCW) or Two-Stage models. It can be used when there is little information on covariates.
 - The RPSFT is relatively robust when the switching proportion is high.
 - The RPSFT is most appropriate in studies with crossover from control to investigational treatment, for example, due to early finding of superiority.
+  
 ### Limitations
 - The model is sensitive to the "common treatment effect" assumption. However, this may not be true in real studies. For example, in oncology trials, treatment switching often happens after disease progression, and therefore the treatment effect received post-progression may be weaker than the effect observed immediately received at randomization. To account for this in sensitivity analyses, a `treat effect modifier` parameter can be introduced in the model, usually with a value between 0 and 1, to represent the weaker treatment effect of received after disease progression, via multiplying $\psi$ by this modifier.
 

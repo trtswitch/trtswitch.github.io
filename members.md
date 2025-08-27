@@ -9,9 +9,6 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
 
 ---
 
-## Leadership Team
-
-### Founding Co-leads
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
   <div style="flex-shrink: 0; margin-right: 2rem;">
@@ -33,28 +30,23 @@ The ASA Biopharmaceutical Section Oncology Treatment Switch Workstream brings to
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
   <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="/assets/imgs/members/meijing-wu.jpeg" alt="Erik Bloomquist" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+    <img src="/assets/imgs/members/meijing-wu.jpeg" alt="Meijing Wu" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
-      <a target="_blank" style="text-decoration: none; color: #2c3e50;">Meijing Wu</a>
+      <a href="https://ww2.amstat.org/giving/honored-members/meijing-wu.cfm" target="_blank" style="text-decoration: none; color: #2c3e50;">Meijing Wu</a>
       <span style="margin-left: 1rem; background: #28a745; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Founding Co-lead</span>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Meijing Wu was the founding co-lead of this workstream and also co-led the Code Standardization Subteam. In November 2024, the team sadly lost our beloved Meijing due to an accident. Her passing was a profound loss to her family, colleagues, friends, and the statistics community. We honor Meijing's extraordinary contribution and leadership to the workstream, and we are continuing her efforts to advance the research in this important area. Meijing will always be a irreplaceable member of the team.
-
-To honor Meijing's legacy, please visit the ASA page.
-    </p>
-    <p style="margin: 0;">
+      Meijing Wu was the founding co-lead of this workstream and also co-led the Code Standardization Subteam. In November 2024, the team sadly lost our beloved Meijing due to an accident. Her passing was a profound loss to her family, colleagues, friends, and the statistics community. We honor Meijing's extraordinary contribution and leadership to the workstream, and we are continuing her efforts to advance the research in this important area. Meijing will always be an irreplaceable member of the team. To honor Meijing's legacy, please visit the <a href="https://ww2.amstat.org/giving/honored-members/meijing-wu.cfm" target="_blank">ASA page</a>.
     </p>
   </div>
 </div>
 
-### Current Co-leads
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
   <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Bingxia Wang" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+    <img src="/assets/imgs/members/Bingxia-wang.jpg" alt="Bingxia Wang" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
@@ -62,10 +54,18 @@ To honor Meijing's legacy, please visit the ASA page.
       <span style="margin-left: 1rem; background: #007bff; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Co-lead</span>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Bingxia Wang ..... 
+      Dr. Bingxia Wang is the Senior Director of Statistics and Quantitative Sciences within the Data &amp;
+Quantitative Science department at Takeda. She co-leads the working group alongside Ray. With over 15
+years of experience in drug development, particularly in oncological disease areas, she is a recognized
+expert in the statistical design of oncology clinical trials. Bingxia has significantly contributed to shaping
+regulatory submissions for high-impact oncology products. A frequent speaker at statistical conferences,
+she shares her expertise to advance quantitative decision-making processes across the field. She also
+leads and participates in several statistical research working groups, focusing on innovative
+methodologies for treatment switching and indirect treatment comparisons to support RWE/RWD
+generation. Bingxia earned her PhD in Biostatistics from Boston University.
     </p>
     <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:bingxia.wang@company.com">bingxia.wang@company.com</a>
+      <strong>Email:</strong> <a href="Bingxia.Wang@takeda.com">Bingxia.Wang@takeda.com</a>
     </p>
   </div>
 </div>
@@ -90,7 +90,59 @@ To honor Meijing's legacy, please visit the ASA page.
 
 ---
 
-## All Workstream Members
+<div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
+  <div style="flex-shrink: 0; margin-right: 2rem;">
+    <img src="/assets/imgs/members/AR.jpg" alt="Ananya Roy" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+  </div>
+  <div style="flex-grow: 1;">
+    <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
+      <a href="https://www.linkedin.com/in/ananya-roy-864174b2/" target="_blank" style="text-decoration: none; color: #2c3e50;">Ananya Roy</a>
+      <span style="margin-left: 1rem; background: #6f42c1; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Tutorial Sub-team Lead</span>
+    </h3>
+    <p style="margin-bottom: 1.5rem; line-height: 1.6;">
+      Dr. Ananya Roy is a Senior Director of Biostatistics at Merck, where she works in Oncology late development statistics. Ananya has over 10 years of experience in pharmaceutical industry and has previously worked as a faculty member at University of Nebraska, Lincoln. She holds a PhD in Statistics from University of Florida.
+    </p>
+    <p style="margin: 0;">
+      <strong>Email:</strong> <a href="mailto:ananya.roy@merck.com">ananya.roy@merck.com</a>
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
+  <div style="flex-shrink: 0; margin-right: 2rem;">
+    <img src="/assets/imgs/members/kaifeng.jpg" alt="Kaifeng Lu" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+  </div>
+  <div style="flex-grow: 1;">
+    <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
+      <a href="https://www.linkedin.com/in/kaifeng-lu-90a83218/" target="_blank" style="text-decoration: none; color: #2c3e50;">Kaifeng Lu</a>
+      <span style="margin-left: 1rem; background: #fd7e14; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Code Standardization Sub-team Co-lead</span>
+    </h3>
+    <p style="margin-bottom: 1.5rem; line-height: 1.6;">
+      Kaifeng has over 23 years of experience in the biopharmaceutical industry, with roles at Lilly, Merck, Forest Laboratories/Allergan/AbbVie, and BeOne. He has a solid background in pharmaceutical development, clinical trials, and observational research across various therapeutic areas, focusing on developing drugs aimed at improving patient survival and quality of life. His work has contributed to the approval of several therapies, including sitagliptin, cariprazine, ubrogepant, and atogepant. Kaifeng has authored over 70 publications in peer-reviewed statistical and medical journals, and his research interests include sample size calculations, missing data handling, multiple comparison procedures, adaptive designs, estimands, and treatment switching. Currently, he serves as Senior Director at BeiGene, where he leads the Statistical Modeling & Simulations group for more than 20 pharmaceutical products in different stages of development. Throughout his career, he has held various roles, progressing from study statistician to therapeutic area head, while fostering collaboration and support within his teams.
+    </p>
+    <p style="margin: 0;">
+      <strong>Email:</strong> <a href="mailto:kaifenglu@gmail.com">kaifenglu@gmail.com</a>
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
+  <div style="flex-shrink: 0; margin-right: 2rem;">
+    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Yufei Wang" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+  </div>
+  <div style="flex-grow: 1;">
+    <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
+      <a href="https://www.linkedin.com/in/yufei-wang/" target="_blank" style="text-decoration: none; color: #2c3e50;">Yufei Wang</a>
+      <span style="margin-left: 1rem; background: #20c997; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Method Sub-team Co-lead</span>
+    </h3>
+    <p style="margin-bottom: 1.5rem; line-height: 1.6;">
+      Yufei Wang is a biostatistician at GSK with expertise in advanced statistical methodology and causal inference. She co-leads the Method sub-team, focusing on methodological research and development.
+    </p>
+    <p style="margin: 0;">
+      <strong>Email:</strong> <a href="mailto:yufei.wang@gsk.com">yufei.wang@gsk.com</a>
+    </p>
+  </div>
+</div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
   <div style="flex-shrink: 0; margin-right: 2rem;">
@@ -109,23 +161,7 @@ To honor Meijing's legacy, please visit the ASA page.
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
-  <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="/assets/imgs/members/AR.jpg" alt="Ananya Roy" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
-  </div>
-  <div style="flex-grow: 1;">
-    <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
-      <a href="https://www.linkedin.com/in/ananya-roy-864174b2/" target="_blank" style="text-decoration: none; color: #2c3e50;">Ananya Roy</a>
-      <span style="margin-left: 1rem; background: #6f42c1; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Tutorial Sub-team Lead</span>
-    </h3>
-    <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Dr. Ananya Roy is a Senior Director of Biostatistics at Merck, where she works in Oncology late development statistics. Ananya has over 10 years of experience in pharmaceutical industry and has previously worked as a faculty member at University of Nebraska, Lincoln. She holds a PhD in Statistics from University of Florida.
-    </p>
-    <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:ananya.roy@merck.com">ananya.roy@merck.com</a>
-    </p>
-  </div>
-</div>
+
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
   <div style="flex-shrink: 0; margin-right: 2rem;">
@@ -196,37 +232,26 @@ I hold double master’s degrees in mathematics and statistics, specializing in 
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
-  <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="/assets/imgs/members/kaifeng.jpg" alt="Kaifeng Lu" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
-  </div>
-  <div style="flex-grow: 1;">
-    <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
-      <a href="https://www.linkedin.com/in/kaifeng-lu-90a83218/" target="_blank" style="text-decoration: none; color: #2c3e50;">Kaifeng Lu</a>
-      <span style="margin-left: 1rem; background: #fd7e14; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Code Standardization Sub-team Co-lead</span>
-    </h3>
-    <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Kaifeng has over 23 years of experience in the biopharmaceutical industry, with roles at Lilly, Merck, Forest Laboratories/Allergan/AbbVie, and BeOne. He has a solid background in pharmaceutical development, clinical trials, and observational research across various therapeutic areas, focusing on developing drugs aimed at improving patient survival and quality of life. His work has contributed to the approval of several therapies, including sitagliptin, cariprazine, ubrogepant, and atogepant. Kaifeng has authored over 70 publications in peer-reviewed statistical and medical journals, and his research interests include sample size calculations, missing data handling, multiple comparison procedures, adaptive designs, estimands, and treatment switching. Currently, he serves as Senior Director at BeiGene, where he leads the Statistical Modeling & Simulations group for more than 20 pharmaceutical products in different stages of development. Throughout his career, he has held various roles, progressing from study statistician to therapeutic area head, while fostering collaboration and support within his teams.
-    </p>
-    <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:kaifenglu@gmail.com">kaifenglu@gmail.com</a>
-    </p>
-  </div>
-</div>
+
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
   <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Laura Fernandes" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+    <img src ="/assets/imgs/members/laura.jpeg" alt="Laura Fernandes" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50;">
-      <a href="https://www.linkedin.com/in/laura-fernandes/" target="_blank" style="text-decoration: none; color: #2c3e50;">Laura Fernandes</a>
+      <a href="https://www.linkedin.com/in/laura-fernandes-5451956/" target="_blank" style="text-decoration: none; color: #2c3e50;">Laura Fernandes</a>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Laura Fernandes ..... 
+      Laura Fernandes is a senior statistical director at COTA Inc., a real world data company specializing in
+curating oncology EHR data for clinical research. She has a PhD in biostatistics from the University of
+Michigan in Ann Arbor and has previously worked at the FDA for over 7 years supporting the oncology
+center of excellence (OCE) as a senior statistical reviewer of oncology and hematology drug applications
+and at GSK in the biometrics team as a statistical programmer. Her research interest includes real world
+endpoints in oncology, use of RWD in clinical trials as external controls and oncology clinical trial design.
     </p>
     <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:laura.fernandes@company.com">laura.fernandes@company.com</a>
+      <strong>Email:</strong> <a href="mailto:laurafernandes@cotahealthcare.com">laurafernandes@cotahealthcare.com</a>
     </p>
   </div>
 </div>
@@ -249,34 +274,34 @@ I hold double master’s degrees in mathematics and statistics, specializing in 
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
   <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Shreya Sreeram" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+    <img src="/assets/imgs/members/shreya-sreeram.jpg" alt="Shreya Sreeram" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50;">
       <a href="https://www.linkedin.com/in/shreya-sreeram/" target="_blank" style="text-decoration: none; color: #2c3e50;">Shreya Sreeram</a>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Shreya Sreeram .....
-    </p>
+      Shreya Sreeram has an M.S. in Health Data Science from UC San Francisco, developing computer vision algorithms to track bleeding in ultrasound images of injured children. With experience spanning clinical lab work, data science internships at Unlearn AI, and cancer research at UCSF, she specializes in applying machine learning and statistical analysis to healthcare challenges. Shreya holds a Bachelor's in Chemical Biology from UC Berkeley and has expertise in Python, R, cloud computing, and predictive modeling, focusing on creating clinically relevant insights that improve patient outcomes. She is currently a product development data science intern working with the DSX and ADS teams at Genentech, and has contributed in setting up and maintaining this website.
+     </p>
     <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:shreya.sreeram@company.com">shreya.sreeram@company.com</a>
+      <strong>Email:</strong> <a href="shreyasreeram27@gmail.com">shreyasreeram27@gmail.com</a>
     </p>
   </div>
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
   <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Suk-Young Yoo" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+    <img src="/assets/imgs/members/Suk-Young.jpg" alt="Suk-Young Yoo" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50;">
       <a href="https://www.linkedin.com/in/suk-young-yoo/" target="_blank" style="text-decoration: none; color: #2c3e50;">Suk-Young Yoo</a>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Suk-Young Yoo ... 
+      Suk-Young Yoo is a biostatistician with expertise in statistical analysis and clinical trials. She earned her Ph.D. in Statistics from Purdue University. Currently serving as Director of Biostatistics at Regeneron Pharmaceuticals, she has held progressive roles since 2019, overseeing statistical support for oncology clinical trials, collaborating on clinical development plans, and ensuring regulatory compliance in statistical analyses. Prior to joining Regeneron, she contributed to oncology research at The University of Texas M.D. Anderson Cancer Center.
     </p>
     <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:sukyoung.yoo@company.com">sukyoung.yoo@company.com</a>
+      <strong>Email:</strong> <a href="mailto:sukyoung.yoo@regeneron.com">sukyoung.yoo@regeneron.com</a>
     </p>
   </div>
 </div>
@@ -347,23 +372,7 @@ I hold double master’s degrees in mathematics and statistics, specializing in 
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
-  <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Yufei Wang" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
-  </div>
-  <div style="flex-grow: 1;">
-    <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
-      <a href="https://www.linkedin.com/in/yufei-wang/" target="_blank" style="text-decoration: none; color: #2c3e50;">Yufei Wang</a>
-      <span style="margin-left: 1rem; background: #20c997; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Method Sub-team Co-lead</span>
-    </h3>
-    <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Yufei Wang is a biostatistician at GSK with expertise in advanced statistical methodology and causal inference. She co-leads the Method sub-team, focusing on methodological research and development.
-    </p>
-    <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:yufei.wang@gsk.com">yufei.wang@gsk.com</a>
-    </p>
-  </div>
-</div>
+
 
 ---
 
