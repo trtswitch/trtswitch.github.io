@@ -229,4 +229,4 @@ data(immdef)
 
 ---
 
-*For technical questions or method-specific guidance, please refer to our [validation reports]({{ '/resources' | relative_url }}) or contact the workstream team.*
+
