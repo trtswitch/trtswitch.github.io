@@ -136,7 +136,7 @@ generation. Bingxia earned her PhD in Biostatistics from Boston University.
       <span style="margin-left: 1rem; background: #20c997; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Method Sub-team Co-lead</span>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Yufei Wang is a biostatistician at GSK with expertise in advanced statistical methodology and causal inference. She co-leads the Method sub-team, focusing on methodological research and development.
+      Yufei Wang co-leads the Method sub-team, focusing on methodological research and development.
     </p>
     <p style="margin: 0;">
       <strong>Email:</strong> <a href="mailto:yufei.wang@gsk.com">yufei.wang@gsk.com</a>
