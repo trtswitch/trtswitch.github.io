@@ -355,7 +355,7 @@ considerations in subgroup analyses and Bayesian methods in pediatric studies.
       <a href="https://www.linkedin.com/in/ya-wang-98531524/" target="_blank" style="text-decoration: none; color: #2c3e50;">Ya Wang</a>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Ya Wang obtained her doctorate degree in Biostatistics from Columbia University, where her research focused on developing statistical methodologies for analyzing epigenetic data. Since joining Gilead in 2018, she has been actively involved in a range of initiatives at the intersection of statistical innovation and software development. Her current work includes the development of R packages, creation of interactive Shiny applications, methodological research, and statistical consultation across various therapeutic areas. She is passionate about open-source software, user-friendly analytics tools, and fostering collaboration in the scientific and healthcare communities.
+      Ya Wang is an Associate Director of Biostatistics at Gilead, with a doctorate degree in Biostatistics from Columbia University. Since joining Gilead in 2018, she has been actively involved in a range of initiatives at the intersection of statistical innovation and software development. Her current work includes the development of R packages, creation of interactive Shiny applications, methodological research, and statistical consultation across various therapeutic areas. She is passionate about open-source software, user-friendly analytics tools, and fostering collaboration in the scientific and healthcare communities.
     </p>
     <p style="margin: 0;">
     </p>
