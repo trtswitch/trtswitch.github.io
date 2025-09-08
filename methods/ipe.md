@@ -102,12 +102,17 @@ There is no guarantee that the IPE method will produce an unique estimate of the
 See the example in the [IPE vignette](https://cran.r-project.org/web/packages/trtswitch/vignettes/ipe.html) of our R package `trtswitch` on [CRAN](https://cran.r-project.org/web/packages/trtswitch).
 
 ## Advantages and Limitations 
+
 The advantages and limitations of IPE are comparable to those of RPSFT.
+
 ### Advantages
+
 - The IPE does not require covariate information, unlike Inverse Probability Censoring Weighting (IPCW) or Two-Stage models. It can be used when there is little information on covariates.
 - The IPE is relatively robust when the switching proportion is high.
 - The IPE is most appropriate in studies with crossover from control to investigational treatment, for example, due to early finding of superiority.
+
 ### Limitations
+
 - The model is sensitive to the "common treatment effect" assumption. However, this may not be true in real studies. For example, in oncology trials, treatment switching often happens after disease progression, and therefore the treatment effect received post-progression may be weaker than the effect observed immediately received at randomization. To account for this in sensitivity analyses, a `treat effect modifier` parameter can be introduced in the model, usually with a value between 0 and 1, to represent the weaker treatment effect of received after disease progression, via multiplying $\psi$ by this modifier.
 
 ## References and Literature
