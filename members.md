@@ -139,7 +139,7 @@ generation. Bingxia earned her PhD in Biostatistics from Boston University.
       Yufei Wang co-leads the Method sub-team, focusing on methodological research and development.
     </p>
     <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:yufei.wang@gsk.com">yufei.wang@gsk.com</a>
+      <strong>Email:</strong> <a href="mailto:yufei.wang2@lilly.com">yufei.wang2@lilly.com</a>
     </p>
   </div>
 </div>
