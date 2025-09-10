@@ -116,3 +116,40 @@ The advantages and limitations of IPE are comparable to those of RPSFT.
 - The model is sensitive to the "common treatment effect" assumption. However, this may not be true in real studies. For example, in oncology trials, treatment switching often happens after disease progression, and therefore the treatment effect received post-progression may be weaker than the effect observed immediately received at randomization. To account for this in sensitivity analyses, a `treat effect modifier` parameter can be introduced in the model, usually with a value between 0 and 1, to represent the weaker treatment effect of received after disease progression, via multiplying $\psi$ by this modifier.
 
 ## References and Literature
+
+1. Latimer NR, A.K., NICE DSU Technical Support Document 16: Adjusting
+Survival Time Estimates in the Presence of Treatment Switching. . 2014,
+National Institute for Health and Care Excellence (NICE).
+2. Robins, J.M. and A.A. Tsiatis, Correcting for non-compliance in randomized
+trials using rank preserving structural failure time models. Communications in
+statistics-Theory and Methods, 1991. 20(8): p. 2609-2631.
+3. Robins, J.M. and D.M. Finkelstein, Correcting for noncompliance and
+dependent censoring in an AIDS clinical trial with inverse probability of
+censoring weighted (IPCW) log‐rank tests. Biometrics, 2000. 56(3): p. 779-788.
+4. Branson, M. and J. Whitehead, Estimating a treatment effect in survival studies
+in which patients switch treatment. Statistics in medicine, 2002. 21(17): p. 2449-
+2463.
+5. Latimer, N.R., et al., Adjusting for treatment switching in randomised controlled
+trials–a simulation study and a simplified two-stage method. Statistical methods
+in medical research, 2017. 26(2): p. 724-751.
+6. White, I.R., S. Walker, and A. Babiker, strbee: Randomization-based efficacy
+estimator. The Stata Journal, 2002. 2(2): p. 140-150.
+7. Rutherford, M.J., et al., NICE DSU Technical Support Document 21. Flexible
+Methods for Survival Analysis. 2020, NICE Decision Support Unit.
+8. White, I.R., Uses and limitations of randomization-based efficacy estimators.
+Statistical methods in medical research, 2005. 14(4): p. 327-347.
+9. White, I.R., et al., Randomization‐based methods for correcting for treatment
+changes: examples from the Concorde trial. Statistics in medicine, 1999.
+18(19): p. 2617-2634.
+10. Allison, A., I.R. White, and S. Bond, Rpsftm: an R package for rank preserving
+structural failure time models. The R journal, 2017. 9(2): p. 342.
+11. Latimer, N., et al., Causal inference for long-term survival in randomised trials
+with treatment switching: Should re-censoring be applied when estimating
+counterfactual survival times? Statistical methods in medical research, 2019.
+28(8): p. 2475-2493.
+12. White, I.R., Estimating treatment effects in randomized trials with treatment
+switching. Statistics in medicine, 2006. 25(9): p. 1619-1622.
+13. Chen, Q., et al., Estimation of treatment effects and model diagnostics with two-
+way time-varying treatment switching: an application to a head and neck study.
+Lifetime data analysis, 2020. 26(4): p. 685-707.
+
