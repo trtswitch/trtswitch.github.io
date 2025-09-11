@@ -11,7 +11,9 @@ This website includes a few most commonly used methods that are aligned with the
 
 References
 1. [Manitz J, Kan-Dobrosky N, Buchner H, Casadebaig ML, Degtyarev E, Dey J, Haddad V, Jie F, Martin E, Mo M, Rufibach K, Shentu Y, Stalbovskaya V, Sammi Tang R, Yung G, Zhou J. Estimands for overall survival in clinical trials with treatment switching in oncology. Pharm Stat. 2022 Jan;21(1):150-162. doi: 10.1002/pst.2158. Epub 2021 Oct 3. PMID: 34605168.](https://pmc.ncbi.nlm.nih.gov/articles/PMC7818232/)
-2. 
+2. [Bell Gorrod, H., Latimer, N. R., Abrams K.R. NICE DSU Technical Support Document
+24: Adjusting survival time estimates in the presence of treatment switching: An update
+to TSD 16. 2024.](https://sheffield.ac.uk/find?query=Technical+Support+Document+24%3A+Adjusting+survival+time+estimates+in+the+presence+of+treatment+switching%3A+An+update&f.Tabs%7CAllDocumentsFill=All+results)
 
 # Rank Preserving Structural Failure Time (RPSFT)
 The Rank Preserving Structural Failure Time (RPSFT) Model is a method based on accelerated failure time (AFT) models to construct the "counterfactual" survival time for switchers via an acceleration factor $\psi$ if the switch had never occurred.
