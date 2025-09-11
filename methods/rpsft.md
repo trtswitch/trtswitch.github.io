@@ -135,9 +135,7 @@ See the example in the [RPSFT vignette](https://cran.r-project.org/web/packages/
 
 ## References and Literature
 
-1. Latimer NR, A.K., NICE DSU Technical Support Document 16: Adjusting
-Survival Time Estimates in the Presence of Treatment Switching. . 2014,
-National Institute for Health and Care Excellence (NICE).
+1. [Latimer NR, A.K., NICE DSU Technical Support Document 16: Adjusting Survival Time Estimates in the Presence of Treatment Switching.](https://www.ncbi.nlm.nih.gov/books/NBK310374/) 2014, National Institute for Health and Care Excellence (NICE).
 2. Robins, J.M. and A.A. Tsiatis, Correcting for non-compliance in randomized
 trials using rank preserving structural failure time models. Communications in
 statistics-Theory and Methods, 1991. 20(8): p. 2609-2631.
