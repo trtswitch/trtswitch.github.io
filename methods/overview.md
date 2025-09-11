@@ -9,7 +9,9 @@ Under the estimand framework, treatment switching is considered as intercurrent 
 
 This website includes a few most commonly used methods that are aligned with the hypothetical strategy, including Rank Preserved Survival Failure Time (RPSFT), Iterative Parameter Estimation (IPE), Inverse Probability Censoring Weighting (IPCW), Two-stage estimation (TSE), and Marginal Structural Model (MSM). 
 
-Reference: Manitz 2021 and Latimer 2024
+References
+1. [Manitz J, Kan-Dobrosky N, Buchner H, Casadebaig ML, Degtyarev E, Dey J, Haddad V, Jie F, Martin E, Mo M, Rufibach K, Shentu Y, Stalbovskaya V, Sammi Tang R, Yung G, Zhou J. Estimands for overall survival in clinical trials with treatment switching in oncology. Pharm Stat. 2022 Jan;21(1):150-162. doi: 10.1002/pst.2158. Epub 2021 Oct 3. PMID: 34605168.](https://pmc.ncbi.nlm.nih.gov/articles/PMC7818232/)
+2. 
 
 # Rank Preserving Structural Failure Time (RPSFT)
 The Rank Preserving Structural Failure Time (RPSFT) Model is a method based on accelerated failure time (AFT) models to construct the "counterfactual" survival time for switchers via an acceleration factor $\psi$ if the switch had never occurred.
