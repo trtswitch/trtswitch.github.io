@@ -135,10 +135,10 @@ Include:
 
 ## References
 
-Robins JM, Hernán MA, Brumback B. Marginal structural models and causal inference in epidemiology. *Epidemiology* 2000; p.550–60
+1. Robins JM, Hernán MA, Brumback B. Marginal structural models and causal inference in epidemiology. *Epidemiology* 2000; p.550–60
 
-Hernán, M. Á., Brumback, B., & Robins, J. M. (2000). Marginal structural models to estimate the causal effect of zidovudine on the survival of HIV-positive men. *Epidemiology*, 11(5), 561-570.
+2. Hernán, M. Á., Brumback, B., & Robins, J. M. (2000). Marginal structural models to estimate the causal effect of zidovudine on the survival of HIV-positive men. *Epidemiology*, 11(5), 561-570.
 
-Jing X., Guohui L., and Bingxia W. Bias and Type I error Control in Correcting Treatment Effect for Treatment Switching Using Marginal Structural Models in Phase III Oncology Trials, *Journal of Biopharmaceutical Statistics* 2022; Vol 32 (6): 897-914
+3. Jing X., Guohui L., and Bingxia W. Bias and Type I error Control in Correcting Treatment Effect for Treatment Switching Using Marginal Structural Models in Phase III Oncology Trials, *Journal of Biopharmaceutical Statistics* 2022; Vol 32 (6): 897-914
 
-Jing X., Camden B., Bingxia W., Guohui L., and Cong L. Application of Marginal Structural Models for Causal Inference on the Treatment Effect for Overall Survival in Randomized Controlled Trials having Crossover Designs, manuscript accepted for publication by *Journal of Biopharmaceutical Statistics* in August 2025
+4. Jing X., Camden B., Bingxia W., Guohui L., and Cong L. Application of Marginal Structural Models for Causal Inference on the Treatment Effect for Overall Survival in Randomized Controlled Trials having Crossover Designs, manuscript accepted for publication by *Journal of Biopharmaceutical Statistics* in August 2025
