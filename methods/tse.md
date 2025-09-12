@@ -52,5 +52,12 @@ See the example in the [Simple TSE vignette](https://cran.r-project.org/web/pack
 
 ## References and Literature
 
-[Back to Methods Overview]({{ '/methods' | relative_url }})
+1. Latimer, N. R., Abrams, K. R., Lambert, P. C., Crowther, M. J., Wailoo, A. J., Morden, J. P., ... & Campbell, M. J. (2017). Adjusting for treatment switching in randomised controlled trials–a simulation study and a simplified two-stage method. *Statistical methods in medical research*, 26(2), 724-751.
 
+2. Latimer, N. R., Abrams, K. R., Lambert, P. C., Morden, J. P., & Crowther, M. J. (2018). Assessing methods for dealing with treatment switching in clinical trials: a follow-up simulation study. *Statistical methods in medical research*, 27(3), 765-784.
+
+3. Latimer, N. R., Abrams, K. R., & Siebert, U. (2019). Two-stage estimation to adjust for treatment switching in randomised trials: a simulation study investigating the use of inverse probability weighting instead of re-censoring. *BMC medical research methodology*, 19(1), 69.
+
+4. Latimer, N. R., White, I. R., Abrams, K. R., & Siebert, U. (2019). Causal inference for long-term survival in randomised trials with treatment switching: Should re-censoring be applied when estimating counterfactual survival times?. *Statistical methods in medical research*, 28(8), 2475-2493.
+
+5. Latimer, N. R., & Abrams, K. R. (2014). NICE DSU technical support document 16: adjusting survival time estimates in the presence of treatment switching.
