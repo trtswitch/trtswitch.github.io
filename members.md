@@ -136,10 +136,10 @@ generation. Bingxia earned her PhD in Biostatistics from Boston University.
       <span style="margin-left: 1rem; background: #20c997; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Method Sub-team Co-lead</span>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Yufei Wang is a biostatistician at GSK with expertise in advanced statistical methodology and causal inference. She co-leads the Method sub-team, focusing on methodological research and development.
+      Yufei Wang co-leads the Method sub-team, focusing on methodological research and development.
     </p>
     <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:yufei.wang@gsk.com">yufei.wang@gsk.com</a>
+      <strong>Email:</strong> <a href="mailto:yufei.wang2@lilly.com">yufei.wang2@lilly.com</a>
     </p>
   </div>
 </div>
@@ -325,17 +325,23 @@ endpoints in oncology, use of RWD in clinical trials as external controls and on
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
   <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Wenjuan (Jessie) Gu" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+    <img src="/assets/imgs/members/wenjuan-gu.jpg" alt="Wenjuan (Jessie) Gu" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50;">
-      <a href="https://www.linkedin.com/in/jessie-gu/" target="_blank" style="text-decoration: none; color: #2c3e50;">Wenjuan (Jessie) Gu</a>
+      <a href="https://www.linkedin.com/in/wenjuan-g-7b1b8131/" target="_blank" style="text-decoration: none; color: #2c3e50;">Wenjuan (Jessie) Gu</a>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Wenjuan (Jessie) Gu .... 
+     Wenjuan Gu is a Statistical Science Director of Hematology Oncology at AstraZeneca. Before her current
+position, she worked at the National Institute of Allergies and Infectious Disease as a biostatistician, and
+then joined FDA as a statistical reviewer and team lead. She supported pre-market reviews and
+approvals in the Division of Hematologic Malignancies. She was a statistics representative for the
+Oncology Center of Excellence (OCE) Pediatric Review Committee subcommittee and worked in several
+Guidance working groups as the statistical representative. She contributed to the guidance and
+workshops of MRD endpoint for multiple myeloma, evaluation of benefit risk for OS, statistical
+considerations in subgroup analyses and Bayesian methods in pediatric studies.
     </p>
     <p style="margin: 0;">
-      <strong>Email:</strong> <a href="mailto:jessie.gu@company.com">jessie.gu@company.com</a>
     </p>
   </div>
 </div>
