@@ -128,7 +128,7 @@ generation. Bingxia earned her PhD in Biostatistics from Boston University.
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
   <div style="flex-shrink: 0; margin-right: 2rem;">
-    <img src="https://via.placeholder.com/200x250/e9ecef/6c757d?text=Photo+Placeholder" alt="Yufei Wang" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
+    <img src="/assets/imgs/members/yufei-wang.jpg" alt="Yufei Wang" style="width: 200px; height: 250px; border-radius: 8px; object-fit: cover;">
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin-top: 0; color: #2c3e50; display: flex; align-items: center;">
@@ -136,7 +136,7 @@ generation. Bingxia earned her PhD in Biostatistics from Boston University.
       <span style="margin-left: 1rem; background: #20c997; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Method Sub-team Co-lead</span>
     </h3>
     <p style="margin-bottom: 1.5rem; line-height: 1.6;">
-      Yufei Wang co-leads the Method sub-team, focusing on methodological research and development.
+      Yufei has a background in mathematics and statistics. He is currently leading launch activities at Eli Lilly and provide statistical leadership for market access in oncology. He has over 10 years of experiences in late phase clinical development and market access in oncology, respiratory & metabolic disease, and vaccine. He is interested in causal inference, economic modelling and non-parametric statistics.
     </p>
     <p style="margin: 0;">
       <strong>Email:</strong> <a href="mailto:yufei.wang2@lilly.com">yufei.wang2@lilly.com</a>
