@@ -57,18 +57,6 @@ After obtaining the weights, a weighted survival analysis can be conducted. This
 - Baseline covariates in the numerator of the weighting model should also be included in the outcome model
 - Robust sandwich variance estimators can provide conservative confidence intervals, though bootstrap methods are recommended for target coverage probabilities
 
-## Method-specific topics (eg, re-censoring for RPSFT)
-
-*Content to be added*
-
-## Additional guidance or recommendations (may be added later)
-
-*Content to be added*
-
-## Sample codes
-
-*Content to be added*
-
 ## Advantages and Limitations 
 
 ### Advantages
